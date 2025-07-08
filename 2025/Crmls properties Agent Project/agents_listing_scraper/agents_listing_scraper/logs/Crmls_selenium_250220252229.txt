@@ -1,0 +1,36 @@
+[INIT] Script started at 25-02-2025 22:29:56
+Home page loaded successfully
+Login failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=133.0.6943.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7874D6EE5+28773]
+	(No symbol) [0x00007FF7874425D0]
+	(No symbol) [0x00007FF7872D8FAA]
+	(No symbol) [0x00007FF7872C53C1]
+	(No symbol) [0x00007FF7872C532C]
+	(No symbol) [0x00007FF7872C3A91]
+	(No symbol) [0x00007FF7872C47AF]
+	(No symbol) [0x00007FF7872DE3B1]
+	(No symbol) [0x00007FF7872DEEAA]
+	(No symbol) [0x00007FF7872E377C]
+	(No symbol) [0x00007FF7872E384F]
+	(No symbol) [0x00007FF78732EB40]
+	(No symbol) [0x00007FF78732F4BC]
+	(No symbol) [0x00007FF787382A27]
+	(No symbol) [0x00007FF78735728F]
+	(No symbol) [0x00007FF78737F6F3]
+	(No symbol) [0x00007FF787357023]
+	(No symbol) [0x00007FF78731FF5E]
+	(No symbol) [0x00007FF7873211E3]
+	GetHandleVerifier [0x00007FF78782422D+3490733]
+	GetHandleVerifier [0x00007FF78783BA13+3586963]
+	GetHandleVerifier [0x00007FF78783144D+3544525]
+	GetHandleVerifier [0x00007FF78759C9AA+838442]
+	(No symbol) [0x00007FF78744D01F]
+	(No symbol) [0x00007FF7874495E4]
+	(No symbol) [0x00007FF787449786]
+	(No symbol) [0x00007FF787438CB9]
+	BaseThreadInitThunk [0x00007FFE1FF17374+20]
+	RtlUserThreadStart [0x00007FFE20D7CC91+33]
+

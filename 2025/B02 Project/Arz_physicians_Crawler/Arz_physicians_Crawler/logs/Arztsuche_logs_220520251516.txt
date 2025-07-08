@@ -1,0 +1,25 @@
+[INIT] Script started
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 1067: Page.fill: value: expected string, got number
+[INFO] No records found for postcode 1067
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 1069: Page.fill: value: expected string, got number
+[INFO] No records found for postcode 1069
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 1097: Page.fill: value: expected string, got number
+[INFO] No records found for postcode 1097
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 1099: Page.fill: value: expected string, got number
+[INFO] No records found for postcode 1099
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 1108: Page.fill: value: expected string, got number
+[INFO] No records found for postcode 1108
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 1109: Page.fill: value: expected string, got number
+[INFO] No records found for postcode 1109
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 1127: Page.fill: value: expected string, got number
+[INFO] No records found for postcode 1127
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 1129: Page.fill: value: expected string, got number
+[INFO] No records found for postcode 1129

@@ -1,0 +1,14 @@
+[INIT] Script started at 25-02-2025 00:50:23
+Home page loaded successfully
+Login page loaded successfully
+Username 'Blake' found on the page and dashboard loaded
+Matrix element found
+Matrix element clicked successfully
+Switched to the new tab
+New tab page loaded successfully
+Residential page loaded successfully
+Found 'Try Our New Search' button
+Clicked 'Try Our New Search' button successfully
+Entered postal code and pressed Enter
+Cookies: {'AWSALBCORS': 'kCZzGDX0w6SvlXOjE6il5whwaDsHB+2zWOhw0sDF+tHL9ZMDrdfENHMYJtv7Br8S4RX31lwCDg7fRxDghcJyhbRR7FezLDw7f9IJXjE5SWgFuzVhyQKB4aCKTViD', 'AWSALB': 'kCZzGDX0w6SvlXOjE6il5whwaDsHB+2zWOhw0sDF+tHL9ZMDrdfENHMYJtv7Br8S4RX31lwCDg7fRxDghcJyhbRR7FezLDw7f9IJXjE5SWgFuzVhyQKB4aCKTViD', 'mp_3da8d56ab740ca12e1101ecfd9d90a54_mixpanel': '%7B%22distinct_id%22%3A%20%22U41280%22%2C%22%24device_id%22%3A%20%221953984ac653874-08610f12c59983-26011a51-144000-1953984ac653874%22%2C%22%24user_id%22%3A%20%22U41280%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fmatrix.crmls.org%2FMatrix%2FSearch%2FResidential%2FDetail%22%2C%22%24initial_referring_domain%22%3A%20%22matrix.crmls.org%22%2C%22appId%22%3A%20%22Matrix%22%2C%22resID%22%3A%20%221000058%22%2C%22AgentID%22%3A%20%22U41280%22%2C%22SecurityGroup%22%3A%20%22DB%20-%20Broker%22%7D', '__RequestVerificationToken_L01hdHJpeA2': 'dZP4XEFqIdTRU-eL2bs0340_h3um-ARTyObckRTEeNmstBXD8-sybM6OCBqBeS9A9PD_A_Dq1KWa8ceIvYgs_hp2BFc1', 'MatrixMachineID': '-2451222723184355174', 'MatrixLoginName': '', 'ASP.NET_SessionId': 's30vxzruwmhxo23i1si5wpi4', 'LoginSig': '472086 - s30vxzruwmhxo23i1si5wpi4 - GPRODCRMLSW793 - 11:51:46.305', 'MLSAuth': '948550ECE69CA89FDBB1D7C47651CF875F116E9085E61451372FDA712B263344148A8F1838B2739CD3FAC2D648E61A7AF7266D27B1662F3AE2E4CBDCB02A700A39FD3CABB58D1EEA5AB0383DC14971D146E4B52CDB6DB18F1CAA7DAC8AD5767825F23808FC2B313926C390071C55F9FD7E4B8A15', '_ga': 'GA1.1.1184528758.1740426637', '_ga_BL3ZVDRSSG': 'GS1.1.1740426637.1.0.1740426637.0.0.0'}
+Current URL in new tab: https://matrix.crmls.org/Matrix/s?c=H4sIAAAAAAAEAItWMjSzNFDSUTICYlMgI680JwedAEliE8dPKOEwjQyTDKllEk0IpUPLD62IKTUwMEyyQHdoLAAVUSf1YQEAAA))

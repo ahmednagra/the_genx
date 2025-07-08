@@ -1,0 +1,30 @@
+[INIT] Script started at 15-05-2025 09:48:59
+
+
+73/73 Post Codes left to Scrape
+
+Country :Wales | City :Wrexham | Postcode :LL13 8AA started scrape
+[INFO] Country: Wales | City: Wrexham | Postcode: LL13 8AA | No records found
+
+
+72/73 Post Codes left to Scrape
+
+Country :Wales | City :Swansea | Postcode :SA1 1AA started scrape
+[DEALERS FOUND] Country: Wales | City: Swansea | Postcode: SA1 1AA | → Total Dealers: 1827 across 153 pages
+[FINISHED] Data exported for all postcodes.
+============================================================
+
+--- Scraping Summary ---
+📌 Total Postcodes Processed: 73
+🏷️ Postcodes with Dealer Records: 72
+🚫 Postcodes with No Dealers Found: 1
+👥 Total Dealer found: 1827
+👥 Total Dealer Records Collected: 857
+❗ Empty Postcodes: LL13 8AA
+
+--- Script Execution Times ---
+🛑 Spider 'Autotrader' has finished running.
+📅 Start Time: 15-05-2025 09:48:59
+🕓 End Time: 15-05-2025 09:53:34
+🔚 Closing Reason: shutdown
+============================================================

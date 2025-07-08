@@ -1,0 +1,3 @@
+[2025-05-26 18:35:45] [INIT] Script started at 26-05-2025 18:35:45
+[2025-05-26 18:35:45] [ERROR] Failed to read seen URLs file: [Errno 2] No such file or directory: 'D:\\Professional Work\\The genx\\The-GenX\\2025\\kickstarter Projects Information Project\\kickstarterscraper\\kickstarterscraper\\output\\seen_urls.csv'
+[2025-05-26 18:35:45] [INFO] Total project URLs found in CSV: 245526

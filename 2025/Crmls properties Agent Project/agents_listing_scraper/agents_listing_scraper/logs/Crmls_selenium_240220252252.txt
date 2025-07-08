@@ -1,0 +1,33 @@
+[INIT] Script started at 24-02-2025 22:52:23
+Home page loaded successfully
+Login page loaded successfully
+Username 'Blake' found on the page and dashboard loaded
+Matrix element found
+Matrix element clicked successfully
+Switched to the new tab
+New tab page loaded successfully
+Residential page loaded successfully
+Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6CA376EE5+28773]
+	(No symbol) [0x00007FF6CA2E25D0]
+	(No symbol) [0x00007FF6CA178FAA]
+	(No symbol) [0x00007FF6CA1CF286]
+	(No symbol) [0x00007FF6CA1CF4BC]
+	(No symbol) [0x00007FF6CA222A27]
+	(No symbol) [0x00007FF6CA1F728F]
+	(No symbol) [0x00007FF6CA21F6F3]
+	(No symbol) [0x00007FF6CA1F7023]
+	(No symbol) [0x00007FF6CA1BFF5E]
+	(No symbol) [0x00007FF6CA1C11E3]
+	GetHandleVerifier [0x00007FF6CA6C422D+3490733]
+	GetHandleVerifier [0x00007FF6CA6DBA13+3586963]
+	GetHandleVerifier [0x00007FF6CA6D144D+3544525]
+	GetHandleVerifier [0x00007FF6CA43C9AA+838442]
+	(No symbol) [0x00007FF6CA2ED01F]
+	(No symbol) [0x00007FF6CA2E95E4]
+	(No symbol) [0x00007FF6CA2E9786]
+	(No symbol) [0x00007FF6CA2D8CB9]
+	BaseThreadInitThunk [0x00007FFE1FF17374+20]
+	RtlUserThreadStart [0x00007FFE20D7CC91+33]
+

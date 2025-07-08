@@ -1,0 +1,45 @@
+[INIT] Script started at 25-01-2025 01:00:21
+Total Previous Judgment Files Found: 0
+Processing Year: 2003 | Total Judgments Found: 1
+Processing Year: 2007 | Total Judgments Found: 410
+Processing Year: 2008 | Total Judgments Found: 400
+Processing Year: 2004 | Total Judgments Found: 31
+Processing Year: 2009 | Total Judgments Found: 544
+Processing Year: 2005 | Total Judgments Found: 378
+Processing Year: 2002 | Total Judgments Found: 0
+Processing Year: 2006 | Total Judgments Found: 356
+Processing Year: 2010 | Total Judgments Found: 514
+Processing Year: 2011 | Total Judgments Found: 525
+Processing Year: 2012 | Total Judgments Found: 565
+Processing Year: 2015 | Total Judgments Found: 1160
+Processing Year: 2013 | Total Judgments Found: 606
+Processing Year: 2018 | Total Judgments Found: 1217
+Processing Year: 2017 | Total Judgments Found: 1154
+Processing Year: 2016 | Total Judgments Found: 1147
+Failed to save PDF on first attempt: Year:2016 | Name:Doran -v- Bus Eireann/Irish Bus | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Doran -v- Bus Eireann/Irish Bus.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:FBD Insurance Public Limited Company -v- Samwari Limited t/a Munster Air Compressors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\FBD Insurance Public Limited Company -v- Samwari Limited t/a Munster Air Compressors.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Twentieth Century Fox Film Corporation & ors -v- Eircom Ltd t/a Eir & ors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2018\\Twentieth Century Fox Film Corporation & ors -v- Eircom Ltd t/a Eir & ors.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Danske Bank t/a National Irish Bank -v- Beggan & ors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Danske Bank t/a National Irish Bank -v- Beggan & ors.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:McKayed -v- Forbidden City Ltd t/a Translations.ie | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\McKayed -v- Forbidden City Ltd t/a Translations.ie.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Re: O'Callaghan deceased: Byrne applicant | Error: [Errno 22] Invalid argument: "judgments_downloads\\2016\\Re: O'Callaghan deceased: Byrne applicant.pdf"
+Failed to save PDF on first attempt: Year:2016 | Name:Emo Oil Ltd -v- Willowrock Ltd t/a McCormack Fuels | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Emo Oil Ltd -v- Willowrock Ltd t/a McCormack Fuels.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Dardis & anor -v- Bus Éireann / Irish Bus | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Dardis & anor -v- Bus Éireann / Irish Bus.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Meegan -v- Timesd Newspapers Limited t/a The Sunday Times | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Meegan -v- Timesd Newspapers Limited t/a The Sunday Times.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Reaney & ors -v- Interlink Ireland Limited (t/a D.P.D.) | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Reaney & ors -v- Interlink Ireland Limited (t/a D.P.D.).pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Brady & anor -v- Oliver Choiseul t/a Potato Services & ors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Brady & anor -v- Oliver Choiseul t/a Potato Services & ors.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Danske Bank A/S Danske Bank -v- Kirwan | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Danske Bank A/S Danske Bank -v- Kirwan.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Danske Bank A/S t/a Danske Bank -v- Miley | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Danske Bank A/S t/a Danske Bank -v- Miley.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Danske Bank A/S (trading as Danske Bank) -v- Scanlan | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Danske Bank A/S (trading as Danske Bank) -v- Scanlan.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Boehringer Ingelheim Pharma GmbH & CO KG -v- Norton (Waterford) Limited t/a Teva Pharmaceutical Ireland | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Boehringer Ingelheim Pharma GmbH & CO KG -v- Norton (Waterford) Limited t/a Teva Pharmaceutical Ireland.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Crowley -v- Allied Irish Banks PLC T/A AIB Credit Card Services | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Crowley -v- Allied Irish Banks PLC T/A AIB Credit Card Services.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Northern Bank Ltd t/a Danske Bank -v- Quinn | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Northern Bank Ltd t/a Danske Bank -v- Quinn.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Re: Estate of Courtney: Larkin applicant | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2016\\Re: Estate of Courtney: Larkin applicant.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Danske Bank A/S trading as Danske Bank -v- Coleman & anor | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Danske Bank A/S trading as Danske Bank -v- Coleman & anor.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:College Freight Limited t/a Target Express (in Liquidation) & Companies Acts | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\College Freight Limited t/a Target Express (in Liquidation) & Companies Acts.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Kelly -v- Lackabeg Limited t/a The Arc | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Kelly -v- Lackabeg Limited t/a The Arc.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Powerteam Electrical Services Limited t/a Omexom -v- Electricity Supply Board | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\Powerteam Electrical Services Limited t/a Omexom -v- Electricity Supply Board.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:McGarr -v- Dublin Bus/Bus Atha Cliath | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2016\\McGarr -v- Dublin Bus/Bus Atha Cliath.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Danske Bank A/S trading as Danske Bank -v- O'Shea | Error: [Errno 2] No such file or directory: "judgments_downloads\\2016\\Danske Bank A/S trading as Danske Bank -v- O'Shea.pdf"
+Failed to save PDF on first attempt: Year:2017 | Name:De Abreu -v- Findlater Hotels Ltd t/a The Castle Hotel | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2017\\De Abreu -v- Findlater Hotels Ltd t/a The Castle Hotel.pdf'
+Failed to save PDF on first attempt: Year:2017 | Name:S.F. -v- Director of Oberstown Childrens Detention Centre & ors; L.C. -v- Director of Oberstown Childrens Detention Centre & ors; T.G. -v- Director of Oberstown Childrens Detention Centre & ors; P.M.C.C -v- Director of Oberstown Childrens Detention Centre & ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2017\\S.F. -v- Director of Oberstown Childrens Detention Centre & ors; L.C. -v- Director of Oberstown Childrens Detention Centre & ors; T.G. -v- Director of Oberstown Childrens Detention Centre & ors; P.M.C.C -v- Director of Oberstown Childrens Detention Centre & ors.pdf'
+Failed to save PDF after sanitization: Year:2017 | Name:S.F. -v- Director of Oberstown Childrens Detention Centre & ors; L.C. -v- Director of Oberstown Childrens Detention Centre & ors; T.G. -v- Director of Oberstown Childrens Detention Centre & ors; P.M.C.C -v- Director of Oberstown Childrens Detention Centre & ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2017\\S.F. -v- Director of Oberstown Childrens Detention Centre & ors; L.C. -v- Director of Oberstown Childrens Detention Centre & ors; T.G. -v- Director of Oberstown Childrens Detention Centre & ors; P.M.C.C -v- Director of Oberstown Childrens Detention Centre & ors.pdf'

@@ -1,0 +1,32 @@
+[INIT] Script started
+[ERROR] Failed fetching browser data for 04347: Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://arztsuche.116117.de/
+Call log:
+  - navigating to "https://arztsuche.116117.de/", waiting until "load"
+
+[INFO] No records found for postcode 04347
+[ERROR] Failed fetching browser data for 24986: Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://arztsuche.116117.de/
+Call log:
+  - navigating to "https://arztsuche.116117.de/", waiting until "load"
+
+[INFO] No records found for postcode 24986
+[ERROR] Failed fetching browser data for 26605: Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://arztsuche.116117.de/
+Call log:
+  - navigating to "https://arztsuche.116117.de/", waiting until "load"
+
+[INFO] No records found for postcode 26605
+[ERROR] Failed fetching browser data for 88422: Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://arztsuche.116117.de/
+Call log:
+  - navigating to "https://arztsuche.116117.de/", waiting until "load"
+
+[INFO] No records found for postcode 88422
+[ERROR] Failed fetching browser data for 67468: Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://arztsuche.116117.de/
+Call log:
+  - navigating to "https://arztsuche.116117.de/", waiting until "load"
+
+[INFO] No records found for postcode 67468
+[SKIPPED] Invalid postcode '1477': Must be 5 digits. Skipping entry.
+[ERROR] Failed fetching browser data for 71254: Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://arztsuche.116117.de/
+Call log:
+  - navigating to "https://arztsuche.116117.de/", waiting until "load"
+
+[INFO] No records found for postcode 71254

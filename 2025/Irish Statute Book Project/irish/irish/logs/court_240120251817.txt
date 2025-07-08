@@ -1,0 +1,21 @@
+[INIT] Script started at 24-01-2025 18:17:17
+Total Previous Judgment Files Found: 0
+Processing Year: 2004 | Total Judgments Found: 1
+Processing Year: 2003 | Total Judgments Found: 0
+Processing Year: 2005 | Total Judgments Found: 32
+Processing Year: 2002 | Total Judgments Found: 0
+Processing Year: 2007 | Total Judgments Found: 766
+Processing Year: 2006 | Total Judgments Found: 410
+Processing Year: 2009 | Total Judgments Found: 1576
+Processing Year: 2008 | Total Judgments Found: 1176
+Processing Year: 2010 | Total Judgments Found: 2120
+Processing Year: 2012 | Total Judgments Found: 3159
+Processing Year: 2011 | Total Judgments Found: 2634
+Processing Year: 2015 | Total Judgments Found: 5062
+Processing Year: 2013 | Total Judgments Found: 3724
+Processing Year: 2014 | Total Judgments Found: 4330
+Processing Year: 2017 | Total Judgments Found: 7369
+Processing Year: 2016 | Total Judgments Found: 6222
+Processing Year: 2018 | Total Judgments Found: 8523
+Processing Year: 2020 | Total Judgments Found: 10949
+Processing Year: 2019 | Total Judgments Found: 9740

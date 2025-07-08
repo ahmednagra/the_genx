@@ -1,0 +1,4 @@
+Unable to log in using the undetected driver, a unique approach is required. 
+The script should use the default Chrome browser installed on the Windows operating system. Before running the script,
+ the username and password must be pasted into the input/creds.txt file. Additionally,
+ to avoid blocking issues, the script should utilize the default Chrome user profile.

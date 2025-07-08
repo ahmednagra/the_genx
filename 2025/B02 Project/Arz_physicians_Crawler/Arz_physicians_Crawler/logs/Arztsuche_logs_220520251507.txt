@@ -1,0 +1,5 @@
+[INIT] Script started
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 1067: Page.fill: value: expected string, got number
+[INFO] No records found for postcode 1067
+[COMPLETE] Script finished

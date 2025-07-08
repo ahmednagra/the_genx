@@ -1,0 +1,10 @@
+[INIT] Script started at 17-02-2025 22:59:34
+
+--- Scraping Summary ---
+Total Products Available on Website: 0
+Total Products Successfully Scraped: 0
+
+--- Script Execution Times ---
+Script Start Time: 17-02-2025 22:59:34
+Script End Time: 17-02-2025 23:01:04
+Reason for Closure: finished

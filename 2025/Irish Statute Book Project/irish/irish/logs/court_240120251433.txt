@@ -1,0 +1,50 @@
+[INIT] Script started at 24-01-2025 14:33:26
+Total Previous Judgment Files Found: 0
+Processing Year: 2004 | Total Judgments Found: 1
+Processing Year: 2006 | Total Judgments Found: 410
+Processing Year: 2002 | Total Judgments Found: 0
+Processing Year: 2003 | Total Judgments Found: 0
+Processing Year: 2005 | Total Judgments Found: 32
+Processing Year: 2008 | Total Judgments Found: 1176
+Processing Year: 2007 | Total Judgments Found: 766
+Processing Year: 2009 | Total Judgments Found: 1576
+Failed to save PDF: Year:2006 | Name:Muckley -v- Westlodge Hotel Limited t/a Westlodge Hotel  &  anor | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2006\\Muckley -v- Westlodge Hotel Limited t/a Westlodge Hotel  &  anor.pdf'
+Failed to save PDF: Year:2006 | Name:Carroll -v- Bus Atha Cliath/Dublin Bus | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2006\\Carroll -v- Bus Atha Cliath/Dublin Bus.pdf'
+Failed to save PDF: Year:2006 | Name:Tommy Hilfiger Europe Inc  &  anor -v- McGarry t/a Lifejacket  &  ors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2006\\Tommy Hilfiger Europe Inc  &  anor -v- McGarry t/a Lifejacket  &  ors.pdf'
+Failed to save PDF: Year:2009 | Name:AHP Manufacturing B.V. t/a Wyeth Medica Ireland -v- Director of Public Prosecutions  &  ors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2009\\AHP Manufacturing B.V. t/a Wyeth Medica Ireland -v- Director of Public Prosecutions  &  ors.pdf'
+Failed to save PDF: Year:2009 | Name:Clements  &  ors -v- Meagher  &  anor p/a Meagher Moynihan  &  ors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2009\\Clements  &  ors -v- Meagher  &  anor p/a Meagher Moynihan  &  ors.pdf'
+Failed to save PDF: Year:2009 | Name:Clarke p/a Ledwidge Solicitors -v- Stevens | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2009\\Clarke p/a Ledwidge Solicitors -v- Stevens.pdf'
+Failed to save PDF: Year:2009 | Name:Hickey  &  ors t/a Hickeys Pharmacy -v- Health Service Executive | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2009\\Hickey  &  ors t/a Hickeys Pharmacy -v- Health Service Executive.pdf'
+Failed to save PDF: Year:2009 | Name:ESL Consulting Ltd t/a VoIP Ireland -v- Verizon (Ireland) Ltd  &  anor | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2009\\ESL Consulting Ltd t/a VoIP Ireland -v- Verizon (Ireland) Ltd  &  anor.pdf'
+Failed to save PDF: Year:2009 | Name:Parkborough Limited t/a The Mortgage Advice Shop -v- Kelly  &  anor | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2009\\Parkborough Limited t/a The Mortgage Advice Shop -v- Kelly  &  anor.pdf'
+Failed to save PDF: Year:2008 | Name:Barrett t/a Corporate Recovery Services v Beglan  &  Anor | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2008\\Barrett t/a Corporate Recovery Services v Beglan  &  Anor.pdf'
+Failed to save PDF: Year:2008 | Name:Gallagher p/a Nora Gallagher  &  Company -v- Mahon | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2008\\Gallagher p/a Nora Gallagher  &  Company -v- Mahon.pdf'
+Failed to save PDF: Year:2008 | Name:BusEireann/Irish Bus v The Controller of Patents Designs and Trade Marks  &  Anor | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2008\\BusEireann/Irish Bus v The Controller of Patents Designs and Trade Marks  &  Anor.pdf'
+Failed to save PDF: Year:2008 | Name:Greencore Group Plc  &  anor t/a Greencore Sugar -v- Ireland  &  ors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2008\\Greencore Group Plc  &  anor t/a Greencore Sugar -v- Ireland  &  ors.pdf'
+Failed to save PDF: Year:2008 | Name:McMullen -v- Kennedy p/a Giles J Kennedy  &  Company solicitors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2008\\McMullen -v- Kennedy p/a Giles J Kennedy  &  Company solicitors.pdf'
+Failed to save PDF: Year:2007 | Name:Mulheir  &  Anor -v- Gannon p/a Claffey Gannon Solicitors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2007\\Mulheir  &  Anor -v- Gannon p/a Claffey Gannon Solicitors.pdf'
+Failed to save PDF: Year:2007 | Name:Nestorway Limited t/a Electrographic International -v- Ambaflex B.V. | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2007\\Nestorway Limited t/a Electrographic International -v- Ambaflex B.V..pdf'
+Failed to save PDF: Year:2008 | Name:Wicklow County Council -v- Forest Fencing Ltd t/a Abwood Homes  &  Anor | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2008\\Wicklow County Council -v- Forest Fencing Ltd t/a Abwood Homes  &  Anor.pdf'
+Failed to save PDF: Year:2008 | Name:Dovebid Netherlands bv -v- Whelan t/a Phelan Partnership  &  Anor | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2008\\Dovebid Netherlands bv -v- Whelan t/a Phelan Partnership  &  Anor.pdf'
+Failed to save PDF: Year:2009 | Name:S  &  R Motors (Donegal) Ltd -v- Moohan  &  anor t/a Bradley Construction | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2009\\S  &  R Motors (Donegal) Ltd -v- Moohan  &  anor t/a Bradley Construction.pdf'
+Failed to save PDF: Year:2007 | Name:Bank of Ireland Mortgage Bank -v- Coleman P/a Coleman  &  Co | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2007\\Bank of Ireland Mortgage Bank -v- Coleman P/a Coleman  &  Co.pdf'
+Failed to save PDF: Year:2007 | Name:Clayton  &  ors t/a U2 -v- Cashman | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2007\\Clayton  &  ors t/a U2 -v- Cashman.pdf'
+Failed to save PDF: Year:2009 | Name:Hickey  &  ors t/a Hickeys Pharmacy -v- Health Service Executive | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2009\\Hickey  &  ors t/a Hickeys Pharmacy -v- Health Service Executive.pdf'
+Failed to save PDF: Year:2008 | Name:Estuary Logistics and Distribution Company Ltd t/a L. S. Sales -v- Low Energy Solutions Ltd  &  anor | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2008\\Estuary Logistics and Distribution Company Ltd t/a L. S. Sales -v- Low Energy Solutions Ltd  &  anor.pdf'
+Failed to save PDF: Year:2008 | Name:"X" -v- Refugee Appeals Tribunal  &  Anor | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2008\\"X" -v- Refugee Appeals Tribunal  &  Anor.pdf'
+Failed to save PDF: Year:2007 | Name:Kelleher  &  anor -v- Bradley  &  anor p/a Malcolmson  &  Law Solicitors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2007\\Kelleher  &  anor -v- Bradley  &  anor p/a Malcolmson  &  Law Solicitors.pdf'
+Failed to save PDF: Year:2006 | Name:Ryan t/a James Ryan and Sons -v- McManus | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2006\\Ryan t/a James Ryan and Sons -v- McManus.pdf'
+Failed to save PDF: Year:2006 | Name:Scrollside Limited trading as "ZED FM" -v- Broadcasting Commission of Ireland | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2006\\Scrollside Limited trading as "ZED FM" -v- Broadcasting Commission of Ireland.pdf'
+Processing Year: 2010 | Total Judgments Found: 2120
+Processing Year: 2011 | Total Judgments Found: 2634
+Processing Year: 2012 | Total Judgments Found: 3159
+Processing Year: 2013 | Total Judgments Found: 3724
+Failed to save PDF: Year:2010 | Name:Neurendale Ltd t/a Panda Waste Services -v- Dublin City Council  &  Ors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2010\\Neurendale Ltd t/a Panda Waste Services -v- Dublin City Council  &  Ors.pdf'
+Failed to save PDF: Year:2013 | Name:Danske Bank A/S trading as National Irish Bank -v- Durkan New Homes  &  Ors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2013\\Danske Bank A/S trading as National Irish Bank -v- Durkan New Homes  &  Ors.pdf'
+Failed to save PDF: Year:2012 | Name:Burke -v- Independant Colleges Ltd t/a Independant Colleges | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2012\\Burke -v- Independant Colleges Ltd t/a Independant Colleges.pdf'
+Failed to save PDF: Year:2012 | Name:O'Connor -v- Nurendale Ltd t/a Panda Waste Services | Error: [Errno 2] No such file or directory: "judgments_downloads\\2012\\O'Connor -v- Nurendale Ltd t/a Panda Waste Services.pdf"
+Failed to save PDF: Year:2013 | Name:Forde -v- Central Parking System Ireland Ltd t/a Control Plus | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2013\\Forde -v- Central Parking System Ireland Ltd t/a Control Plus.pdf'
+Failed to save PDF: Year:2013 | Name:Danske Bank A/S t/a National Irish Bank -v- McFadden | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2013\\Danske Bank A/S t/a National Irish Bank -v- McFadden.pdf'
+Failed to save PDF: Year:2013 | Name:ACC Bank Plc -v- Johnston p/a Brian Johnston  &  Co Solicitors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2013\\ACC Bank Plc -v- Johnston p/a Brian Johnston  &  Co Solicitors.pdf'
+Failed to save PDF: Year:2013 | Name:Danish Polish Telecommunication Group I/S -v- Telekomunikacja Polska SA | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2013\\Danish Polish Telecommunication Group I/S -v- Telekomunikacja Polska SA.pdf'
+Failed to save PDF: Year:2013 | Name:Danske Bank t/a National Irish Bank -v- Feeley  &  anor | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2013\\Danske Bank t/a National Irish Bank -v- Feeley  &  anor.pdf'

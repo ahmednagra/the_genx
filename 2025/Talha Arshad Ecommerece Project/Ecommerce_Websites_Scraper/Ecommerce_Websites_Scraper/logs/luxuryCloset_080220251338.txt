@@ -1,0 +1,5 @@
+[INIT] Script started at 08-02-2025 13:38:31
+Category: Women, SHOES, Women Boots Has Total records: 9411
+Category: Women, CLOTHING, All Clothing > Has Total records: 59658
+Category: Women, BAGS, All Bags > Has Total records: 143964
+Category: Women, ACCESSORIES, Women Belts Has Total records: 4653

@@ -1,0 +1,15 @@
+[INIT] Script started at 25-02-2025 00:03:13
+Home page loaded successfully
+Login page loaded successfully
+Username 'Blake' found on the page and dashboard loaded
+Matrix element found
+Matrix element clicked successfully
+Switched to the new tab
+New tab page loaded successfully
+Residential page loaded successfully
+Found 'Try Our New Search' button
+Clicked 'Try Our New Search' button successfully
+Entered postal code and pressed Enter
+No POST request captured after postal code entry
+Cookies: {'AWSALBCORS': 'QNxbLYHjtP6+ra1yzC1nriuHPts/XpgzOf8gTdiVTG9MsrPQbK2+H2SseMelkXQ3FMz6Pj5xXP/tMLPwY6aZ4Jn0gSMFXEZQsGGTHEuOEx6pchtfkyVTQq/bA9Dt', 'AWSALB': 'QNxbLYHjtP6+ra1yzC1nriuHPts/XpgzOf8gTdiVTG9MsrPQbK2+H2SseMelkXQ3FMz6Pj5xXP/tMLPwY6aZ4Jn0gSMFXEZQsGGTHEuOEx6pchtfkyVTQq/bA9Dt', 'mp_3da8d56ab740ca12e1101ecfd9d90a54_mixpanel': '%7B%22distinct_id%22%3A%20%22U41280%22%2C%22%24device_id%22%3A%20%22195395bd4f24e0f-0b094998113206-26011a51-144000-195395bd4f24e0f%22%2C%22%24user_id%22%3A%20%22U41280%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fmatrix.crmls.org%2FMatrix%2FSearch%2FResidential%2FDetail%22%2C%22%24initial_referring_domain%22%3A%20%22matrix.crmls.org%22%2C%22appId%22%3A%20%22Matrix%22%2C%22resID%22%3A%20%221000058%22%2C%22AgentID%22%3A%20%22U41280%22%2C%22SecurityGroup%22%3A%20%22DB%20-%20Broker%22%7D', '__RequestVerificationToken_L01hdHJpeA2': 'xHcF1rQFlr2vWyZX5OtUQg0DJwx_3OT9U2BhV2nVLt9al2bUdcFOO5IYmyigftD4JS0HKvw3vSysd9-IbEprZgkNb9c1', 'MatrixMachineID': '-6120016494062641826', 'MatrixLoginName': '', 'ASP.NET_SessionId': '0lgv5uvnlsyk4k5etqvy3f1q', 'LoginSig': '472086 - 0lgv5uvnlsyk4k5etqvy3f1q - GPRODCRMLSW8E3 - 11:06:14.286', 'MLSAuth': '6FC2BE27F5752F5B965D367310DCFDBF3EDC1EF88D21FE9A5C21E336E85A938A3789793E1EA755A685E9CD1B712AE1F081C750A40626A746759DBB024135FB6EA0E38D2372105E9A340BF750CD6F18B7983B1C2BBE6F7A41D0EBE9BF8C43FC8403AB258A607D062293FD74B3D5BE4B906787342E', '_ga': 'GA1.1.647071234.1740423834', '_ga_BL3ZVDRSSG': 'GS1.1.1740423834.1.0.1740423834.0.0.0'}
+Current URL in new tab: https://matrix.crmls.org/Matrix/s?c=H4sIAAAAAAAEAItWMjQxMlXSUTICYlMDJZ280pwcdAIkiU0cP6GEwzQyTDKklkk0IZT0D207NNkR3Y2xAGkmxtpcAQAA

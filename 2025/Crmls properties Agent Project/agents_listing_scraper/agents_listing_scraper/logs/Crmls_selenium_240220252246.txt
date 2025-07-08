@@ -1,0 +1,12 @@
+[INIT] Script started at 24-02-2025 22:46:44
+Home page loaded successfully
+Login page loaded successfully
+Username 'Blake' found on the page and dashboard loaded
+Matrix element found
+Matrix element clicked successfully
+Switched to the new tab
+New tab page loaded successfully
+Residential page loaded successfully
+Found 'Try Our New Search' button
+Clicked 'Try Our New Search' button successfully
+Current URL in new tab: https://matrix.crmls.org/Matrix/s?c=H4sIAAAAAAAEAItWsjC1sFTSySvNydFRMjWAstAIJSPs4vgJJRymkWGSIbVMooVjlQ6vPDwzptTAwMDYFN2QWAD4fEGiYQEAAA))

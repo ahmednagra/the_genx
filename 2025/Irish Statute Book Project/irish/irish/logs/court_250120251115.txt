@@ -1,0 +1,3 @@
+[INIT] Script started at 25-01-2025 11:15:23
+Total Previous Judgment Files Found: 4288
+Processing Year: 2017 | Total Judgments Found: 1154

@@ -1,0 +1,6 @@
+[INIT] Script started at 04-03-2025 21:45:27
+[LOGIN] Login page loaded successfully
+[LOGIN] Clicked 'Continue' button
+[LOGIN] Clicked 'Login' button
+[LOGIN] Login successfully
+[SCRAPY] Scrapy started parsing the page

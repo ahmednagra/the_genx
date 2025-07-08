@@ -1,0 +1,2 @@
+[scrapy]
+settings = Ecommerce_Websites_Scraper.settings

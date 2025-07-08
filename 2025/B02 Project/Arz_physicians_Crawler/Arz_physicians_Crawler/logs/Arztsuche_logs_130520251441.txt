@@ -1,0 +1,68 @@
+[INIT] Script started
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 6507: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator(".option-item") to be visible
+
+[INFO] No records found for postcode 6507
+[INFO] Accepted cookies.
+[INFO] Saved 100 records for postcode 6386
+[INFO] Accepted cookies.
+[INFO] Saved 100 records for postcode 61381
+[INFO] Accepted cookies.
+[INFO] Saved 100 records for postcode 25764
+[INFO] Accepted cookies.
+[INFO] Saved 99 records for postcode 24799
+[INFO] Accepted cookies.
+[INFO] Saved 100 records for postcode 88045
+[INFO] Accepted cookies.
+[INFO] Saved 16 records for postcode 88046
+[INFO] Accepted cookies.
+[INFO] Saved 77 records for postcode 88048
+[INFO] Accepted cookies.
+[INFO] Saved 100 records for postcode 23936
+[INFO] Accepted cookies.
+[INFO] Saved 99 records for postcode 3130
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 15754: Timeout 60000ms exceeded while waiting for event "response"
+[INFO] No records found for postcode 15754
+[SKIP] Postcode 16259 already processed.
+[INFO] Accepted cookies.
+[INFO] Saved 100 records for postcode 17337
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 18246: Timeout 60000ms exceeded while waiting for event "response"
+[INFO] No records found for postcode 18246
+[INFO] Accepted cookies.
+[INFO] Saved 100 records for postcode 95460
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 98749: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator(".option-item") to be visible
+
+[INFO] No records found for postcode 98749
+[INFO] Accepted cookies.
+[INFO] No records found for postcode 24799
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 25718: Timeout 60000ms exceeded while waiting for event "response"
+[INFO] No records found for postcode 25718
+[SKIP] Postcode 99713 already processed.
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 21521: Timeout 60000ms exceeded while waiting for event "response"
+[INFO] No records found for postcode 21521
+[INFO] Accepted cookies.
+[INFO] Saved 100 records for postcode 19374
+[INFO] Accepted cookies.
+[INFO] Saved 100 records for postcode 25840
+[INFO] Accepted cookies.
+[INFO] Saved 100 records for postcode 16306
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 16515: Timeout 60000ms exceeded while waiting for event "response"
+[INFO] No records found for postcode 16515
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 66299: Timeout 60000ms exceeded while waiting for event "response"
+[INFO] No records found for postcode 66299
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 99735: Timeout 60000ms exceeded while waiting for event "response"
+[INFO] No records found for postcode 99735
+[SKIP] Postcode 16247 already processed.
+[INFO] Accepted cookies.

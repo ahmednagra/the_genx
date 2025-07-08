@@ -1,0 +1,32 @@
+[INIT] Script started at 27-02-2025 21:59:10
+Home page loaded successfully
+Login page loaded successfully
+Login failed: Message: stale element reference: stale element not found
+  (Session info: chrome=133.0.6943.141); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF78B71C6A5+28789]
+	(No symbol) [0x00007FF78B685B20]
+	(No symbol) [0x00007FF78B518F9A]
+	(No symbol) [0x00007FF78B52EDA4]
+	(No symbol) [0x00007FF78B52D873]
+	(No symbol) [0x00007FF78B5216D1]
+	(No symbol) [0x00007FF78B521831]
+	(No symbol) [0x00007FF78B51F402]
+	(No symbol) [0x00007FF78B523AB1]
+	(No symbol) [0x00007FF78B5C0B42]
+	(No symbol) [0x00007FF78B59732A]
+	(No symbol) [0x00007FF78B5BF7E3]
+	(No symbol) [0x00007FF78B597103]
+	(No symbol) [0x00007FF78B55FFC0]
+	(No symbol) [0x00007FF78B561273]
+	GetHandleVerifier [0x00007FF78BA61AED+3458237]
+	GetHandleVerifier [0x00007FF78BA7829C+3550316]
+	GetHandleVerifier [0x00007FF78BA6DB9D+3507565]
+	GetHandleVerifier [0x00007FF78B7E2C6A+841274]
+	(No symbol) [0x00007FF78B6909EF]
+	(No symbol) [0x00007FF78B68CB34]
+	(No symbol) [0x00007FF78B68CCD6]
+	(No symbol) [0x00007FF78B67C119]
+	BaseThreadInitThunk [0x00007FFF9DC47374+20]
+	RtlUserThreadStart [0x00007FFF9F69CC91+33]
+

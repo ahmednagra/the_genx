@@ -1,0 +1,40 @@
+[INIT] Script started at 25-01-2025 11:07:40
+Total Previous Judgment Files Found: 4210
+Processing Year: 2003 | Total Judgments Found: 1
+Processing Year: 2004 | Total Judgments Found: 31
+Processing Year: 2002 | Total Judgments Found: 0
+Processing Year: 2009 | Total Judgments Found: 544
+Processing Year: 2006 | Total Judgments Found: 356
+Processing Year: 2005 | Total Judgments Found: 378
+Processing Year: 2010 | Total Judgments Found: 514
+Processing Year: 2007 | Total Judgments Found: 410
+Processing Year: 2008 | Total Judgments Found: 400
+Processing Year: 2012 | Total Judgments Found: 565
+Processing Year: 2013 | Total Judgments Found: 606
+Processing Year: 2011 | Total Judgments Found: 525
+Processing Year: 2014 | Total Judgments Found: 732
+Processing Year: 2015 | Total Judgments Found: 1160
+Processing Year: 2016 | Total Judgments Found: 1147
+Processing Year: 2018 | Total Judgments Found: 1217
+Processing Year: 2019 | Total Judgments Found: 1209
+Processing Year: 2017 | Total Judgments Found: 1154
+Failed to save PDF on first attempt: Year:2010 | Name:Re: Drumm (a Bankrupt): Dwyer, applicant | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2010\\Re: Drumm (a Bankrupt): Dwyer, applicant.pdf'
+Failed to save PDF on first attempt: Year:2007 | Name:"X" -v- Refugee Appeals Tribunal & Anor | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2007\\"X" -v- Refugee Appeals Tribunal & Anor.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Re: Sean Dunne (a bankrupt) -v- Yesreb Holding & anor: Celtic Trustees -v- Sean Dunne (a bankrupt) | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Re: Sean Dunne (a bankrupt) -v- Yesreb Holding & anor: Celtic Trustees -v- Sean Dunne (a bankrupt).pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Hanrahan -v- Gladney & Anor
+Hanrahan -v- The Minister for Agriculture Food and Marine & Ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Hanrahan -v- Gladney & Anor\nHanrahan -v- The Minister for Agriculture Food and Marine & Ors.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Allied Irish Banks & Ors -v- Gibney & Anor
+Allied Irish Banks & Anor -v- Gibney & Ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Allied Irish Banks & Ors -v- Gibney & Anor\nAllied Irish Banks & Anor -v- Gibney & Ors.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Rughnoonauth & Anor -v- The Minister for Justice and Equality
+Omrawoo -v- The Minister for Justice and Equality | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Rughnoonauth & Anor -v- The Minister for Justice and Equality\nOmrawoo -v- The Minister for Justice and Equality.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:S.G.B. Finance S.A. -v- The Owners and all Persons Claiming an Interest in the M.V. "Connoisseur" | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\S.G.B. Finance S.A. -v- The Owners and all Persons Claiming an Interest in the M.V. "Connoisseur".pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Re: O'Callaghan deceased: Byrne applicant | Error: [Errno 22] Invalid argument: "judgments_downloads\\2016\\Re: O'Callaghan deceased: Byrne applicant.pdf"
+Failed to save PDF on first attempt: Year:2018 | Name:Stein -v- Scallon & Anor
+Gorrell -v- Scallon & Anor | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Stein -v- Scallon & Anor\nGorrell -v- Scallon & Anor.pdf'
+Processing Year: 2021 | Total Judgments Found: 1166
+Processing Year: 2022 | Total Judgments Found: 1048
+Processing Year: 2024 | Total Judgments Found: 1003
+Processing Year: 2020 | Total Judgments Found: 1041
+Processing Year: 2023 | Total Judgments Found: 1062
+Failed to save PDF on first attempt: Year:2009 | Name:Re: Walsh Western Computer Services Limited: Meehan -v- Walsh Western Holdings Limited & anor | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2009\\Re: Walsh Western Computer Services Limited: Meehan -v- Walsh Western Holdings Limited & anor.pdf'
+Processing Year: 2025 | Total Judgments Found: 35

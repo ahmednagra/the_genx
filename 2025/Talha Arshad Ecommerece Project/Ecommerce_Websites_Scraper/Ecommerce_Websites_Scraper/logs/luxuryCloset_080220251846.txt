@@ -1,0 +1,5 @@
+[INIT] Script started at 08-02-2025 18:46:19
+Category: Women, CLOTHING, Jeans & Denim Has Total records: 2083
+Category: Women, ACCESSORIES, Women Jewelry Has Total records: 13155
+Category: Women, CLOTHING, Dresses Has Total records: 18707
+Category: Women, CLOTHING, Pants Has Total records: 4762

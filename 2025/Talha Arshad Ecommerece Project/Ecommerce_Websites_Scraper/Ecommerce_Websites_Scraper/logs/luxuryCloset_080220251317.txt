@@ -1,0 +1,4 @@
+[INIT] Script started at 08-02-2025 13:17:06
+Category: Women, CLOTHING, Suits Has Total records: 1029
+Category: Women, FINE JEWELRY, All Fine Jewelry > Has Total records: 9287
+Category: Women, SHOES, Women Boots Has Total records: 9409

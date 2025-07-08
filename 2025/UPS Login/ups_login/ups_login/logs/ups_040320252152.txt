@@ -1,0 +1,27 @@
+[INIT] Script started at 04-03-2025 21:52:55
+[LOGIN] Login page loaded successfully
+[LOGIN ERROR] Message: 
+Stacktrace:
+	GetHandleVerifier [0x00480B43+25139]
+	(No symbol) [0x004113F4]
+	(No symbol) [0x002F04E3]
+	(No symbol) [0x003383D7]
+	(No symbol) [0x0033872B]
+	(No symbol) [0x00381002]
+	(No symbol) [0x0035D014]
+	(No symbol) [0x0037E778]
+	(No symbol) [0x0035CDC6]
+	(No symbol) [0x0032BDE9]
+	(No symbol) [0x0032D124]
+	GetHandleVerifier [0x00784373+3185251]
+	GetHandleVerifier [0x007A291A+3309578]
+	GetHandleVerifier [0x0079CF42+3286578]
+	GetHandleVerifier [0x00517AE0+643536]
+	(No symbol) [0x0041A20D]
+	(No symbol) [0x004170B8]
+	(No symbol) [0x00417257]
+	(No symbol) [0x00409E00]
+	BaseThreadInitThunk [0x767AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770D82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x770D827E+238]
+

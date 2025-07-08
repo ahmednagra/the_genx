@@ -1,0 +1,447 @@
+[INIT] Script started at 25-02-2025 00:10:15
+Home page loaded successfully
+Login page loaded successfully
+Username 'Blake' found on the page and dashboard loaded
+Matrix element found
+Matrix element clicked successfully
+Switched to the new tab
+New tab page loaded successfully
+Residential page loaded successfully
+Found 'Try Our New Search' button
+Clicked 'Try Our New Search' button successfully
+Entered postal code and pressed Enter
+POST request URL: https://matrix.crmls.org/Matrix/s/Update?c=H4sIAAAAAAAEAItWMjOwMFHSySvNydFRMjWAstAIJSPs4vgJJRymkWGSIbVMogmhFBxTamBgaHF4Wiy6O2MBGXtflmEBAAA)
+POST request headers: content-length: 10816
+sec-ch-ua-platform: "Windows"
+x-requested-with: XMLHttpRequest
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+accept: application/json, text/javascript, */*; q=0.01
+sec-ch-ua: "Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"
+content-type: multipart/form-data; boundary=----WebKitFormBoundaryZbZ337JBJmcfOfW9
+sec-ch-ua-mobile: ?0
+origin: https://matrix.crmls.org
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://matrix.crmls.org/Matrix/s?c=H4sIAAAAAAAEAItWMjOwMFHSySvNydFRMjWAstAIJSPs4vgJJRymkWGSIbVMooVjlQ4vPbT20N4UdANiAVsF7uldAQAA
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=1, i
+cookie: _ga_BL3ZVDRSSG=GS1.1.1740424256.1.0.1740424256.0.0.0; _ga=GA1.1.492207215.1740424257; ASP.NET_SessionId=14pk2fa44vbqvcg2xdk3s0l0; LoginSig=472086 - 14pk2fa44vbqvcg2xdk3s0l0 - GPRODCRMLSW0E1 - 11:13:16.439; MLSAuth=75BE65134DE1A16E19054B89D83997A4EE09BD1F9C1626DAE05128C65E34A5992C1E97365D4FF0EAC7BDC9ECD6728548AC59C6A86D6ED3776A02E676A8360375274FF1FB8917A24EEDF4C4CE300046617105AF261DD2C07485AD23212BDEC536CEAAEFA71140C5D91DB9B7FF8DAD6878B17522ED; MatrixLoginName=; MatrixMachineID=8526371532740178631; __RequestVerificationToken_L01hdHJpeA2=Zsgm1YZxqQFXvuUJBAnhZZD7qpIV0zulhNoWYwFKTZFYRK6mj1SXCrdYAHy6XA26kPThWYitgtOS9uvSf8U2Ty2FXM01; mp_3da8d56ab740ca12e1101ecfd9d90a54_mixpanel=%7B%22distinct_id%22%3A%20%22U41280%22%2C%22%24device_id%22%3A%20%221953961ee804362-0c8816e1b01748-26011a51-144000-1953961ee814363%22%2C%22%24user_id%22%3A%20%22U41280%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fmatrix.crmls.org%2FMatrix%2FSearch%2FResidential%2FDetail%22%2C%22%24initial_referring_domain%22%3A%20%22matrix.crmls.org%22%2C%22appId%22%3A%20%22Matrix%22%2C%22resID%22%3A%20%221000058%22%2C%22AgentID%22%3A%20%22U41280%22%2C%22SecurityGroup%22%3A%20%22DB%20-%20Broker%22%7D; AWSALB=AaqnLezyaQWIyjTa4a2T8/6LPCoPn+TT9AMt0yDUvXCR5AGSXtGLtiiJVXoDpHkpgMh5f3SNoapHqR2lphVQim61twv2HTVa4bOPylbcwOQ8W823F+SH5m8R+fjo; AWSALBCORS=AaqnLezyaQWIyjTa4a2T8/6LPCoPn+TT9AMt0yDUvXCR5AGSXtGLtiiJVXoDpHkpgMh5f3SNoapHqR2lphVQim61twv2HTVa4bOPylbcwOQ8W823F+SH5m8R+fjo
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9--
+
+POST request payload: ------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="__RequestVerificationToken"
+
+1oxLINJ6xt7WVeteFHOiOZJB13pJ0uSbLe_2PsWnDeF73dmhaG0PAOEZJOqGwQu31mzKU56BiDG99IqHvzJQC-QhOm81
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="responsiveSearch.SearchFormID"
+
+2
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="IsValid"
+
+true
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl3_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="FmFm2_Ctrl3_25656_Ctrl3_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="FmFm2_Ctrl3_6140_Ctrl3_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="FmFm2_Ctrl3_6146_Ctrl3_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="FmFm2_Ctrl3_6144_Ctrl3_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="FmFm2_Ctrl3_6145_Ctrl3_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="FmFm2_Ctrl3_6148_Ctrl3_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="FmFm2_Ctrl3_6142_Ctrl3_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="FmFm2_Ctrl3_6141_Ctrl3_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="FmFm2_Ctrl3_6147_Ctrl3_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl4_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl4_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl19_TextBox"
+
+94501
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl9_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl9_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl10_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl10_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl11_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl11_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl185_DictionaryLookup"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl13_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Min_Fm2_Ctrl13_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Max_Fm2_Ctrl13_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Combined_Fm2_Ctrl13_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl15_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Min_Fm2_Ctrl15_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Max_Fm2_Ctrl15_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Combined_Fm2_Ctrl15_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl22_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Min_Fm2_Ctrl22_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Max_Fm2_Ctrl22_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Combined_Fm2_Ctrl22_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl16_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Min_Fm2_Ctrl16_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Max_Fm2_Ctrl16_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Combined_Fm2_Ctrl16_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl25_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Min_Fm2_Ctrl25_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Max_Fm2_Ctrl25_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Combined_Fm2_Ctrl25_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl18_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Min_Fm2_Ctrl18_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Max_Fm2_Ctrl18_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Combined_Fm2_Ctrl18_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl17_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Min_Fm2_Ctrl17_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Max_Fm2_Ctrl17_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Combined_Fm2_Ctrl17_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl135_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl5_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl23_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl6_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl6_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl4119_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl4120_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl26_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Min_Fm2_Ctrl26_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Max_Fm2_Ctrl26_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Combined_Fm2_Ctrl26_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl27_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl27_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl29_TextBox"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl30_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl30_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl28_TextBox"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl42_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl45_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl44_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl43_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl47_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Min_Fm2_Ctrl47_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Max_Fm2_Ctrl47_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Combined_Fm2_Ctrl47_TB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl48_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl48_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl52_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl52_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl1547_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl1547_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl54_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl54_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl35_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl35_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl36_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl36_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl37_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl37_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl39_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl39_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl57_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl57_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl62_LB_OP"
+
+Or
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="Fm2_Ctrl62_LB"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="mapshapes"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="mapbounds"
+
+34.95997443182619,-127.518310734375,39.8778726320954,-112.335205265625
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="clearCheckedItems"
+
+true
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="isQuickView"
+
+false
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="displayID"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9
+Content-Disposition: form-data; name="fullDisplayID"
+
+
+------WebKitFormBoundaryZbZ337JBJmcfOfW9--
+
+Cookies: {'AWSALBCORS': 'rPLtpGGlXL+aek10XoiC1pEgP+8S6S00Uw2v6ENuTcL1Nhj6xhIDBM4XX6fBXovvk2kVjLq7+RGGEjU7tTWiVBW2zSWfbfW5FA7vQ5nyMBU6HMfs+nr396cIM9GU', 'AWSALB': 'rPLtpGGlXL+aek10XoiC1pEgP+8S6S00Uw2v6ENuTcL1Nhj6xhIDBM4XX6fBXovvk2kVjLq7+RGGEjU7tTWiVBW2zSWfbfW5FA7vQ5nyMBU6HMfs+nr396cIM9GU', 'mp_3da8d56ab740ca12e1101ecfd9d90a54_mixpanel': '%7B%22distinct_id%22%3A%20%22U41280%22%2C%22%24device_id%22%3A%20%221953961ee804362-0c8816e1b01748-26011a51-144000-1953961ee814363%22%2C%22%24user_id%22%3A%20%22U41280%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fmatrix.crmls.org%2FMatrix%2FSearch%2FResidential%2FDetail%22%2C%22%24initial_referring_domain%22%3A%20%22matrix.crmls.org%22%2C%22appId%22%3A%20%22Matrix%22%2C%22resID%22%3A%20%221000058%22%2C%22AgentID%22%3A%20%22U41280%22%2C%22SecurityGroup%22%3A%20%22DB%20-%20Broker%22%7D', '__RequestVerificationToken_L01hdHJpeA2': 'Zsgm1YZxqQFXvuUJBAnhZZD7qpIV0zulhNoWYwFKTZFYRK6mj1SXCrdYAHy6XA26kPThWYitgtOS9uvSf8U2Ty2FXM01', 'MatrixMachineID': '8526371532740178631', 'MatrixLoginName': '', 'ASP.NET_SessionId': '14pk2fa44vbqvcg2xdk3s0l0', 'LoginSig': '472086 - 14pk2fa44vbqvcg2xdk3s0l0 - GPRODCRMLSW0E1 - 11:13:16.439', 'MLSAuth': '75BE65134DE1A16E19054B89D83997A4EE09BD1F9C1626DAE05128C65E34A5992C1E97365D4FF0EAC7BDC9ECD6728548AC59C6A86D6ED3776A02E676A8360375274FF1FB8917A24EEDF4C4CE300046617105AF261DD2C07485AD23212BDEC536CEAAEFA71140C5D91DB9B7FF8DAD6878B17522ED', '_ga': 'GA1.1.492207215.1740424257', '_ga_BL3ZVDRSSG': 'GS1.1.1740424256.1.0.1740424256.0.0.0'}
+Current URL in new tab: https://matrix.crmls.org/Matrix/s?c=H4sIAAAAAAAEAItWMjOwMFHSUTICYlMDJZ280pwcdAIkiU0cP6GEwzQyTDKklkk0IZQObbI5NPnQTHRHxgIAGG(jG10BAAA)

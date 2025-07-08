@@ -1,0 +1,153 @@
+[INIT] Script started at 25-01-2025 11:17:43
+Total Previous Judgment Files Found: 4300
+Processing Year: 2004 | Total Judgments Found: 31
+Processing Year: 2007 | Total Judgments Found: 410
+Processing Year: 2002 | Total Judgments Found: 0
+Processing Year: 2003 | Total Judgments Found: 1
+Processing Year: 2006 | Total Judgments Found: 356
+Processing Year: 2008 | Total Judgments Found: 400
+Processing Year: 2009 | Total Judgments Found: 544
+Processing Year: 2010 | Total Judgments Found: 514
+Processing Year: 2011 | Total Judgments Found: 525
+Processing Year: 2012 | Total Judgments Found: 565
+Processing Year: 2018 | Total Judgments Found: 1217
+Processing Year: 2017 | Total Judgments Found: 1154
+Processing Year: 2016 | Total Judgments Found: 1147
+Processing Year: 2015 | Total Judgments Found: 1160
+Processing Year: 2013 | Total Judgments Found: 606
+Processing Year: 2005 | Total Judgments Found: 378
+Processing Year: 2014 | Total Judgments Found: 732
+Failed to save PDF on first attempt: Year:2005 | Name:Scrollside Limited trading as "ZED FM" -v- Broadcasting Commission of Ireland | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2005\\Scrollside Limited trading as "ZED FM" -v- Broadcasting Commission of Ireland.pdf'
+Failed to save PDF on first attempt: Year:2013 | Name:Re: National Asset Management Act 2009: Ronan & ors - Taite applicant | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2013\\Re: National Asset Management Act 2009: Ronan & ors - Taite applicant.pdf'
+Failed to save PDF on first attempt: Year:2015 | Name:Re: Fitzpatrick: Malone applicant | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2015\\Re: Fitzpatrick: Malone applicant.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Coyle -v- Gray
+Gray -v- Bank of Ireland Mortgage Bank & Ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Coyle -v- Gray\nGray -v- Bank of Ireland Mortgage Bank & Ors.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:S.A.S -v- The Minister for Justice, Equality & Law Reform
+A.A.S -v- The Minister for Justice, Equality & Law Reform | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\S.A.S -v- The Minister for Justice, Equality & Law Reform\nA.A.S -v- The Minister for Justice, Equality & Law Reform.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:A.C. -v- Cork University Hospital & Ors
+A.C -v- Clare & Ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\A.C. -v- Cork University Hospital & Ors\nA.C -v- Clare & Ors.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Re: Estate of Hannon: Browne applicant | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Re: Estate of Hannon: Browne applicant.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:The Governor and Company of The Bank of Ireland -v- Flynn
+Flynn -v- Murray & Ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\The Governor and Company of The Bank of Ireland -v- Flynn\nFlynn -v- Murray & Ors.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Re: Lobar Limited & Companies Act: Lobar Limited -v- Gladney | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Re: Lobar Limited & Companies Act: Lobar Limited -v- Gladney.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Allied Irish Banks & Ors -v- Gibney & Anor
+Allied Irish Banks & Anor -v- Gibney & Ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Allied Irish Banks & Ors -v- Gibney & Anor\nAllied Irish Banks & Anor -v- Gibney & Ors.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Agha (a minor) & ors -v- Minister for Social Protection & ors
+Osinuga (a minor) & anor -v- Minister for Social Protection & ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Agha (a minor) & ors -v- Minister for Social Protection & ors\nOsinuga (a minor) & anor -v- Minister for Social Protection & ors.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Re: Mouldpro International Limited & Companies Acts: Farrell -v- Plastronix Investments Limited | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Re: Mouldpro International Limited & Companies Acts: Farrell -v- Plastronix Investments Limited.pdf'
+Failed to save PDF on first attempt: Year:2017 | Name:Gilchrist -v- Sunday Newspapers Limited & ors
+Rogers -v- Sunday Newspapers Limited & ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2017\\Gilchrist -v- Sunday Newspapers Limited & ors\nRogers -v- Sunday Newspapers Limited & ors.pdf'
+Failed to save PDF on first attempt: Year:2017 | Name:Gilchrist -v- Sunday Newspapers LImited & ors
+Rogers -v- Sunday Newspapers Limited & ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2017\\Gilchrist -v- Sunday Newspapers LImited & ors\nRogers -v- Sunday Newspapers Limited & ors.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Re: Star Elm Frames Limited & Companies Act: Fitzpatrick -v- Gladney | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Re: Star Elm Frames Limited & Companies Act: Fitzpatrick -v- Gladney.pdf'
+Failed to save PDF on first attempt: Year:2017 | Name:Re: Star Elm Frames Limited & Companies Act 2014: Fitzpatrick -v- Gladney | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2017\\Re: Star Elm Frames Limited & Companies Act 2014: Fitzpatrick -v- Gladney.pdf'
+Failed to save PDF on first attempt: Year:2017 | Name:Re: Keelgrove Properties Limited (In Receivership) & Companies Acts: Cunningham & Anor -v- Bank of Scotland Plc & ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2017\\Re: Keelgrove Properties Limited (In Receivership) & Companies Acts: Cunningham & Anor -v- Bank of Scotland Plc & ors.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:S.G.B. Finance S.A. -v- The Owners and all Persons Claiming an Interest in the M.V. "Connoisseur" | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\S.G.B. Finance S.A. -v- The Owners and all Persons Claiming an Interest in the M.V. "Connoisseur".pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Hanrahan -v- Gladney & Anor
+Hanrahan -v- The Minister for Agriculture Food and Marine & Ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Hanrahan -v- Gladney & Anor\nHanrahan -v- The Minister for Agriculture Food and Marine & Ors.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Re: Sean Dunne (a bankrupt) -v- Yesreb Holding & anor: Celtic Trustees -v- Sean Dunne (a bankrupt) | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Re: Sean Dunne (a bankrupt) -v- Yesreb Holding & anor: Celtic Trustees -v- Sean Dunne (a bankrupt).pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Stein -v- Scallon & Anor
+Gorrell -v- Scallon & Anor | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Stein -v- Scallon & Anor\nGorrell -v- Scallon & Anor.pdf'
+Failed to save PDF on first attempt: Year:2012 | Name:Re: Roadstone Group Sports Club: Dunne & ors -v- Mahon & anor | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2012\\Re: Roadstone Group Sports Club: Dunne & ors -v- Mahon & anor.pdf'
+Failed to save PDF on first attempt: Year:2018 | Name:Rughnoonauth & Anor -v- The Minister for Justice and Equality
+Omrawoo -v- The Minister for Justice and Equality | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2018\\Rughnoonauth & Anor -v- The Minister for Justice and Equality\nOmrawoo -v- The Minister for Justice and Equality.pdf'
+Failed to save PDF on first attempt: Year:2011 | Name:Minister for Justice Equality & Law Reform -v- Charron | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Minister for Justice Equality & Law Reform -v- Charron | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Woodquay Properties Ltd & Anor -v- Leo W. Wilson Associates Ltd | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Woodquay Properties Ltd & Anor -v- Leo W. Wilson Associates Ltd | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Roberston -v- Governor of the Docus Centre | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Roberston -v- Governor of the Docus Centre | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Scanlon -v- Sligo County Council | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Scanlon -v- Sligo County Council | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Anglo Irish Bank Corporation Ltd -v- Browne | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Anglo Irish Bank Corporation Ltd -v- Browne | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Mallak -v- Minister for Justice Equality & Law Reform | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Mallak -v- Minister for Justice Equality & Law Reform | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Murphy [Nee Condon] -v- Roche | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Murphy [Nee Condon] -v- Roche | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Corrigan -v- Health Service Executive | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Corrigan -v- Health Service Executive | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Clare County Council -v- Director of Equality Investigations & Anor | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Clare County Council -v- Director of Equality Investigations & Anor | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:V. -v- U. | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:V. -v- U. | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:E. -v- F. | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:E. -v- F. | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Allied Irish Banks Plc -v- Galvin Developments (Killarney) Limited & ors | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Allied Irish Banks Plc -v- Galvin Developments (Killarney) Limited & ors | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Hoare & ors -v- Limerick City Council | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Hoare & ors -v- Limerick City Council | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Scanlon -v- Larkin & Ors | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Scanlon -v- Larkin & Ors | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Rollville Ltd -v- Companies Acts | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Rollville Ltd -v- Companies Acts | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Kenny -v- Trinity College & anor | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Kenny -v- Trinity College & anor | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:J. & G. Mc Gowan Roofing Contractors Ltd -v- Manley Construction Ltd | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:O-A. & ors -v- Minister for Justice Equality & Law Reform | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:O-A. & ors -v- Minister for Justice Equality & Law Reform | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Izmailovic & Anor -v- Commissioner of an Garda Siochana & Ors | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Izmailovic & Anor -v- Commissioner of an Garda Siochana & Ors | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Medical Council -v- Boateng | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Medical Council -v- Boateng | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Lofinmakin (an infant) & ors -v- Minister for Justice Equality & Law Reform & ors | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Lofinmakin (an infant) & ors -v- Minister for Justice Equality & Law Reform & ors | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:B. -v- Refugee Appeals Tribunal & Anor | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:B. -v- Refugee Appeals Tribunal & Anor | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:O'Toole -v- County Offaly VEC | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:O'Toole -v- County Offaly VEC | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Fitzgerald -v- Minister for Community, Equality and Gaeltacht Affairs | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Fitzgerald -v- Minister for Community, Equality and Gaeltacht Affairs | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:F.G.W. & anor -v- Refugee Appeals Tribunal & anor | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:F.G.W. & anor -v- Refugee Appeals Tribunal & anor | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Astrazeneca AB & Anor -v- Pinewood Laboratories Ltd & Ors | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Astrazeneca AB & Anor -v- Pinewood Laboratories Ltd & Ors | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:O'Brien -v- Moriarty Tribunal | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:O'Brien -v- Moriarty Tribunal | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:C. (a minor) & anor -v- Minister for Justice Equality & Law Reform | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:C. (a minor) & anor -v- Minister for Justice Equality & Law Reform | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:I. (a minor) & ors -v- Minister for Justice Equality & Law Reform | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:I. (a minor) & ors -v- Minister for Justice Equality & Law Reform | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Maher -v- Judge Kennedy | Error: [Errno 28] No space left on device
+Failed to save PDF after sanitization: Year:2011 | Name:Maher -v- Judge Kennedy | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2011 | Name:Minister for Justice and Law Reform -v- Walkowiak | Error: [Errno 28] No space left on device
+Failed to save PDF on first attempt: Year:2010 | Name:Hansfield Developments Ltd & Ors -v- Irish Asphalt Ltd & Ors
+[Part 2 & Associated Schedules] | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2010\\Hansfield Developments Ltd & Ors -v- Irish Asphalt Ltd & Ors\n[Part 2 & Associated Schedules].pdf'
+Failed to save PDF on first attempt: Year:2010 | Name:Hansfield Developments Ltd & Ors -v- Irish Asphalt Ltd & Ors 
+[Part 1 & Associated Schedules] | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2010\\Hansfield Developments Ltd & Ors -v- Irish Asphalt Ltd & Ors \n[Part 1 & Associated Schedules].pdf'
+Failed to save PDF on first attempt: Year:2009 | Name:Re: Walsh Western Computer Services Limited: Meehan -v- Walsh Western Holdings Limited & anor | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2009\\Re: Walsh Western Computer Services Limited: Meehan -v- Walsh Western Holdings Limited & anor.pdf'
+Failed to save PDF on first attempt: Year:2010 | Name:Re: Drumm (a Bankrupt): Dwyer, applicant | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2010\\Re: Drumm (a Bankrupt): Dwyer, applicant.pdf'
+Failed to save PDF on first attempt: Year:2007 | Name:"X" -v- Refugee Appeals Tribunal & Anor | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2007\\"X" -v- Refugee Appeals Tribunal & Anor.pdf'
+Failed to save PDF on first attempt: Year:2016 | Name:Re: O'Callaghan deceased: Byrne applicant | Error: [Errno 22] Invalid argument: "judgments_downloads\\2016\\Re: O'Callaghan deceased: Byrne applicant.pdf"
+Failed to save PDF on first attempt: Year:2016 | Name:Re: Estate of Courtney: Larkin applicant | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2016\\Re: Estate of Courtney: Larkin applicant.pdf'
+Processing Year: 2019 | Total Judgments Found: 1209
+Processing Year: 2024 | Total Judgments Found: 1003
+Processing Year: 2022 | Total Judgments Found: 1048
+Processing Year: 2023 | Total Judgments Found: 1062
+Processing Year: 2021 | Total Judgments Found: 1166
+Processing Year: 2025 | Total Judgments Found: 35
+Processing Year: 2020 | Total Judgments Found: 1041
+Failed to save PDF on first attempt: Year:2019 | Name:Howe -v- The Revenue Commissioners & Anor
+Keane -v- The Revenue Commissioners & Anor | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2019\\Howe -v- The Revenue Commissioners & Anor\nKeane -v- The Revenue Commissioners & Anor.pdf'
+Failed to save PDF on first attempt: Year:2021 | Name:(1) A -v- The International Protection Appeals Tribunal & ors & 
+(2) B -v- The International Protection Appeals Tribunal & ors | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2021\\(1) A -v- The International Protection Appeals Tribunal & ors & \n(2) B -v- The International Protection Appeals Tribunal & ors.pdf'
+Failed to save PDF on first attempt: Year:2019 | Name:B (a minor) suing by his mother and next friend X -v- The Board of Management of St. Q's College
+C (a minor) suing by his mother and next friend  | Error: [Errno 22] Invalid argument: "judgments_downloads\\2019\\B (a minor) suing by his mother and next friend X -v- The Board of Management of St. Q's College\nC (a minor) suing by his mother and next friend .pdf"
+Failed to save PDF on first attempt: Year:2019 | Name:O'Connor -v- Kelly & Ors
+O'Connor -v- Property Registration Authority of Ireland | Error: [Errno 22] Invalid argument: "judgments_downloads\\2019\\O'Connor -v- Kelly & Ors\nO'Connor -v- Property Registration Authority of Ireland.pdf"
+Failed to save PDF on first attempt: Year:2019 | Name:Re: Frank McNamara (a debtor); Re: Teresa McNamara ( a debtor) | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2019\\Re: Frank McNamara (a debtor); Re: Teresa McNamara ( a debtor).pdf'
+Failed to save PDF on first attempt: Year:2019 | Name:Re: Hurley (a debtor); Re: Hurley (a debtor); Re: Phelan (a debtor); | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2019\\Re: Hurley (a debtor); Re: Hurley (a debtor); Re: Phelan (a debtor);.pdf'
+Failed to save PDF on first attempt: Year:2019 | Name:Cummann Peile Na hEireann "The Football Association of Ireland" -v- Companies Act | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2019\\Cummann Peile Na hEireann "The Football Association of Ireland" -v- Companies Act.pdf'
+Failed to save PDF on first attempt: Year:2019 | Name:Miranda & Ors -v- Rosas Construtores SA & Ors
+Alves Da Silva & Ors -v- Rosas Construtores SA & Ors
+Monteiro Da Silva & Ors -v- Rosas Construtores | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2019\\Miranda & Ors -v- Rosas Construtores SA & Ors\nAlves Da Silva & Ors -v- Rosas Construtores SA & Ors\nMonteiro Da Silva & Ors -v- Rosas Construtores.pdf'
+Failed to save PDF on first attempt: Year:2019 | Name:McDermott -v- Ennis Property Finance DAC
+Bank of Scotland plc -v- McDermott | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2019\\McDermott -v- Ennis Property Finance DAC\nBank of Scotland plc -v- McDermott.pdf'
+Failed to save PDF on first attempt: Year:2019 | Name:Re: Beauty Holdings Ltd. (in voluntary liquidation); Re: Hairspray Wholesalers Ltd (in voluntary liquidation) | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2019\\Re: Beauty Holdings Ltd. (in voluntary liquidation); Re: Hairspray Wholesalers Ltd (in voluntary liquidation).pdf'
+Failed to save PDF on first attempt: Year:2021 | Name:Director of Corporate Enforcement -v- Cumann Peile Na hEireann "Football Association of Ireland" | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2021\\Director of Corporate Enforcement -v- Cumann Peile Na hEireann "Football Association of Ireland".pdf'
+Failed to save PDF on first attempt: Year:2021 | Name:Right To Know CLG ("RTK") -v- Commissioner For Environmental Information | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2021\\Right To Know CLG ("RTK") -v- Commissioner For Environmental Information.pdf'
+Failed to save PDF on first attempt: Year:2021 | Name:Hyper Trust Limited Trading As The Leopardstown Inn -v- FBD Insurance PLC, 
+Aberken Limited Trading As Sinnotts -v- FBD Insurance PLC, 
+Inn On Hi | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2021\\Hyper Trust Limited Trading As The Leopardstown Inn -v- FBD Insurance PLC, \nAberken Limited Trading As Sinnotts -v- FBD Insurance PLC, \nInn On Hi.pdf'
+Failed to save PDF on first attempt: Year:2021 | Name:Director of Corporate Enforcement -v- Cumann Peile Na H-Éireann "Football Association Of Ireland" | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2021\\Director of Corporate Enforcement -v- Cumann Peile Na H-Éireann "Football Association Of Ireland".pdf'
+Failed to save PDF on first attempt: Year:2022 | Name:Strelet -v- Babitchi & Ors | Error: [Errno 22] Invalid argument

@@ -1,0 +1,38 @@
+
+
+13049/13049 Home Addresses left to Scrape
+
+
+2160 College Ave Apt G, Costa Mesa, CA, 92627 Already scraped last time.
+
+
+13048/13049 Home Addresses left to Scrape
+
+
+1101 Sandi Ln, Costa Mesa, CA, 92627 Already scraped last time.
+
+
+13047/13049 Home Addresses left to Scrape
+
+
+839 Darrell St, Costa Mesa, CA, 92627 Already scraped last time.
+
+
+13046/13049 Home Addresses left to Scrape
+
+
+1200 Dorset Ln, Costa Mesa, CA, 92626 Already scraped last time.
+
+
+13045/13049 Home Addresses left to Scrape
+
+
+============================================================
+📌 Spider Name            : Redfin
+🚀 Start Time             : 01-05-2025 00:15:41
+📍 Total Input Records     : 13049
+✅ Successfully Scraped   : 0
+⏭️ Skipped Records        : 1
+🕔 End Time               : 01-05-2025 00:16:22
+📄 Close Reason           : shutdown
+============================================================

@@ -1,0 +1,2 @@
+[INIT] Script started
+🚨 Error reading postcode files: 'ReadOnlyWorksheet' object has no attribute 'iter_cols'

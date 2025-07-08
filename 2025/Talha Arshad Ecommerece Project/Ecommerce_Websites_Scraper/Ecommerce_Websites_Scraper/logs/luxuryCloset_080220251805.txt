@@ -1,0 +1,5 @@
+[INIT] Script started at 08-02-2025 18:05:30
+Category: Women, CLOTHING, Jeans & Denim Has Total records: 2083
+Category: Women, CLOTHING, Shorts Has Total records: 673
+Category: Women, CLOTHING, Sweaters & Knitwear Has Total records: 4695
+Category: Women, CLOTHING, Skirts Has Total records: 5031

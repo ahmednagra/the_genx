@@ -1,0 +1,5 @@
+[INIT] Script started at 10-05-2025 02:37:19
+[SKIP] Found in previous records: 01001_01400
+[SKIP] Found in previous records: 01002_01640
+[SKIP] Found in previous records: 01004_01500
+[SKIP] Found in previous records: 01005_01330

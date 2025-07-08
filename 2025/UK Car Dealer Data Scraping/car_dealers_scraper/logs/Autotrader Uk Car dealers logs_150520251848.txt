@@ -1,0 +1,532 @@
+[INIT] Script started at 15-05-2025 18:48:45
+
+
+73/73 Post Codes left to Scrape
+
+Country :Wales | City :Wrexham | Postcode :LL13 8AA started scrape
+[INFO] Country: Wales | City: Wrexham | Postcode: LL13 8AA | No records found
+
+
+72/73 Post Codes left to Scrape
+
+
+
+71/73 Post Codes left to Scrape
+
+
+
+70/73 Post Codes left to Scrape
+
+
+
+69/73 Post Codes left to Scrape
+
+Country :Wales | City :Newport | Postcode :NP10 1AA started scrape
+[INFO] Country: Wales | City: Newport | Postcode: NP10 1AA | No records found
+
+
+68/73 Post Codes left to Scrape
+
+
+
+67/73 Post Codes left to Scrape
+
+
+
+66/73 Post Codes left to Scrape
+
+
+
+65/73 Post Codes left to Scrape
+
+
+
+64/73 Post Codes left to Scrape
+
+
+
+63/73 Post Codes left to Scrape
+
+Country :Scotland | City :Glasgow | Postcode :G1 1AA started scrape
+[INFO] Country: Scotland | City: Glasgow | Postcode: G1 1AA | No records found
+
+
+62/73 Post Codes left to Scrape
+
+Country :Scotland | City :Edinburgh | Postcode :EH1 1AA started scrape
+[INFO] Country: Scotland | City: Edinburgh | Postcode: EH1 1AA | No records found
+
+
+61/73 Post Codes left to Scrape
+
+
+
+60/73 Post Codes left to Scrape
+
+
+
+59/73 Post Codes left to Scrape
+
+
+
+58/73 Post Codes left to Scrape
+
+Country :Northern Ireland | City :Newry | Postcode :BT34 1AA started scrape
+[INFO] Country: Northern Ireland | City: Newry | Postcode: BT34 1AA | No records found
+
+
+57/73 Post Codes left to Scrape
+
+
+
+56/73 Post Codes left to Scrape
+
+Country :Northern Ireland | City :Lisburn | Postcode :BT27 4AA started scrape
+[DEALERS FOUND] Country: Northern Ireland | City: Lisburn | Postcode: BT27 4AA | → Total Dealers: 389 across 33 pages
+[EXPORT] BT27 4AA — Total: 389, New: 389, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: BT27 4AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+55/73 Post Codes left to Scrape
+
+Country :Northern Ireland | City :Belfast | Postcode :BT1 1AA started scrape
+[DEALERS FOUND] Country: Northern Ireland | City: Belfast | Postcode: BT1 1AA | → Total Dealers: 401 across 34 pages
+[EXPORT] BT1 1AA — Total: 400, New: 400, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: BT1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+54/73 Post Codes left to Scrape
+
+Country :Northern Ireland | City :Bangor | Postcode :BT20 4AA started scrape
+[DEALERS FOUND] Country: Northern Ireland | City: Bangor | Postcode: BT20 4AA | → Total Dealers: 551 across 46 pages
+[EXPORT] BT20 4AA — Total: 528, New: 528, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: BT20 4AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+53/73 Post Codes left to Scrape
+
+Country :Northern Ireland | City :Armagh | Postcode :BT61 7AA started scrape
+[DEALERS FOUND] Country: Northern Ireland | City: Armagh | Postcode: BT61 7AA | → Total Dealers: 332 across 28 pages
+[EXPORT] BT61 7AA — Total: 332, New: 332, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: BT61 7AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+52/73 Post Codes left to Scrape
+
+Country :England | City :York | Postcode :YO1 1AA started scrape
+[DEALERS FOUND] Country: England | City: York | Postcode: YO1 1AA | → Total Dealers: 4674 across 390 pages
+[EXPORT] YO1 1AA — Total: 2217, New: 2217, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: YO1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+51/73 Post Codes left to Scrape
+
+Country :England | City :Worcester | Postcode :WR1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Worcester | Postcode: WR1 1AA | → Total Dealers: 7777 across 649 pages
+[EXPORT] WR1 1AA — Total: 2987, New: 2987, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: WR1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+50/73 Post Codes left to Scrape
+
+Country :England | City :Wolverhampton | Postcode :WV1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Wolverhampton | Postcode: WV1 1AA | → Total Dealers: 7493 across 625 pages
+[EXPORT] WV1 1AA — Total: 2889, New: 2889, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: WV1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+49/73 Post Codes left to Scrape
+
+Country :England | City :Winchester | Postcode :SO23 8AA started scrape
+[DEALERS FOUND] Country: England | City: Winchester | Postcode: SO23 8AA | → Total Dealers: 6165 across 514 pages
+[EXPORT] SO23 8AA — Total: 2662, New: 2662, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: SO23 8AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+48/73 Post Codes left to Scrape
+
+Country :England | City :Westminster | Postcode :SW1A 1AA started scrape
+[DEALERS FOUND] Country: England | City: Westminster | Postcode: SW1A 1AA | → Total Dealers: 6402 across 534 pages
+[EXPORT] SW1A 1AA — Total: 2703, New: 2703, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: SW1A 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+47/73 Post Codes left to Scrape
+
+Country :England | City :Wells | Postcode :BA5 2AA started scrape
+[DEALERS FOUND] Country: England | City: Wells | Postcode: BA5 2AA | → Total Dealers: 4241 across 354 pages
+[EXPORT] BA5 2AA — Total: 2173, New: 2173, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: BA5 2AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+46/73 Post Codes left to Scrape
+
+Country :England | City :Wakefield | Postcode :WF1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Wakefield | Postcode: WF1 1AA | → Total Dealers: 5766 across 481 pages
+[EXPORT] WF1 1AA — Total: 2499, New: 2499, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: WF1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+45/73 Post Codes left to Scrape
+
+Country :England | City :Truro | Postcode :TR1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Truro | Postcode: TR1 1AA | → Total Dealers: 327 across 28 pages
+[EXPORT] TR1 1AA — Total: 327, New: 327, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: TR1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+44/73 Post Codes left to Scrape
+
+Country :England | City :Sunderland | Postcode :SR1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Sunderland | Postcode: SR1 1AA | → Total Dealers: 2385 across 199 pages
+[EXPORT] SR1 1AA — Total: 1467, New: 1467, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: SR1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+43/73 Post Codes left to Scrape
+
+Country :England | City :Stoke-on-Trent | Postcode :ST1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Stoke-on-Trent | Postcode: ST1 1AA | → Total Dealers: 6119 across 510 pages
+[EXPORT] ST1 1AA — Total: 2600, New: 2600, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: ST1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+42/73 Post Codes left to Scrape
+
+Country :England | City :St Albans | Postcode :AL1 1AA started scrape
+[INFO] Country: England | City: St Albans | Postcode: AL1 1AA | No records found
+
+
+41/73 Post Codes left to Scrape
+
+Country :England | City :Southend-on-Sea | Postcode :SS1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Southend-on-Sea | Postcode: SS1 1AA | → Total Dealers: 5060 across 422 pages
+[EXPORT] SS1 1AA — Total: 2415, New: 2415, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: SS1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+40/73 Post Codes left to Scrape
+
+Country :England | City :Southampton | Postcode :SO14 1AA started scrape
+[INFO] Country: England | City: Southampton | Postcode: SO14 1AA | No records found
+
+
+39/73 Post Codes left to Scrape
+
+Country :England | City :Sheffield | Postcode :S1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Sheffield | Postcode: S1 1AA | → Total Dealers: 6000 across 500 pages
+[EXPORT] S1 1AA — Total: 2526, New: 2526, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: S1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+38/73 Post Codes left to Scrape
+
+Country :England | City :Salisbury | Postcode :SP1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Salisbury | Postcode: SP1 1AA | → Total Dealers: 6021 across 502 pages
+[EXPORT] SP1 1AA — Total: 2593, New: 2593, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: SP1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+37/73 Post Codes left to Scrape
+
+Country :England | City :Salford | Postcode :M5 4AA started scrape
+[DEALERS FOUND] Country: England | City: Salford | Postcode: M5 4AA | → Total Dealers: 5467 across 456 pages
+[EXPORT] M5 4AA — Total: 2452, New: 2452, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: M5 4AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+36/73 Post Codes left to Scrape
+
+Country :England | City :Preston | Postcode :PR1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Preston | Postcode: PR1 1AA | → Total Dealers: 5095 across 425 pages
+[EXPORT] PR1 1AA — Total: 2274, New: 2274, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: PR1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+35/73 Post Codes left to Scrape
+
+Country :England | City :Portsmouth | Postcode :PO1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Portsmouth | Postcode: PO1 1AA | → Total Dealers: 5226 across 436 pages
+[EXPORT] PO1 1AA — Total: 2431, New: 2431, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: PO1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+34/73 Post Codes left to Scrape
+
+Country :England | City :Plymouth | Postcode :PL1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Plymouth | Postcode: PL1 1AA | → Total Dealers: 946 across 79 pages
+[EXPORT] PL1 1AA — Total: 827, New: 827, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: PL1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+33/73 Post Codes left to Scrape
+
+Country :England | City :Peterborough | Postcode :PE1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Peterborough | Postcode: PE1 1AA | → Total Dealers: 7891 across 658 pages
+[EXPORT] PE1 1AA — Total: 2818, New: 2818, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: PE1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+32/73 Post Codes left to Scrape
+
+Country :England | City :Oxford | Postcode :OX1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Oxford | Postcode: OX1 1AA | → Total Dealers: 7968 across 664 pages
+[EXPORT] OX1 1AA — Total: 2975, New: 2975, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: OX1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+31/73 Post Codes left to Scrape
+
+Country :England | City :Nottingham | Postcode :NG1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Nottingham | Postcode: NG1 1AA | → Total Dealers: 7180 across 599 pages
+[EXPORT] NG1 1AA — Total: 2721, New: 2721, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: NG1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+30/73 Post Codes left to Scrape
+
+Country :England | City :Norwich | Postcode :NR1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Norwich | Postcode: NR1 1AA | → Total Dealers: 3050 across 255 pages
+[EXPORT] NR1 1AA — Total: 1746, New: 1746, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: NR1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+29/73 Post Codes left to Scrape
+
+Country :England | City :Newcastle-upon-Tyne | Postcode :NE1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Newcastle-upon-Tyne | Postcode: NE1 1AA | → Total Dealers: 2274 across 190 pages
+[EXPORT] NE1 1AA — Total: 1439, New: 1439, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: NE1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+28/73 Post Codes left to Scrape
+
+Country :England | City :Milton Keynes | Postcode :MK1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Milton Keynes | Postcode: MK1 1AA | → Total Dealers: 8140 across 679 pages
+[EXPORT] MK1 1AA — Total: 2910, New: 2910, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: MK1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+27/73 Post Codes left to Scrape
+
+Country :England | City :Manchester | Postcode :M1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Manchester | Postcode: M1 1AA | → Total Dealers: 5490 across 458 pages
+[EXPORT] M1 1AA — Total: 2453, New: 2453, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: M1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+26/73 Post Codes left to Scrape
+
+Country :England | City :London | Postcode :SW1A 1AA started scrape
+[DEALERS FOUND] Country: England | City: London | Postcode: SW1A 1AA | → Total Dealers: 6402 across 534 pages
+[SKIP] Sheet for postcode SW1A 1AA already exists. Skipping to avoid duplication.
+[EXPORT COMPLETE] Postcode: SW1A 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+25/73 Post Codes left to Scrape
+
+Country :England | City :Liverpool | Postcode :L1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Liverpool | Postcode: L1 1AA | → Total Dealers: 4980 across 415 pages
+[EXPORT] L1 1AA — Total: 2237, New: 2237, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: L1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+24/73 Post Codes left to Scrape
+
+Country :England | City :Lincoln | Postcode :LN1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Lincoln | Postcode: LN1 1AA | → Total Dealers: 6261 across 522 pages
+[EXPORT] LN1 1AA — Total: 2534, New: 2534, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: LN1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+23/73 Post Codes left to Scrape
+
+Country :England | City :Lichfield | Postcode :WS13 6AA started scrape
+[DEALERS FOUND] Country: England | City: Lichfield | Postcode: WS13 6AA | → Total Dealers: 7767 across 648 pages
+[EXPORT] WS13 6AA — Total: 2892, New: 2892, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: WS13 6AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+22/73 Post Codes left to Scrape
+
+Country :England | City :Leicester | Postcode :LE1 1AA started scrape
+[INFO] Country: England | City: Leicester | Postcode: LE1 1AA | No records found
+
+
+21/73 Post Codes left to Scrape
+
+Country :England | City :Leeds | Postcode :LS1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Leeds | Postcode: LS1 1AA | → Total Dealers: 5584 across 466 pages
+[EXPORT] LS1 1AA — Total: 2456, New: 2456, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: LS1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+20/73 Post Codes left to Scrape
+
+Country :England | City :Lancaster | Postcode :LA1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Lancaster | Postcode: LA1 1AA | → Total Dealers: 4089 across 341 pages
+[EXPORT] LA1 1AA — Total: 2022, New: 2022, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: LA1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+19/73 Post Codes left to Scrape
+
+Country :England | City :Kingston-upon-Hull | Postcode :HU1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Kingston-upon-Hull | Postcode: HU1 1AA | → Total Dealers: 4498 across 375 pages
+[EXPORT] HU1 1AA — Total: 2174, New: 2174, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: HU1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+18/73 Post Codes left to Scrape
+
+Country :England | City :Hereford | Postcode :HR1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Hereford | Postcode: HR1 1AA | → Total Dealers: 5720 across 477 pages
+[EXPORT] HR1 1AA — Total: 2540, New: 2540, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: HR1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+17/73 Post Codes left to Scrape
+
+Country :England | City :Gloucester | Postcode :GL1 1AA started scrape
+[INFO] Country: England | City: Gloucester | Postcode: GL1 1AA | No records found
+
+
+16/73 Post Codes left to Scrape
+
+Country :England | City :Exeter | Postcode :EX1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Exeter | Postcode: EX1 1AA | → Total Dealers: 1655 across 138 pages
+[EXPORT] EX1 1AA — Total: 1219, New: 1219, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: EX1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+15/73 Post Codes left to Scrape
+
+Country :England | City :Ely | Postcode :CB7 4AA started scrape
+[DEALERS FOUND] Country: England | City: Ely | Postcode: CB7 4AA | → Total Dealers: 6813 across 568 pages
+[EXPORT] CB7 4AA — Total: 2664, New: 2664, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: CB7 4AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+14/73 Post Codes left to Scrape
+
+Country :England | City :Durham | Postcode :DH1 1AA started scrape
+[INFO] Country: England | City: Durham | Postcode: DH1 1AA | No records found
+
+
+13/73 Post Codes left to Scrape
+
+Country :England | City :Doncaster | Postcode :DN1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Doncaster | Postcode: DN1 1AA | → Total Dealers: 5888 across 491 pages
+[EXPORT] DN1 1AA — Total: 2469, New: 2469, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: DN1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+12/73 Post Codes left to Scrape
+
+Country :England | City :Derby | Postcode :DE1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Derby | Postcode: DE1 1AA | → Total Dealers: 6891 across 575 pages
+[EXPORT] DE1 1AA — Total: 2700, New: 2700, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: DE1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+11/73 Post Codes left to Scrape
+
+Country :England | City :Coventry | Postcode :CV1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Coventry | Postcode: CV1 1AA | → Total Dealers: 9189 across 766 pages
+[EXPORT] CV1 1AA — Total: 3186, New: 3186, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: CV1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+10/73 Post Codes left to Scrape
+
+Country :England | City :Chester | Postcode :CH1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Chester | Postcode: CH1 1AA | → Total Dealers: 5105 across 426 pages
+[EXPORT] CH1 1AA — Total: 2309, New: 2309, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: CH1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+9/73 Post Codes left to Scrape
+
+Country :England | City :Chelmsford | Postcode :CM1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Chelmsford | Postcode: CM1 1AA | → Total Dealers: 5615 across 468 pages
+[EXPORT] CM1 1AA — Total: 2558, New: 2558, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: CM1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+8/73 Post Codes left to Scrape
+
+Country :England | City :Carlisle | Postcode :CA1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Carlisle | Postcode: CA1 1AA | → Total Dealers: 2682 across 224 pages
+[EXPORT] CA1 1AA — Total: 1565, New: 1565, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: CA1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+7/73 Post Codes left to Scrape
+
+Country :England | City :Canterbury | Postcode :CT1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Canterbury | Postcode: CT1 1AA | → Total Dealers: 4359 across 364 pages
+[EXPORT] CT1 1AA — Total: 2217, New: 2217, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: CT1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+6/73 Post Codes left to Scrape
+
+Country :England | City :Cambridge | Postcode :CB1 1AA started scrape
+[INFO] Country: England | City: Cambridge | Postcode: CB1 1AA | No records found
+
+
+5/73 Post Codes left to Scrape
+
+Country :England | City :Bristol | Postcode :BS1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Bristol | Postcode: BS1 1AA | → Total Dealers: 5234 across 437 pages
+[EXPORT] BS1 1AA — Total: 2396, New: 2396, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: BS1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+4/73 Post Codes left to Scrape
+
+Country :England | City :Brighton & Hove | Postcode :BN1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Brighton & Hove | Postcode: BN1 1AA | → Total Dealers: 4851 across 405 pages
+[EXPORT] BN1 1AA — Total: 2375, New: 2375, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: BN1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+3/73 Post Codes left to Scrape
+
+Country :England | City :Bradford | Postcode :BD1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Bradford | Postcode: BD1 1AA | → Total Dealers: 5480 across 457 pages
+[EXPORT] BD1 1AA — Total: 2408, New: 2408, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: BD1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+2/73 Post Codes left to Scrape
+
+Country :England | City :Birmingham | Postcode :B1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Birmingham | Postcode: B1 1AA | → Total Dealers: 8484 across 707 pages
+[EXPORT] B1 1AA — Total: 3097, New: 3097, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: B1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+
+
+1/73 Post Codes left to Scrape
+
+Country :England | City :Bath | Postcode :BA1 1AA started scrape
+[DEALERS FOUND] Country: England | City: Bath | Postcode: BA1 1AA | → Total Dealers: 5791 across 483 pages
+[EXPORT] BA1 1AA — Total: 2548, New: 2548, Existing: 0, Removed: 0
+[EXPORT COMPLETE] Postcode: BA1 1AA | All dealer records saved to output/Autotrader_UK_Car_Dealers_150520251848.xlsx
+[FINISHED] Data exported for all postcodes.
+============================================================
+
+--- Scraping Summary ---
+📌 Total Postcodes Processed: 73
+🏷️ Postcodes with Dealer Records: 62
+🚫 Postcodes with No Dealers Found: 11
+👥 Total Dealer found: 252168
+👥 Total Dealer Records Collected: 110023
+❗ Empty Postcodes: LL13 8AA, NP10 1AA, G1 1AA, EH1 1AA, BT34 1AA, AL1 1AA, SO14 1AA, LE1 1AA, GL1 1AA, DH1 1AA, CB1 1AA
+
+--- Script Execution Times ---
+🛑 Spider 'Autotrader' has finished running.
+📅 Start Time: 15-05-2025 18:48:45
+🕓 End Time: 16-05-2025 03:29:46
+🔚 Closing Reason: finished
+============================================================

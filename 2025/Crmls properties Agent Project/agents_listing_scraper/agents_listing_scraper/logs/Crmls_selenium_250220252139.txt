@@ -1,0 +1,3 @@
+[INIT] Script started at 25-02-2025 21:39:36
+Home page loaded successfully
+Login failed: HTTPConnectionPool(host='localhost', port=56128): Read timed out. (read timeout=120)

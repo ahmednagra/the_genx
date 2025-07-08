@@ -1,0 +1,38 @@
+[INIT] Script started
+[SKIP] Postcode 54298 already processed.
+[SKIP] Postcode 78267 already processed.
+[SKIP] Postcode 52062 already processed.
+[SKIP] Postcode 52064 already processed.
+[SKIP] Postcode 52066 already processed.
+[SKIP] Postcode 52068 already processed.
+[SKIP] Postcode 52070 already processed.
+[SKIP] Postcode 52072 already processed.
+[SKIP] Postcode 52074 already processed.
+[SKIP] Postcode 52076 already processed.
+[SKIP] Postcode 52078 already processed.
+[SKIP] Postcode 52080 already processed.
+[SKIP] Postcode 73430 already processed.
+[SKIP] Postcode 73431 already processed.
+[SKIP] Postcode 73432 already processed.
+[SKIP] Postcode 73433 already processed.
+[SKIP] Postcode 73434 already processed.
+[SKIP] Postcode 65326 already processed.
+[SKIP] Postcode 25560 already processed.
+[SKIP] Postcode 29416 already processed.
+[SKIP] Postcode 19322 already processed.
+[SKIP] Postcode 38871 already processed.
+[SKIP] Postcode 6543 already processed.
+[SKIP] Postcode 91183 already processed.
+[SKIP] Postcode 1623 already processed.
+[SKIP] Postcode 93326 already processed.
+[SKIP] Postcode 55767 already processed.
+[SKIP] Postcode 94036 already processed.
+[SKIP] Postcode 91720 already processed.
+[SKIP] Postcode 74232 already processed.
+[SKIP] Postcode 6628 already processed.
+[SKIP] Postcode 99713 already processed.
+[INFO] Accepted cookies.
+[ERROR] Failed fetching browser data for 1561: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator(".option-item") to be visible
+

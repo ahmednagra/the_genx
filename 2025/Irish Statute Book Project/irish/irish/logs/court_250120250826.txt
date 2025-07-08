@@ -1,0 +1,30 @@
+[INIT] Script started at 25-01-2025 08:26:19
+Total Previous Judgment Files Found: 1177
+Processing Year: 2002 | Total Judgments Found: 0
+Processing Year: 2003 | Total Judgments Found: 1
+Processing Year: 2009 | Total Judgments Found: 544
+Processing Year: 2006 | Total Judgments Found: 356
+Processing Year: 2004 | Total Judgments Found: 31
+Processing Year: 2005 | Total Judgments Found: 378
+Processing Year: 2008 | Total Judgments Found: 400
+Processing Year: 2007 | Total Judgments Found: 410
+Processing Year: 2013 | Total Judgments Found: 606
+Processing Year: 2011 | Total Judgments Found: 525
+Processing Year: 2010 | Total Judgments Found: 514
+Processing Year: 2016 | Total Judgments Found: 1147
+Processing Year: 2014 | Total Judgments Found: 732
+Processing Year: 2012 | Total Judgments Found: 565
+Processing Year: 2017 | Total Judgments Found: 1154
+Processing Year: 2015 | Total Judgments Found: 1160
+Processing Year: 2018 | Total Judgments Found: 1217
+Processing Year: 2019 | Total Judgments Found: 1209
+Processing Year: 2020 | Total Judgments Found: 1041
+Processing Year: 2021 | Total Judgments Found: 1166
+Processing Year: 2022 | Total Judgments Found: 1048
+Processing Year: 2024 | Total Judgments Found: 1003
+Processing Year: 2023 | Total Judgments Found: 1062
+Failed to save PDF on first attempt: Year:2014 | Name:Andaloc -v- Iarnrod Eireann/Irish Rail & Ors | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2014\\Andaloc -v- Iarnrod Eireann/Irish Rail & Ors.pdf'
+Failed to save PDF on first attempt: Year:2011 | Name:Forde -v- Central Parking System Ireland Ltd t/a Control Plus | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2011\\Forde -v- Central Parking System Ireland Ltd t/a Control Plus.pdf'
+Failed to save PDF on first attempt: Year:2009 | Name:Spring & ors p/a Daniel Spring & Co. Solicitors -v- Evans | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2009\\Spring & ors p/a Daniel Spring & Co. Solicitors -v- Evans.pdf'
+Failed to save PDF on first attempt: Year:2023 | Name:In The Matter Of The Estate Of The Late Bernard Casey, Deceased, Late Of Threadneedle Road, Salthill, Galway Deceased, And In The Matter Of The Succession Act, 1965, And In The Matter Of Sections 27(4) Of The Succession Act And In The Matter Of An Application By John Casey, Bramley, Oranmore, County Galway Between John Casey And Yvonne Casey And Michelle Casey | Error: [Errno 22] Invalid argument: 'judgments_downloads\\2023\\In The Matter Of The Estate Of The Late Bernard Casey, Deceased, Late Of Threadneedle Road, Salthill, Galway Deceased, And In The Matter Of The Succession Act, 1965, And In The Matter Of Sections 27(4) Of The Succession Act And In The Matter Of An Application By John Casey, Bramley, Oranmore, County Galway Between John Casey And Yvonne Casey And Michelle Casey.pdf'
+Failed to save PDF on first attempt: Year:2023 | Name:Cooperative Raborank U.A. T/A Rabobank Dublin -v- AM Alpha Lux Invest 130 S.A.R.L. | Error: [Errno 2] No such file or directory: 'judgments_downloads\\2023\\Cooperative Raborank U.A. T/A Rabobank Dublin -v- AM Alpha Lux Invest 130 S.A.R.L..pdf'

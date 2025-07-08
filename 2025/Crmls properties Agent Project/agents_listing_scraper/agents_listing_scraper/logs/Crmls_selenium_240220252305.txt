@@ -1,0 +1,14 @@
+[INIT] Script started at 24-02-2025 23:05:24
+Home page loaded successfully
+Login page loaded successfully
+Username 'Blake' found on the page and dashboard loaded
+Matrix element found
+Matrix element clicked successfully
+Switched to the new tab
+New tab page loaded successfully
+Residential page loaded successfully
+Found 'Try Our New Search' button
+Clicked 'Try Our New Search' button successfully
+Current URL in new tab: https://matrix.crmls.org/Matrix/s?c=H4sIAAAAAAAEAItWsjQ2N1LSySvNydFRMjWAstAIJSPs4vgJJRymkWGSIbVMooVjlRIOt8eUGhgYJuajmxELAIEChOJgAQAA
+Headers in new tab (dict format): {'sec-ch-ua': '"Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"', 'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform': '"Windows"', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36', 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'referer': 'https://matrix.crmls.org/Matrix/Search/Residential/Detail', 'accept-encoding': 'gzip, deflate, br, zstd', 'accept-language': 'en-US,en;q=0.9', 'priority': 'u=0, i', 'cookie': '_ga=GA1.1.1831164857.1740420374; _ga_BL3ZVDRSSG=GS1.1.1740420373.1.0.1740420385.0.0.0; ASP.NET_SessionId=lt3ygzt13auhjjtg0fx41nvn; LoginSig=472086 - lt3ygzt13auhjjtg0fx41nvn - GPRODCRMLSW499 - 10:09:40.960; MLSAuth=20BDAAEB130283DB62AB7AA0851894968941FA3A991F43B96C185E93AED0C1F9FB475FCE190FB85BDC08BBAE821D0C5D09EE5260AE29F2F7BCFD464427513D29EE2880ACA45916023EBAC6B76AAE8907CB530D6799046272BBE9DAADDC42624DB3D246002044B14305D044DBAB46366BCB944C00; MatrixLoginName=; MatrixMachineID=-6404384927398980064; __RequestVerificationToken_L01hdHJpeA2=NnS1aW6tqBSXLo2U1vHY4ZQHhq1flKYwVlYyUwxiyJ8L7K69ONqR_QxuVxVGVOxanvC7o0CcwmMsqrWlVRSLLQ111So1; mp_3da8d56ab740ca12e1101ecfd9d90a54_mixpanel=%7B%22distinct_id%22%3A%20%22U41280%22%2C%22%24device_id%22%3A%20%2219539276d0323e3-0fae56cbce36e6-26011a51-144000-19539276d0323e3%22%2C%22%24user_id%22%3A%20%22U41280%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22appId%22%3A%20%22Matrix%22%2C%22resID%22%3A%20%221000058%22%2C%22AgentID%22%3A%20%22U41280%22%2C%22SecurityGroup%22%3A%20%22DB%20-%20Broker%22%7D; AWSALB=9qsOADiQd437GVzIRTMSQPh1jHDdk56P6GOjgwu+rfNgQKmug/yS6gxeEpFcT4PYtc3SL6MbLnCPPl1BnhST7RmadF1RRHn1TjrBFrGof0g92/M5CR3VvcPbthus; AWSALBCORS=9qsOADiQd437GVzIRTMSQPh1jHDdk56P6GOjgwu+rfNgQKmug/yS6gxeEpFcT4PYtc3SL6MbLnCPPl1BnhST7RmadF1RRHn1TjrBFrGof0g92/M5CR3VvcPbthus'}
+Entered postal code and pressed Enter

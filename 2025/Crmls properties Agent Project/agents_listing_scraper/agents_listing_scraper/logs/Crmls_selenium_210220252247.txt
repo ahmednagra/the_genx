@@ -1,0 +1,2 @@
+[INIT] Script started at 21-02-2025 22:47:53
+Home page loaded successfully

@@ -1,0 +1,246 @@
+[INIT] Script started at 15-05-2025 09:33:20
+
+
+73/73 Post Codes left to Scrape
+
+Country :Wales | City :Wrexham | Postcode :LL13 8AA started scrape
+[INFO] Country: Wales | City: Wrexham | Postcode: LL13 8AA | No records found
+
+
+72/73 Post Codes left to Scrape
+
+
+
+71/73 Post Codes left to Scrape
+
+
+
+70/73 Post Codes left to Scrape
+
+
+
+69/73 Post Codes left to Scrape
+
+Country :Wales | City :Newport | Postcode :NP10 1AA started scrape
+[INFO] Country: Wales | City: Newport | Postcode: NP10 1AA | No records found
+
+
+68/73 Post Codes left to Scrape
+
+
+
+67/73 Post Codes left to Scrape
+
+
+
+66/73 Post Codes left to Scrape
+
+
+
+65/73 Post Codes left to Scrape
+
+
+
+64/73 Post Codes left to Scrape
+
+
+
+63/73 Post Codes left to Scrape
+
+Country :Scotland | City :Glasgow | Postcode :G1 1AA started scrape
+[INFO] Country: Scotland | City: Glasgow | Postcode: G1 1AA | No records found
+
+
+62/73 Post Codes left to Scrape
+
+Country :Scotland | City :Edinburgh | Postcode :EH1 1AA started scrape
+[INFO] Country: Scotland | City: Edinburgh | Postcode: EH1 1AA | No records found
+
+
+61/73 Post Codes left to Scrape
+
+
+
+60/73 Post Codes left to Scrape
+
+
+
+59/73 Post Codes left to Scrape
+
+
+
+58/73 Post Codes left to Scrape
+
+Country :Northern Ireland | City :Newry | Postcode :BT34 1AA started scrape
+[INFO] Country: Northern Ireland | City: Newry | Postcode: BT34 1AA | No records found
+
+
+57/73 Post Codes left to Scrape
+
+
+
+56/73 Post Codes left to Scrape
+
+
+
+55/73 Post Codes left to Scrape
+
+
+
+54/73 Post Codes left to Scrape
+
+
+
+53/73 Post Codes left to Scrape
+
+
+
+52/73 Post Codes left to Scrape
+
+
+
+51/73 Post Codes left to Scrape
+
+
+
+50/73 Post Codes left to Scrape
+
+
+
+49/73 Post Codes left to Scrape
+
+
+
+48/73 Post Codes left to Scrape
+
+
+
+47/73 Post Codes left to Scrape
+
+
+
+46/73 Post Codes left to Scrape
+
+
+
+45/73 Post Codes left to Scrape
+
+
+
+44/73 Post Codes left to Scrape
+
+
+
+43/73 Post Codes left to Scrape
+
+
+
+42/73 Post Codes left to Scrape
+
+Country :England | City :St Albans | Postcode :AL1 1AA started scrape
+[INFO] Country: England | City: St Albans | Postcode: AL1 1AA | No records found
+
+
+41/73 Post Codes left to Scrape
+
+
+
+40/73 Post Codes left to Scrape
+
+Country :England | City :Southampton | Postcode :SO14 1AA started scrape
+[INFO] Country: England | City: Southampton | Postcode: SO14 1AA | No records found
+
+
+39/73 Post Codes left to Scrape
+
+
+
+38/73 Post Codes left to Scrape
+
+
+
+37/73 Post Codes left to Scrape
+
+
+
+36/73 Post Codes left to Scrape
+
+
+
+35/73 Post Codes left to Scrape
+
+
+
+34/73 Post Codes left to Scrape
+
+
+
+33/73 Post Codes left to Scrape
+
+
+
+32/73 Post Codes left to Scrape
+
+
+
+31/73 Post Codes left to Scrape
+
+
+
+30/73 Post Codes left to Scrape
+
+
+
+29/73 Post Codes left to Scrape
+
+
+
+28/73 Post Codes left to Scrape
+
+
+
+27/73 Post Codes left to Scrape
+
+
+
+26/73 Post Codes left to Scrape
+
+
+
+25/73 Post Codes left to Scrape
+
+
+
+24/73 Post Codes left to Scrape
+
+
+
+23/73 Post Codes left to Scrape
+
+
+
+22/73 Post Codes left to Scrape
+
+Country :England | City :Leicester | Postcode :LE1 1AA started scrape
+[INFO] Country: England | City: Leicester | Postcode: LE1 1AA | No records found
+
+
+21/73 Post Codes left to Scrape
+
+
+
+20/73 Post Codes left to Scrape
+
+
+
+19/73 Post Codes left to Scrape
+
+
+
+18/73 Post Codes left to Scrape
+
+
+
+17/73 Post Codes left to Scrape
+
+Country :England | City :Gloucester | Postcode :GL1 1AA started scrape
