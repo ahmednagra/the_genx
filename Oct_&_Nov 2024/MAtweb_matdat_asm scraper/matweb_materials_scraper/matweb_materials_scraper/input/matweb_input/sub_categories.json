@@ -1,0 +1,1494 @@
+[
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "3D Printing/Additive Manufacturing Polymer",
+        "MatGroupID": 375,
+        "MatCount": 608,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "ABS Polymer",
+        "MatGroupID": 61,
+        "MatCount": 3782,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer + Glass/PTFE",
+        "MatGroupID": 473,
+        "MatCount": 34,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, 10% Glass Fiber Reinforced",
+        "MatGroupID": 463,
+        "MatCount": 48,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, 20% Glass Fiber Reinforced",
+        "MatGroupID": 464,
+        "MatCount": 45,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, 30% Glass Fiber Reinforced",
+        "MatGroupID": 465,
+        "MatCount": 79,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, Aramid Fiber Filled",
+        "MatGroupID": 481,
+        "MatCount": 26,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, Carbon Fiber Filled",
+        "MatGroupID": 469,
+        "MatCount": 70,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, Glass + Mineral Reinforced",
+        "MatGroupID": 472,
+        "MatCount": 0,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, Glass Bead Filled",
+        "MatGroupID": 467,
+        "MatCount": 43,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, Glass Fiber + Mineral Reinforced",
+        "MatGroupID": 474,
+        "MatCount": 0,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, Impact Modified",
+        "MatGroupID": 466,
+        "MatCount": 98,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, Mineral Filled",
+        "MatGroupID": 470,
+        "MatCount": 36,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, PTFE Filled",
+        "MatGroupID": 471,
+        "MatCount": 150,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, Silicone Filled",
+        "MatGroupID": 468,
+        "MatCount": 23,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, Steel Filled",
+        "MatGroupID": 475,
+        "MatCount": 14,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, Unreinforced",
+        "MatGroupID": 462,
+        "MatCount": 409,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Homopolymer, Carbon Fiber Reinforced",
+        "MatGroupID": 479,
+        "MatCount": 4,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Homopolymer, Glass Fiber Reinforced",
+        "MatGroupID": 478,
+        "MatCount": 29,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Homopolymer, PTFE-Filled",
+        "MatGroupID": 480,
+        "MatCount": 30,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Homopolymer, Unreinforced",
+        "MatGroupID": 476,
+        "MatCount": 103,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Homopolymer, Unreinforced, Impact Grade",
+        "MatGroupID": 477,
+        "MatCount": 6,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acrylonitrile-Methyl Acrylate Copolymer",
+        "MatGroupID": 502,
+        "MatCount": 3,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Additive/Filler for Polymer",
+        "MatGroupID": 327,
+        "MatCount": 4874,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "AES Polymer",
+        "MatGroupID": 36,
+        "MatCount": 11,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "ASA Polymer",
+        "MatGroupID": 40,
+        "MatCount": 339,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Cyclo Olefin Polymer",
+        "MatGroupID": 82,
+        "MatCount": 45,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "ECTFE Fluoropolymer",
+        "MatGroupID": 548,
+        "MatCount": 14,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "EMAAA Terpolymer",
+        "MatGroupID": 54,
+        "MatCount": 23,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ethylene Vinyl Acetate Copolymer (EVA), Adhesive/Sealant Grade",
+        "MatGroupID": 918,
+        "MatCount": 121,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ethylene Vinyl Acetate Copolymer (EVA), Blow MoldingGrade",
+        "MatGroupID": 916,
+        "MatCount": 2,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ethylene Vinyl Acetate Copolymer (EVA), Extrusion/Coating Grade",
+        "MatGroupID": 915,
+        "MatCount": 55,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ethylene Vinyl Acetate Copolymer (EVA), Film Grade",
+        "MatGroupID": 917,
+        "MatCount": 230,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ethylene Vinyl Acetate Copolymer (EVA), Wire/Cable Grade",
+        "MatGroupID": 919,
+        "MatCount": 6,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ethylene-Methyl Acrylate Copolymer, Coating Grade",
+        "MatGroupID": 924,
+        "MatCount": 15,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ethylene-Methyl Acrylate Copolymer, Compounding Grade",
+        "MatGroupID": 923,
+        "MatCount": 17,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ethylene-Methyl Acrylate Copolymer, Extrusion Grade",
+        "MatGroupID": 921,
+        "MatCount": 9,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ethylene-Methyl Acrylate Copolymer, Film Grade",
+        "MatGroupID": 922,
+        "MatCount": 20,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ethylene-Methyl Acrylate Copolymer, Molding Grade",
+        "MatGroupID": 920,
+        "MatCount": 21,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Fluoropolymer",
+        "MatGroupID": 16,
+        "MatCount": 1589,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Fluoropolymer Base",
+        "MatGroupID": 1203,
+        "MatCount": 13,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Fluoropolymer, TS",
+        "MatGroupID": 83,
+        "MatCount": 1009,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "High Density Polyethylene (HDPE), Copolymer Film Grade",
+        "MatGroupID": 911,
+        "MatCount": 12,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Liquid Crystal Polymer (LCP)",
+        "MatGroupID": 65,
+        "MatCount": 264,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Liquid Crystal Polymer (LCP), 20% Glass Fiber Filled",
+        "MatGroupID": 568,
+        "MatCount": 13,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Liquid Crystal Polymer (LCP), 30% Glass Fiber Filled",
+        "MatGroupID": 569,
+        "MatCount": 57,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Liquid Crystal Polymer (LCP), 40% Glass Fiber Filled",
+        "MatGroupID": 570,
+        "MatCount": 47,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Liquid Crystal Polymer (LCP), 50% Glass Fiber Filled",
+        "MatGroupID": 571,
+        "MatCount": 16,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Liquid Crystal Polymer (LCP), Carbon Fiber Filled",
+        "MatGroupID": 572,
+        "MatCount": 21,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Liquid Crystal Polymer (LCP), Mineral Filled",
+        "MatGroupID": 573,
+        "MatCount": 27,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Liquid Crystal Polymer (LCP), Solid Lubricant Filled",
+        "MatGroupID": 574,
+        "MatCount": 4,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Liquid Crystal Polymer (LCP), Unfilled",
+        "MatGroupID": 567,
+        "MatCount": 8,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Melamine-Phenolic Copolymer",
+        "MatGroupID": 575,
+        "MatCount": 23,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon, Barrier Film Copolymer",
+        "MatGroupID": 701,
+        "MatCount": 10,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyetherimide-Siloxane Block Copolymer, Unreinforced",
+        "MatGroupID": 858,
+        "MatCount": 0,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polylactic Acid (PLA) Biopolymer",
+        "MatGroupID": 1171,
+        "MatCount": 143,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polymer",
+        "MatGroupID": 10,
+        "MatCount": 97635,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polypropylene Copolymer",
+        "MatGroupID": 1018,
+        "MatCount": 1279,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyvinyl Chloride - Polyvinyl Acetate Copolymer",
+        "MatGroupID": 1149,
+        "MatCount": 20,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Renewable/Recycled Polymer",
+        "MatGroupID": 1181,
+        "MatCount": 984,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "SAN Polymer",
+        "MatGroupID": 49,
+        "MatCount": 248,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "SMA Polymer",
+        "MatGroupID": 34,
+        "MatCount": 21,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Styrene-Butadiene Copolymer, SBC",
+        "MatGroupID": 1071,
+        "MatCount": 96,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Styrene/Methyl Methacrylate Copolymer (SMMA)",
+        "MatGroupID": 1072,
+        "MatCount": 19,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "TFE/Perfluoromethylvinylether Copolymer (MFA)",
+        "MatGroupID": 549,
+        "MatCount": 11,
+        "parent_category": "polymer"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "3D Printing/Additive Manufacturing Metal",
+        "MatGroupID": 1206,
+        "MatCount": 0,
+        "parent_category": "metal"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ceramic/Metallic Coating",
+        "MatGroupID": 328,
+        "MatCount": 485,
+        "parent_category": "metal"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Epoxy, Cast, Metal Filled",
+        "MatGroupID": 516,
+        "MatCount": 30,
+        "parent_category": "metal"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ferrous Metal",
+        "MatGroupID": 176,
+        "MatCount": 7182,
+        "parent_category": "metal"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Intermetallic",
+        "MatGroupID": 251,
+        "MatCount": 48,
+        "parent_category": "metal"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Metal",
+        "MatGroupID": 9,
+        "MatCount": 17052,
+        "parent_category": "metal"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Metal Foam, Mesh, or Honeycomb",
+        "MatGroupID": 182,
+        "MatCount": 138,
+        "parent_category": "metal"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Metal Matrix Composite",
+        "MatGroupID": 183,
+        "MatCount": 396,
+        "parent_category": "metal"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nonferrous Metal",
+        "MatGroupID": 177,
+        "MatCount": 9354,
+        "parent_category": "metal"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Precious Metal",
+        "MatGroupID": 180,
+        "MatCount": 759,
+        "parent_category": "metal"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Refractory Metal",
+        "MatGroupID": 195,
+        "MatCount": 447,
+        "parent_category": "metal"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ceramic",
+        "MatGroupID": 11,
+        "MatCount": 10004,
+        "parent_category": "ceramic"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ceramic Matrix Composite",
+        "MatGroupID": 295,
+        "MatCount": 26,
+        "parent_category": "ceramic"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Ceramic/Metallic Coating",
+        "MatGroupID": 328,
+        "MatCount": 485,
+        "parent_category": "ceramic"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Glass Ceramic",
+        "MatGroupID": 315,
+        "MatCount": 82,
+        "parent_category": "ceramic"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "High Temp Ceramic Resin",
+        "MatGroupID": 299,
+        "MatCount": 6,
+        "parent_category": "ceramic"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Machinable Ceramic",
+        "MatGroupID": 301,
+        "MatCount": 73,
+        "parent_category": "ceramic"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Potting/Casting Ceramic",
+        "MatGroupID": 305,
+        "MatCount": 21,
+        "parent_category": "ceramic"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Copolymer, Carbon Fiber Filled",
+        "MatGroupID": 469,
+        "MatCount": 70,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acetal Homopolymer, Carbon Fiber Reinforced",
+        "MatGroupID": 479,
+        "MatCount": 4,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acrylic/Polycarbonate Alloy",
+        "MatGroupID": 494,
+        "MatCount": 23,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acrylic/Polycarbonate Alloy, Carbon Fiber Filler",
+        "MatGroupID": 498,
+        "MatCount": 5,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acrylic/Polycarbonate Alloy, Glass Fiber Filler",
+        "MatGroupID": 496,
+        "MatCount": 11,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acrylonitrile Butadiene Styrene (ABS), 10% Carbon Fiber Filled",
+        "MatGroupID": 429,
+        "MatCount": 21,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acrylonitrile Butadiene Styrene (ABS), 20% Carbon Fiber Filled",
+        "MatGroupID": 430,
+        "MatCount": 28,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acrylonitrile Butadiene Styrene (ABS), 30% Carbon Fiber Filled",
+        "MatGroupID": 431,
+        "MatCount": 10,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acrylonitrile Butadiene Styrene (ABS), 40% Carbon Fiber Filled",
+        "MatGroupID": 432,
+        "MatCount": 10,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Acrylonitrile Butadiene Styrene (ABS), Carbon Black Filled",
+        "MatGroupID": 435,
+        "MatCount": 6,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Carbon",
+        "MatGroupID": 283,
+        "MatCount": 866,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Carbon Black",
+        "MatGroupID": 318,
+        "MatCount": 68,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Carbon Fiber/Carbon Fibre",
+        "MatGroupID": 319,
+        "MatCount": 284,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Carbon Fiber/Thermoset Composite",
+        "MatGroupID": 98,
+        "MatCount": 170,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Epoxy/Carbon Fiber Composite",
+        "MatGroupID": 527,
+        "MatCount": 182,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Fluorinated Ethylene Propylene (FEP) with Carbon Fiber Filler",
+        "MatGroupID": 541,
+        "MatCount": 1,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Fluorocarbon ETFE, with Glass or Carbon Fiber Filler",
+        "MatGroupID": 543,
+        "MatCount": 14,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Fluorocarbon ETFE/ECTFE, Molded/Extruded",
+        "MatGroupID": 544,
+        "MatCount": 59,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Fluorocarbon PFA with Carbon Fiber Filler",
+        "MatGroupID": 538,
+        "MatCount": 2,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Fluorocarbon PFA with Glass Fiber Filler",
+        "MatGroupID": 537,
+        "MatCount": 2,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "High Carbon Steel",
+        "MatGroupID": 249,
+        "MatCount": 401,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "High Density Polyethylene (HDPE), Carbon Black Filled",
+        "MatGroupID": 910,
+        "MatCount": 10,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Liquid Crystal Polymer (LCP), Carbon Fiber Filled",
+        "MatGroupID": 572,
+        "MatCount": 21,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Low Carbon Steel",
+        "MatGroupID": 254,
+        "MatCount": 1413,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Medium Carbon Steel",
+        "MatGroupID": 259,
+        "MatCount": 955,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 11 + Carbon Fiber",
+        "MatGroupID": 687,
+        "MatCount": 7,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 12, Carbon Fiber Filled",
+        "MatGroupID": 694,
+        "MatCount": 29,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 6, Carbon Fiber Filled",
+        "MatGroupID": 611,
+        "MatCount": 58,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 6, Carbon Fiber/PTFE Reinforced",
+        "MatGroupID": 610,
+        "MatCount": 7,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 610, Carbon Fiber Filled",
+        "MatGroupID": 667,
+        "MatCount": 27,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 612 with Carbon Black + PTFE Filler",
+        "MatGroupID": 676,
+        "MatCount": 0,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 612, Carbon Fiber Filler",
+        "MatGroupID": 672,
+        "MatCount": 29,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 66, 10% Carbon Fiber Filled",
+        "MatGroupID": 643,
+        "MatCount": 33,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 66, 20% Carbon Fiber Filled",
+        "MatGroupID": 644,
+        "MatCount": 52,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 66, 30% Carbon Fiber Filled",
+        "MatGroupID": 645,
+        "MatCount": 48,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 66, 40% Carbon Fiber Filled",
+        "MatGroupID": 646,
+        "MatCount": 21,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 66, 50% Carbon Fiber Filled",
+        "MatGroupID": 647,
+        "MatCount": 8,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 66, Carbon Black + Glass Fiber Filled",
+        "MatGroupID": 659,
+        "MatCount": 6,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 66, Carbon Fiber/PTFE Filled",
+        "MatGroupID": 649,
+        "MatCount": 87,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 66, Glass/Carbon Fiber Filled",
+        "MatGroupID": 650,
+        "MatCount": 26,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Nylon 66, Partially Aromatic, Carbon Fiber Filled",
+        "MatGroupID": 663,
+        "MatCount": 0,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "PET + Carbon Fiber",
+        "MatGroupID": 826,
+        "MatCount": 4,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Phenolic, Carbon Fiber Composite",
+        "MatGroupID": 727,
+        "MatCount": 12,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyaryletherketone (PAEK), Carbon Fiber Filled",
+        "MatGroupID": 564,
+        "MatCount": 18,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyarylsulfone (PAS), Carbon Fiber Filled",
+        "MatGroupID": 1121,
+        "MatCount": 2,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polybutylene Terephthalate (PBT), Carbon Black Filled",
+        "MatGroupID": 803,
+        "MatCount": 16,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polybutylene Terephthalate (PBT), Carbon Fiber Filled",
+        "MatGroupID": 801,
+        "MatCount": 37,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate (PC)",
+        "MatGroupID": 26,
+        "MatCount": 6107,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, 10% Glass Filled",
+        "MatGroupID": 753,
+        "MatCount": 235,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, 20% Glass Filled",
+        "MatGroupID": 754,
+        "MatCount": 219,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, 30% Glass Filled",
+        "MatGroupID": 755,
+        "MatCount": 146,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, 40% Glass Filled",
+        "MatGroupID": 756,
+        "MatCount": 65,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, 50% Glass Filled",
+        "MatGroupID": 757,
+        "MatCount": 8,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Aramid Fiber Reinforced",
+        "MatGroupID": 763,
+        "MatCount": 10,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Carbon + Glass Fiber Reinforced",
+        "MatGroupID": 761,
+        "MatCount": 17,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Carbon + PTFE Filled",
+        "MatGroupID": 762,
+        "MatCount": 81,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Carbon Fiber Reinforced",
+        "MatGroupID": 760,
+        "MatCount": 200,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Conductive",
+        "MatGroupID": 764,
+        "MatCount": 26,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Extruded",
+        "MatGroupID": 743,
+        "MatCount": 66,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Foam",
+        "MatGroupID": 748,
+        "MatCount": 3,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Foam Grade, Glass Filled",
+        "MatGroupID": 758,
+        "MatCount": 12,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Gamma Radiation Resistant",
+        "MatGroupID": 751,
+        "MatCount": 19,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Glass + PTFE Filled",
+        "MatGroupID": 767,
+        "MatCount": 165,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Glass Fiber & Bead Filled",
+        "MatGroupID": 759,
+        "MatCount": 10,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Glass Fiber Filled, Flame Retardant",
+        "MatGroupID": 752,
+        "MatCount": 153,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, High Heat",
+        "MatGroupID": 745,
+        "MatCount": 49,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Impact Modified",
+        "MatGroupID": 744,
+        "MatCount": 125,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Molded",
+        "MatGroupID": 742,
+        "MatCount": 638,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, NCG Filled",
+        "MatGroupID": 765,
+        "MatCount": 22,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Optical Grade",
+        "MatGroupID": 747,
+        "MatCount": 61,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, PTFE Filled",
+        "MatGroupID": 749,
+        "MatCount": 106,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Stainless Steel Fiber",
+        "MatGroupID": 766,
+        "MatCount": 78,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, Unreinforced, Flame Retardant",
+        "MatGroupID": 746,
+        "MatCount": 487,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate, UV Stabilized",
+        "MatGroupID": 750,
+        "MatCount": 222,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate-Urethane",
+        "MatGroupID": 1092,
+        "MatCount": 21,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/ABS Alloy, Antistat/Conductive",
+        "MatGroupID": 450,
+        "MatCount": 30,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/ABS Alloy, Carbon Fiber Filled",
+        "MatGroupID": 446,
+        "MatCount": 35,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/ABS Alloy, Glass Fiber Filled",
+        "MatGroupID": 444,
+        "MatCount": 120,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/ABS Alloy, NCG Fiber Filled",
+        "MatGroupID": 448,
+        "MatCount": 29,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/ABS Alloy, Unreinforced",
+        "MatGroupID": 442,
+        "MatCount": 776,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/ASA Alloy, Unreinforced",
+        "MatGroupID": 783,
+        "MatCount": 62,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/PET Polyester Blend",
+        "MatGroupID": 773,
+        "MatCount": 118,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/PET Polyester Blend, Carbon Fiber Filled",
+        "MatGroupID": 771,
+        "MatCount": 1,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/PET Polyester Blend, Glass Reinforced",
+        "MatGroupID": 775,
+        "MatCount": 12,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/Polybutylene Terephthalate (PBT) Blend, Glass Filled",
+        "MatGroupID": 779,
+        "MatCount": 54,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/Polybutylene Terephthalate (PBT) Blend, Unreinforced",
+        "MatGroupID": 777,
+        "MatCount": 253,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/Polysulfone Alloy",
+        "MatGroupID": 785,
+        "MatCount": 8,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/Polysulfone Alloy (Polysulfone)",
+        "MatGroupID": 786,
+        "MatCount": 2,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/Styrenic Alloy",
+        "MatGroupID": 781,
+        "MatCount": 8,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polycarbonate/Thermoplastic Polyurethane Blend",
+        "MatGroupID": 769,
+        "MatCount": 8,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyetheretherketone, PEEK, Carbon Fiber Filled",
+        "MatGroupID": 557,
+        "MatCount": 184,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyetherimide (PEI), Carbon Fiber Filled",
+        "MatGroupID": 854,
+        "MatCount": 86,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyetherimide (PEI), Glass + Carbon Fiber Filled",
+        "MatGroupID": 853,
+        "MatCount": 7,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyetherketoneetherketoneketone (PEKEKK), Carbon Fiber Filled",
+        "MatGroupID": 562,
+        "MatCount": 5,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyethersulfone (PES), Glass + Carbon Fiber Filled",
+        "MatGroupID": 866,
+        "MatCount": 1,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyethersulfone, Carbon Fiber Reinforced",
+        "MatGroupID": 867,
+        "MatCount": 32,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyketone with Carbon Fiber",
+        "MatGroupID": 554,
+        "MatCount": 8,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyphenylene Sulfide (PPS) with 10% Carbon Fiber Filler",
+        "MatGroupID": 967,
+        "MatCount": 12,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyphenylene Sulfide (PPS) with 20% Carbon Fiber Filler",
+        "MatGroupID": 968,
+        "MatCount": 27,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyphenylene Sulfide (PPS) with 30% Carbon Fiber Filler",
+        "MatGroupID": 969,
+        "MatCount": 34,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyphenylene Sulfide (PPS) with 40% Carbon Fiber Filler",
+        "MatGroupID": 970,
+        "MatCount": 16,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyphenylene Sulfide (PPS) with 50% Carbon Fiber Filler",
+        "MatGroupID": 971,
+        "MatCount": 2,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyphenylene Sulfide (PPS) with 60% Carbon Fiber Filler",
+        "MatGroupID": 972,
+        "MatCount": 2,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyphenylene Sulfide (PPS) with Carbon Fiber + PTFE Filler",
+        "MatGroupID": 973,
+        "MatCount": 47,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyphenylsulfone, Glass or Carbon Fiber Reinforced",
+        "MatGroupID": 1115,
+        "MatCount": 6,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyphthalamide (PPA), Carbon Fiber + PTFE Filled",
+        "MatGroupID": 989,
+        "MatCount": 31,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyphthalamide (PPA), Carbon Fiber Filled",
+        "MatGroupID": 988,
+        "MatCount": 34,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyphthalate Carbonate",
+        "MatGroupID": 55,
+        "MatCount": 3,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polypropylene with 10% Calcium Carbonate (CaCO3) Filler",
+        "MatGroupID": 1029,
+        "MatCount": 48,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polypropylene with 20% Calcium Carbonate (CaCO3) Filler",
+        "MatGroupID": 1030,
+        "MatCount": 88,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polypropylene with 30% Calcium Carbonate (CaCO3) Filler",
+        "MatGroupID": 1031,
+        "MatCount": 67,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polypropylene with 40% Calcium Carbonate (CaCO3) Filler",
+        "MatGroupID": 1032,
+        "MatCount": 90,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polypropylene with 50% Calcium Carbonate",
+        "MatGroupID": 1033,
+        "MatCount": 9,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polypropylene with Carbon Black Filler",
+        "MatGroupID": 1010,
+        "MatCount": 20,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polypropylene, Carbon Black + Glass Fiber Filled",
+        "MatGroupID": 1009,
+        "MatCount": 2,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polypropylene, Carbon Fiber Filled",
+        "MatGroupID": 1008,
+        "MatCount": 41,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polystyrene + Polyphenylene Ether, Carbon Filler",
+        "MatGroupID": 1050,
+        "MatCount": 12,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polystyrene, Carbon Black Filled",
+        "MatGroupID": 1042,
+        "MatCount": 11,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polysulfone, 20-30% Carbon Fiber Reinforced",
+        "MatGroupID": 1110,
+        "MatCount": 0,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polysulfone, 40% Carbon Fiber Reinforced",
+        "MatGroupID": 1111,
+        "MatCount": 0,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polysulfone, Chopped Carbon Fiber Filled",
+        "MatGroupID": 1109,
+        "MatCount": 7,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polytetrafluoroethylene (PTFE), Carbon Fiber Filled",
+        "MatGroupID": 533,
+        "MatCount": 36,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polytetrafluoroethylene (PTFE), Conductive Carbon Filled",
+        "MatGroupID": 532,
+        "MatCount": 25,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Polyvinylidinefluoride (PVDF), with Carbon Fiber",
+        "MatGroupID": 547,
+        "MatCount": 16,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "PPE/PPO + Carbon Fiber",
+        "MatGroupID": 951,
+        "MatCount": 11,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Silicone Polyurethane, Polycarbonate Based",
+        "MatGroupID": 1091,
+        "MatCount": 7,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Syndiotactic Polystyrene (SPS) with Glass or Carbon Fiber",
+        "MatGroupID": 1045,
+        "MatCount": 66,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Thermoplastic Polyimide, Carbon Fiber",
+        "MatGroupID": 930,
+        "MatCount": 15,
+        "parent_category": "carbon"
+    },
+    {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Thermoplastic Polyurethane (TPUR), Carbon Fiber Reinforced",
+        "MatGroupID": 1089,
+        "MatCount": 22,
+        "parent_category": "carbon"
+    },
+        {
+        "__type": "aci.matweb.WebServices.MatGroupData",
+        "GroupName": "Carbon Steel",
+        "MatGroupID": 225,
+        "MatCount": 2846,
+        "parent_category": "carbon"
+    }
+]
+

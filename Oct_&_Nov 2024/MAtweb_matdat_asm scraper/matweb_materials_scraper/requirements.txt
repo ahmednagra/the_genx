@@ -1,0 +1,10 @@
+itemadapter==0.10.0
+openpyxl==3.1.5
+playwright==1.49.1
+Requests==2.32.3
+Scrapy==2.11.2
+
+# Zyte API dependencies
+scrapy-zyte-api==0.14.1
+scrapy-poet==0.9.0
+zyte-common-items==0.15.0

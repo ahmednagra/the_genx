@@ -1,0 +1,4907 @@
+[
+    {
+        "id": 213,
+        "name": "Acrylonitrile-styrene-acrylate plastic (ASA)",
+        "level": 0
+    },
+    {
+        "id": 221,
+        "name": "Ethylene-ethyl acrylate plastic (EEA)",
+        "level": 0
+    },
+    {
+        "id": 265,
+        "name": "Poly(methyl methacrylate) (PMMA)",
+        "level": 0
+    },
+    {
+        "id": 383,
+        "name": "Ethylene-butyl acrylate plastic (EBA)",
+        "level": 0
+    },
+    {
+        "id": 385,
+        "name": "Ethylene-butyl acrylate carbon monoxide terpolymer (EBACO)",
+        "level": 0
+    },
+    {
+        "id": 507,
+        "name": "Ethylene-acrylic acid plastic (EAA)",
+        "level": 0
+    },
+    {
+        "id": 521,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 725,
+        "name": "Styrene methyl methacrylate (SMMA)",
+        "level": 0
+    },
+    {
+        "id": 1017,
+        "name": "Ionomer resin",
+        "level": 0
+    },
+    {
+        "id": 2235,
+        "name": "Ethylene-methacrylic acid plastic (EMAA)",
+        "level": 0
+    },
+    {
+        "id": 228,
+        "name": "Polyamide (PA)",
+        "level": 0
+    },
+    {
+        "id": 229,
+        "name": "Polyamide 6 (PA6)",
+        "level": 0
+    },
+    {
+        "id": 230,
+        "name": "Polyamide 66 (PA66)",
+        "level": 0
+    },
+    {
+        "id": 232,
+        "name": "Polyamide 46 (PA46)",
+        "level": 0
+    },
+    {
+        "id": 233,
+        "name": "Polyamide 69 (PA69)",
+        "level": 0
+    },
+    {
+        "id": 234,
+        "name": "Polyamide 11 (PA11)",
+        "level": 0
+    },
+    {
+        "id": 235,
+        "name": "Polyamide 12 (PA12)",
+        "level": 0
+    },
+    {
+        "id": 236,
+        "name": "Polyamide 610 (PA610)",
+        "level": 0
+    },
+    {
+        "id": 237,
+        "name": "Polyamide 612 (PA612)",
+        "level": 0
+    },
+    {
+        "id": 241,
+        "name": "Poly(aryl amid) (PARA)",
+        "level": 0
+    },
+    {
+        "id": 273,
+        "name": "Polyphthalamide (PPA)",
+        "level": 0
+    },
+    {
+        "id": 336,
+        "name": "Polyamide (PA, Special)",
+        "level": 0
+    },
+    {
+        "id": 337,
+        "name": "Polyamide MXD6 (PA MXD6)",
+        "level": 0
+    },
+    {
+        "id": 371,
+        "name": "Polyamide 410 (PA410)",
+        "level": 0
+    },
+    {
+        "id": 374,
+        "name": "Polyamide 6I (PA6I)",
+        "level": 0
+    },
+    {
+        "id": 466,
+        "name": "Polyamide 4T (PA4T)",
+        "level": 0
+    },
+    {
+        "id": 474,
+        "name": "Polyamide 1010 (PA1010)",
+        "level": 0
+    },
+    {
+        "id": 478,
+        "name": "Polyamide MACM12 (PA MACM12)",
+        "level": 0
+    },
+    {
+        "id": 496,
+        "name": "Polyamide PACM12 (PA PACM12)",
+        "level": 0
+    },
+    {
+        "id": 519,
+        "name": "Polyamide 1012 (PA1012)",
+        "level": 0
+    },
+    {
+        "id": 623,
+        "name": "Polyamide 6T (PA6T)",
+        "level": 0
+    },
+    {
+        "id": 1025,
+        "name": "Polyamide 9T (PA9T)",
+        "level": 0
+    },
+    {
+        "id": 3268,
+        "name": "Polyamide 510 (PA510)",
+        "level": 0
+    },
+    {
+        "id": 3322,
+        "name": "Polyamide 56 (PA56)",
+        "level": 0
+    },
+    {
+        "id": 231,
+        "name": "Polyamide 66/6 (PA66/6)",
+        "level": 0
+    },
+    {
+        "id": 238,
+        "name": "Polyamide 6T/MPMDT (PA6T/MPMDT)",
+        "level": 0
+    },
+    {
+        "id": 338,
+        "name": "Polyamide 6T/6I/66 (PA6T/6I/66)",
+        "level": 0
+    },
+    {
+        "id": 339,
+        "name": "Polyamide 6T/66 (PA6T/66)",
+        "level": 0
+    },
+    {
+        "id": 342,
+        "name": "Polyamide 6/6T (PA6/6T)",
+        "level": 0
+    },
+    {
+        "id": 343,
+        "name": "Polyamide 6/66/136 (PA6/66/136)",
+        "level": 0
+    },
+    {
+        "id": 373,
+        "name": "Polyamide 6/6I (PA6/6I)",
+        "level": 0
+    },
+    {
+        "id": 376,
+        "name": "Polyamide 6T/XT (PA6T/XT)",
+        "level": 0
+    },
+    {
+        "id": 377,
+        "name": "Ethylene and acrylate copolymer (EA)",
+        "level": 0
+    },
+    {
+        "id": 393,
+        "name": "Polyamide 66/610 (PA66/610)",
+        "level": 0
+    },
+    {
+        "id": 472,
+        "name": "Poly(ethylene terephthalate), glycol modified, copolymer (PETG)",
+        "level": 0
+    },
+    {
+        "id": 476,
+        "name": "Polyamide 12/MACMI (PA 12/MACMI)",
+        "level": 0
+    },
+    {
+        "id": 481,
+        "name": "Polyamide 6/12 (PA6/12)",
+        "level": 0
+    },
+    {
+        "id": 486,
+        "name": "Polyamide MXD6/MXDI (PA MXD6/MXDI)",
+        "level": 0
+    },
+    {
+        "id": 487,
+        "name": "Polyamide PA 6T/6I (PA6T/6I)",
+        "level": 0
+    },
+    {
+        "id": 488,
+        "name": "Polyamide 66/6I/X (PA66/6I/X)",
+        "level": 0
+    },
+    {
+        "id": 489,
+        "name": "Polyamide 10T/X (PA10T/X)",
+        "level": 0
+    },
+    {
+        "id": 495,
+        "name": "Polyamide 6/3T (PA6/3T)",
+        "level": 0
+    },
+    {
+        "id": 508,
+        "name": "Ethylene-propylene plastic (E/P)",
+        "level": 0
+    },
+    {
+        "id": 509,
+        "name": "Poly(butylene terephthalate), copolymer (PBT)",
+        "level": 0
+    },
+    {
+        "id": 514,
+        "name": "Poly(ethylene terephthalate), copolymer (PET)",
+        "level": 0
+    },
+    {
+        "id": 516,
+        "name": "Poly(1,4-cyclohexylenedimethylene terephthalate), acid modified (PCTA)",
+        "level": 0
+    },
+    {
+        "id": 520,
+        "name": "Acrylonitrile-styrene-acrylate and Polycarbonate (ASA/PC)",
+        "level": 0
+    },
+    {
+        "id": 523,
+        "name": "Poly(1,4-cyclohexylenedimethylene terephthalate), glycol modified (PCTG)",
+        "level": 0
+    },
+    {
+        "id": 524,
+        "name": "Polyoxymethylene; polyformaldehyde, copolymer (POM)",
+        "level": 0
+    },
+    {
+        "id": 545,
+        "name": "Polypropylene and Polyethylene (PP/PE)",
+        "level": 0
+    },
+    {
+        "id": 581,
+        "name": "Polyamide 6 and Not specified (PA6/XX)",
+        "level": 0
+    },
+    {
+        "id": 582,
+        "name": "Polyamide 6 and isophorone diamine and isophthalic acid (PA6/IPDI)",
+        "level": 0
+    },
+    {
+        "id": 585,
+        "name": "Cycloolefin copolymer (COC)",
+        "level": 0
+    },
+    {
+        "id": 596,
+        "name": "Polycarbonate and Poly(ethylene terephthalate) (PC/PET)",
+        "level": 0
+    },
+    {
+        "id": 597,
+        "name": "Poly(butylene terephthalate) and Polycarbonate (PBT/PC)",
+        "level": 0
+    },
+    {
+        "id": 654,
+        "name": "Polycarbonate and Poly(phthalate carbonate) (PC/PPC)",
+        "level": 0
+    },
+    {
+        "id": 673,
+        "name": "Polyamide 6 and Polyamide 12 (PA6/PA12)",
+        "level": 0
+    },
+    {
+        "id": 676,
+        "name": "Thermoplastic polyesters, copolymer (TPES)",
+        "level": 0
+    },
+    {
+        "id": 957,
+        "name": "Polyamide MXD6/PA66 (PAMXD6/PA66)",
+        "level": 0
+    },
+    {
+        "id": 970,
+        "name": "Polyamide 12 and Polyamide MACMI (PA12/MACMI)",
+        "level": 0
+    },
+    {
+        "id": 973,
+        "name": "Polyamide MACM10/1010 (PA MACM10/1010)",
+        "level": 0
+    },
+    {
+        "id": 975,
+        "name": "Polyamide 6I/X (PA 6I/X)",
+        "level": 0
+    },
+    {
+        "id": 1001,
+        "name": "Acrylonitrile-butadiene-styrene and Polycarbonate (ABS/PC)",
+        "level": 0
+    },
+    {
+        "id": 1018,
+        "name": "Ethylene/n-butyl acrylate/glycidyl methacrylate (EnBAGMA)",
+        "level": 0
+    },
+    {
+        "id": 1020,
+        "name": "Poly(butylene terephthalate) and Acrylonitrile-styrene-acrylate (PBT/ASA)",
+        "level": 0
+    },
+    {
+        "id": 1021,
+        "name": "Poly(butylene terephthalate) and Poly(ethylene terephthalate) (PBT/PET)",
+        "level": 0
+    },
+    {
+        "id": 1023,
+        "name": "Polyamide 6/66/12 (PA6/66/12)",
+        "level": 0
+    },
+    {
+        "id": 1039,
+        "name": "Polyamide 6/66/610 (PA6/66/610)",
+        "level": 0
+    },
+    {
+        "id": 1045,
+        "name": "Vinylidene fluoride and Hexafluoropropylene, copolymer (VDF/HFP)",
+        "level": 0
+    },
+    {
+        "id": 1075,
+        "name": "Vinylidene fluoride and chlorotrifluoroethylene, copolymer (VDF/CTFE)",
+        "level": 0
+    },
+    {
+        "id": 1093,
+        "name": "Acrylonitrile-butadiene-styrene and Polypropylene (ABS/PP)",
+        "level": 0
+    },
+    {
+        "id": 1180,
+        "name": "Polyethylene, low density and Ethylene-vinyl acetate (LDPE/EVA)",
+        "level": 0
+    },
+    {
+        "id": 1184,
+        "name": "Polylactic acid and Polyhydroxyalkanoates, copolymer (PLA/PHA)",
+        "level": 0
+    },
+    {
+        "id": 1198,
+        "name": "Polyethylene, low density and Polyethylene, linear low density (LDPE/LLDPE)",
+        "level": 0
+    },
+    {
+        "id": 1199,
+        "name": "Perfluorosulfonic acid and Polytetrafluoroethylene (PFSA/PTFE)",
+        "level": 0
+    },
+    {
+        "id": 3235,
+        "name": "Polyamide and Thermoplastic elastomer (PA/TPE)",
+        "level": 0
+    },
+    {
+        "id": 3241,
+        "name": "Polylactic acid and Polyethylene glycol (PLA/PEG)",
+        "level": 0
+    },
+    {
+        "id": 3250,
+        "name": "Polylactic acid and Polycaprolactone (PLA/PCL)",
+        "level": 0
+    },
+    {
+        "id": 3264,
+        "name": "Polyamide 6/69 (PA6/69)",
+        "level": 0
+    },
+    {
+        "id": 245,
+        "name": "Polycarbonate plastics (PC)",
+        "level": 0
+    },
+    {
+        "id": 247,
+        "name": "Liquid crystal polymer: Copolyester (polyarylterephthalate) (LCP)",
+        "level": 0
+    },
+    {
+        "id": 248,
+        "name": "Poly(butylene terephthalate) (PBT)",
+        "level": 0
+    },
+    {
+        "id": 249,
+        "name": "Poly(cyclohexylene dimethylene terephthalate) (PCT)",
+        "level": 0
+    },
+    {
+        "id": 250,
+        "name": "Poly(ethylene terephthalate) (PET)",
+        "level": 0
+    },
+    {
+        "id": 387,
+        "name": "Thermoplastic polyesters (TPES)",
+        "level": 0
+    },
+    {
+        "id": 388,
+        "name": "Poly(ethylene naphthalate) (PEN)",
+        "level": 0
+    },
+    {
+        "id": 389,
+        "name": "Polytrimethylene terephthalate (PTT)",
+        "level": 0
+    },
+    {
+        "id": 599,
+        "name": "Polyarylate (PAR)",
+        "level": 0
+    },
+    {
+        "id": 651,
+        "name": "Poly(phthalate carbonate) (PPC)",
+        "level": 0
+    },
+    {
+        "id": 1017,
+        "name": "Ionomer resin",
+        "level": 0
+    },
+    {
+        "id": 1097,
+        "name": "Cyanate ester resin (CE)",
+        "level": 0
+    },
+    {
+        "id": 1102,
+        "name": "Poly(ethylene terephthalate), glycol modified (PETG)",
+        "level": 0
+    },
+    {
+        "id": 1173,
+        "name": "Thermoplastic copolyester (Z)",
+        "level": 0
+    },
+    {
+        "id": 1174,
+        "name": "Polyester (Z)",
+        "level": 0
+    },
+    {
+        "id": 268,
+        "name": "Polyoxymethylene; polyformaldehyde (POM)",
+        "level": 0
+    },
+    {
+        "id": 269,
+        "name": "Poly(phenylene ether) (PPE)",
+        "level": 0
+    },
+    {
+        "id": 855,
+        "name": "Poly(propylene oxide) (PPOX)",
+        "level": 0
+    },
+    {
+        "id": 224,
+        "name": "Ethylene-tetrafluorethylene (ETFE)",
+        "level": 0
+    },
+    {
+        "id": 226,
+        "name": "Perfluoro(ethylene-propylene) plastic (FEP)",
+        "level": 0
+    },
+    {
+        "id": 246,
+        "name": "Polychlorotrifluoroethylene (PCTFE)",
+        "level": 0
+    },
+    {
+        "id": 261,
+        "name": "Perfluoro alkoxyl alkane resin (PFA)",
+        "level": 0
+    },
+    {
+        "id": 276,
+        "name": "Polytetrafluoroethylene (PTFE)",
+        "level": 0
+    },
+    {
+        "id": 284,
+        "name": "Poly(vinylidene fluoride) (PVDF)",
+        "level": 0
+    },
+    {
+        "id": 522,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 856,
+        "name": "Ethylene chlorotrifluoroethylene (ECTFE)",
+        "level": 0
+    },
+    {
+        "id": 1066,
+        "name": "Ethylene-tetrafluoroethylene-hexafluoropropene copolymer (EFEP)",
+        "level": 0
+    },
+    {
+        "id": 1090,
+        "name": "Chlorotrifluoroethylene-perfluoroalkoxy-tetrafluoroethylene (CPT)",
+        "level": 0
+    },
+    {
+        "id": 1144,
+        "name": "Perfluoro methyl alkoxyl alkane resin (MFA)",
+        "level": 0
+    },
+    {
+        "id": 243,
+        "name": "Polyaryletherketone (PAEK)",
+        "level": 0
+    },
+    {
+        "id": 252,
+        "name": "Polyetherketone (PEK)",
+        "level": 0
+    },
+    {
+        "id": 262,
+        "name": "Polyketone (PK)",
+        "level": 0
+    },
+    {
+        "id": 457,
+        "name": "Polyetheretherketone (PEEK)",
+        "level": 0
+    },
+    {
+        "id": 471,
+        "name": "Polyetherketoneketone (PEKK)",
+        "level": 0
+    },
+    {
+        "id": 586,
+        "name": "Polyetherketoneetherketoneketone (PEKEKK)",
+        "level": 0
+    },
+    {
+        "id": 219,
+        "name": "Polyethylene, chlorinated (CPE)",
+        "level": 0
+    },
+    {
+        "id": 244,
+        "name": "Polybutene (PB)",
+        "level": 0
+    },
+    {
+        "id": 254,
+        "name": "Polyethylene (PE)",
+        "level": 0
+    },
+    {
+        "id": 255,
+        "name": "Polyethylene, linear low density (LLDPE)",
+        "level": 0
+    },
+    {
+        "id": 256,
+        "name": "Polyethylene, low density (LDPE)",
+        "level": 0
+    },
+    {
+        "id": 257,
+        "name": "Polyethylene, linear medium density (LMDPE)",
+        "level": 0
+    },
+    {
+        "id": 258,
+        "name": "Polyethylene, medium density (MDPE)",
+        "level": 0
+    },
+    {
+        "id": 259,
+        "name": "Polyethylene, high density (HDPE)",
+        "level": 0
+    },
+    {
+        "id": 260,
+        "name": "Polyethylene, ultra high molecular weight (PE-UHMW)",
+        "level": 0
+    },
+    {
+        "id": 264,
+        "name": "Polyisobutylene (PIB)",
+        "level": 0
+    },
+    {
+        "id": 267,
+        "name": "Poly(4-methylpent-1-ene) (PMP)",
+        "level": 0
+    },
+    {
+        "id": 270,
+        "name": "Polypropylene (PP)",
+        "level": 0
+    },
+    {
+        "id": 386,
+        "name": "Ethylene terpolymer (ETP, unspecified)",
+        "level": 0
+    },
+    {
+        "id": 475,
+        "name": "Polyethylene, silane crosslinkable (PEX-B)",
+        "level": 0
+    },
+    {
+        "id": 479,
+        "name": "Polyolefin, crosslinkable (XLPO)",
+        "level": 0
+    },
+    {
+        "id": 526,
+        "name": "Polypropylene, high impact (HIPP)",
+        "level": 0
+    },
+    {
+        "id": 527,
+        "name": "Polyolefins (Z)",
+        "level": 0
+    },
+    {
+        "id": 634,
+        "name": "Poly-α-olefin (PAO)",
+        "level": 0
+    },
+    {
+        "id": 675,
+        "name": "Polyethylene, crosslinkable (XLPE)",
+        "level": 0
+    },
+    {
+        "id": 686,
+        "name": "Polyethylene, very low density (VLDPE)",
+        "level": 0
+    },
+    {
+        "id": 968,
+        "name": "Polyethylene, high molecular weight (PE-HMW)",
+        "level": 0
+    },
+    {
+        "id": 1143,
+        "name": "Polyethylene, high molecular weight high density (PE-HMWHD)",
+        "level": 0
+    },
+    {
+        "id": 3293,
+        "name": "Cyclic olefin polymers (COP)",
+        "level": 0
+    },
+    {
+        "id": 210,
+        "name": "Acrylonitrile-butadiene-styrene plastic (ABS)",
+        "level": 0
+    },
+    {
+        "id": 211,
+        "name": "Acrylonitrile-chlorinated polyethylene-styrene plastics (ACPES)",
+        "level": 0
+    },
+    {
+        "id": 212,
+        "name": "Acrylonitrile-ethylene-styrene plastics (AES)",
+        "level": 0
+    },
+    {
+        "id": 271,
+        "name": "Polystyrene (PS)",
+        "level": 0
+    },
+    {
+        "id": 287,
+        "name": "Styrene-acrylonitrile plastic (SAN)",
+        "level": 0
+    },
+    {
+        "id": 288,
+        "name": "Styrene-butadiene plastic (SB)",
+        "level": 0
+    },
+    {
+        "id": 289,
+        "name": "Styrene-maleic anhydride plastics (SMA)",
+        "level": 0
+    },
+    {
+        "id": 357,
+        "name": "Polystyrene, syndiotactic (SPS)",
+        "level": 0
+    },
+    {
+        "id": 358,
+        "name": "Polystyrene, recycled (RPS)",
+        "level": 0
+    },
+    {
+        "id": 490,
+        "name": "Methyl-methacrylate-acrylonitrile-butadiene-styrene plastic (MABS)",
+        "level": 0
+    },
+    {
+        "id": 525,
+        "name": "Polystyrene, high impact (HIPS)",
+        "level": 0
+    },
+    {
+        "id": 583,
+        "name": "Polystyrene, impact resistant (PS-I)",
+        "level": 0
+    },
+    {
+        "id": 594,
+        "name": "Poly(α-methylstyrene) (PMS)",
+        "level": 0
+    },
+    {
+        "id": 726,
+        "name": "Methyl methacrylate-butadiene-styrene plastic (MBS)",
+        "level": 0
+    },
+    {
+        "id": 1038,
+        "name": "Styrene-N-phenylmaleimide-maleic anhydride (SMI)",
+        "level": 0
+    },
+    {
+        "id": 220,
+        "name": "Poly(vinyl chloride), chlorinated (PVC-C)",
+        "level": 0
+    },
+    {
+        "id": 225,
+        "name": "Ethylene-(vinyl alcohol) plastic (EVOH)",
+        "level": 0
+    },
+    {
+        "id": 277,
+        "name": "Poly(vinyl butyral) (PVB)",
+        "level": 0
+    },
+    {
+        "id": 279,
+        "name": "Poly(vinyl chloride) (PVC)",
+        "level": 0
+    },
+    {
+        "id": 280,
+        "name": "Poly(vinyl chloride acetate) (PVCA)",
+        "level": 0
+    },
+    {
+        "id": 283,
+        "name": "Poly(vinylidene chloride) (PVDC)",
+        "level": 0
+    },
+    {
+        "id": 378,
+        "name": "Ethylene-vinyl acetate (EVA)",
+        "level": 0
+    },
+    {
+        "id": 382,
+        "name": "Ethylene/vinyl acetate/carbon monoxide terpolymer (EVACO)",
+        "level": 0
+    },
+    {
+        "id": 762,
+        "name": "Poly(vinyl chloride), unplasticized (PVC-U)",
+        "level": 0
+    },
+    {
+        "id": 1096,
+        "name": "Poly(vinyl alcohol) (PVAL)",
+        "level": 0
+    },
+    {
+        "id": 1117,
+        "name": "Butenediol-(vinyl alcohol) plastic (BVOH)",
+        "level": 0
+    },
+    {
+        "id": 3318,
+        "name": "Ethylene/vinyl acetate/glycidyl methacrylate terpolymer (EVA-GMA)",
+        "level": 0
+    },
+    {
+        "id": 239,
+        "name": "Polyamideimide (PAI)",
+        "level": 0
+    },
+    {
+        "id": 251,
+        "name": "Polyetherimide (PEI)",
+        "level": 0
+    },
+    {
+        "id": 263,
+        "name": "Polyimide (PI)",
+        "level": 0
+    },
+    {
+        "id": 266,
+        "name": "Poly-N-methylmethacrylateimide (PMMI)",
+        "level": 0
+    },
+    {
+        "id": 709,
+        "name": "Bismaleimide (BMI)",
+        "level": 0
+    },
+    {
+        "id": 969,
+        "name": "Polybenzimidazole (PBI)",
+        "level": 0
+    },
+    {
+        "id": 297,
+        "name": "Acrylonitrile-butadiene-styrene and Polyamide (ABS+PA)",
+        "level": 0
+    },
+    {
+        "id": 298,
+        "name": "Acrylonitrile-butadiene-styrene and Polycarbonate (ABS+PC)",
+        "level": 0
+    },
+    {
+        "id": 301,
+        "name": "Acrylonitrile-butadiene-styrene and Poly(vinyl chloride) (ABS+PVC)",
+        "level": 0
+    },
+    {
+        "id": 303,
+        "name": "Acrylonitrile-butadiene-styrene and Thermoplastic polyurethane elastomer (ABS+TPU)",
+        "level": 0
+    },
+    {
+        "id": 304,
+        "name": "Acrylonitrile-styrene-acrylate and Polycarbonate (ASA+PC)",
+        "level": 0
+    },
+    {
+        "id": 305,
+        "name": "Acrylonitrile-styrene-acrylate and Poly(methyl methacrylate) (ASA+PMMA)",
+        "level": 0
+    },
+    {
+        "id": 309,
+        "name": "Polyamide and Polyethylene (PA+PE)",
+        "level": 0
+    },
+    {
+        "id": 311,
+        "name": "Polycarbonate and Poly(butylene terephthalate) (PC+PBT)",
+        "level": 0
+    },
+    {
+        "id": 312,
+        "name": "Polycarbonate and Poly(ethylene terephthalate) (PC+PET)",
+        "level": 0
+    },
+    {
+        "id": 313,
+        "name": "Polycarbonate and Poly(cyclohexylene dimethylene terephthalate) (PC+PCT)",
+        "level": 0
+    },
+    {
+        "id": 315,
+        "name": "Polycarbonate and Thermoplastic polyurethane elastomer (PC+TPU)",
+        "level": 0
+    },
+    {
+        "id": 316,
+        "name": "Poly(butylene terephthalate) and Acrylonitrile-styrene-acrylate (PBT+ASA)",
+        "level": 0
+    },
+    {
+        "id": 317,
+        "name": "Poly(butylene terephthalate) and Poly(ethylene terephthalate) (PBT+PET)",
+        "level": 0
+    },
+    {
+        "id": 318,
+        "name": "Poly(butylene terephthalate) and Poly(phenylene ether) (PBT+PPE)",
+        "level": 0
+    },
+    {
+        "id": 323,
+        "name": "Poly(phenylene ether) and Polyamide (PPE+PA)",
+        "level": 0
+    },
+    {
+        "id": 324,
+        "name": "Poly(phenylene ether) and Polystyrene, high impact (PPE+HIPS)",
+        "level": 0
+    },
+    {
+        "id": 326,
+        "name": "Polypropylene and Ethylene/propylene/diene monomer (PP+EPDM)",
+        "level": 0
+    },
+    {
+        "id": 327,
+        "name": "Polysulfone and Acrylonitrile-butadiene-styrene (PSU+ABS)",
+        "level": 0
+    },
+    {
+        "id": 328,
+        "name": "Polysulfone and Polycarbonate (PSU+PC)",
+        "level": 0
+    },
+    {
+        "id": 331,
+        "name": "Poly(vinyl chloride) and Nitrile butadiene rubber (PVC+NBR)",
+        "level": 0
+    },
+    {
+        "id": 332,
+        "name": "Poly(vinyl chloride) and Poly(methyl methacrylate) (PVC+PMMA)",
+        "level": 0
+    },
+    {
+        "id": 333,
+        "name": "Poly(vinyl chloride) and Polyurethane (PVC+PUR)",
+        "level": 0
+    },
+    {
+        "id": 334,
+        "name": "Styrene/maleic anhydride and Polystyrene, high impact (SMA+HIPS)",
+        "level": 0
+    },
+    {
+        "id": 335,
+        "name": "Polyamide 6 and Polypropylene (PA6+PP)",
+        "level": 0
+    },
+    {
+        "id": 340,
+        "name": "Polyamide 6 and Acrylonitrile-styrene-acrylate (PA6+ASA)",
+        "level": 0
+    },
+    {
+        "id": 341,
+        "name": "Polyamide 66 and Polypropylene (PA66+PP)",
+        "level": 0
+    },
+    {
+        "id": 345,
+        "name": "Poly(phenylene ether) and Polystyrene (PPE+PS)",
+        "level": 0
+    },
+    {
+        "id": 352,
+        "name": "Poly(1,4-cyclohexylenedimethylene terephthalate), glycol modified and Polycarbonate (PCTG+PC)",
+        "level": 0
+    },
+    {
+        "id": 362,
+        "name": "Polyamide and Polypropylene (PA+PP)",
+        "level": 0
+    },
+    {
+        "id": 363,
+        "name": "Polypropylene and Polyethylene (PP+PE)",
+        "level": 0
+    },
+    {
+        "id": 364,
+        "name": "Acrylonitrile-styrene-acrylate and Acrylonitrile-ethylene-styrene (ASA+AES)",
+        "level": 0
+    },
+    {
+        "id": 365,
+        "name": "Acrylonitrile-ethylene-styrene and Polycarbonate (AES+PC)",
+        "level": 0
+    },
+    {
+        "id": 372,
+        "name": "Polyamide 6 and Polyamide 12 (PA6+PA12)",
+        "level": 0
+    },
+    {
+        "id": 379,
+        "name": "Polyamide 6T/XT and Polyamide 6T/66 (PA6T/XT+PA6T/66)",
+        "level": 0
+    },
+    {
+        "id": 380,
+        "name": "Poly(butylene terephthalate) and Styrene-acrylonitrile (PBT+SAN)",
+        "level": 0
+    },
+    {
+        "id": 391,
+        "name": "Polypropylene and Etylene-vinyl acetate plastic (PP+EVA)",
+        "level": 0
+    },
+    {
+        "id": 392,
+        "name": "Poly(phenylene sulfide) and Polyamide (PPS+PA)",
+        "level": 0
+    },
+    {
+        "id": 395,
+        "name": "Polyamide 6 and Polyamide 6/66 (PA6+PA66/6)",
+        "level": 0
+    },
+    {
+        "id": 396,
+        "name": "Polyamide 6 and Polyamide 66 (PA6+PA66)",
+        "level": 0
+    },
+    {
+        "id": 397,
+        "name": "Poly(butylene terephthalate) and Poly(ethylene terephthalate), glycol modified (PBT+PETG)",
+        "level": 0
+    },
+    {
+        "id": 458,
+        "name": "Polyoxymethylene and Polyurethane (POM+PUR)",
+        "level": 0
+    },
+    {
+        "id": 460,
+        "name": "Polycarbonate and Styrene-acrylonitrile (PC+SAN)",
+        "level": 0
+    },
+    {
+        "id": 461,
+        "name": "Polyoxymethylene and Methyl methacrylate-butadiene-styrene plastic (POM+MBS)",
+        "level": 0
+    },
+    {
+        "id": 462,
+        "name": "Polyamide 6 and Polyamide 6I/6T (PA 6+PA 6I/6T)",
+        "level": 0
+    },
+    {
+        "id": 463,
+        "name": "Polylactic acid and Acrylonitrile-butadiene-styrene (PLA+ABS)",
+        "level": 0
+    },
+    {
+        "id": 464,
+        "name": "Polylactic acid and Polyethylene, high density (PLA+HDPE)",
+        "level": 0
+    },
+    {
+        "id": 465,
+        "name": "Polycarbonate and Polylactic acid (PC+PLA)",
+        "level": 0
+    },
+    {
+        "id": 470,
+        "name": "Polycarbonate and Poly(methyl methacrylate) (PC+PMMA)",
+        "level": 0
+    },
+    {
+        "id": 473,
+        "name": "Polyamide 66 and Polyamide 610 (PA66+PA610)",
+        "level": 0
+    },
+    {
+        "id": 477,
+        "name": "Polyamide 12/MACMI and Polyamide 12 (PA12/MACMI+PA12)",
+        "level": 0
+    },
+    {
+        "id": 482,
+        "name": "Polyamide MACM12 and Polyamide 12 (PA MACM12+PA 12)",
+        "level": 0
+    },
+    {
+        "id": 484,
+        "name": "Polyamide 66 and Polyamide 6I/X (PA66+PA6I/X)",
+        "level": 0
+    },
+    {
+        "id": 485,
+        "name": "Polyamide 66 and Polyamide 6I (PA66+PA6I)",
+        "level": 0
+    },
+    {
+        "id": 491,
+        "name": "Acrylonitrile-butadiene-styrene and Poly(butylene terephthalate) (ABS+PBT)",
+        "level": 0
+    },
+    {
+        "id": 492,
+        "name": "Acrylonitrile-styrene-acrylate and Polyamide (ASA+PA)",
+        "level": 0
+    },
+    {
+        "id": 493,
+        "name": "Poly(phenylene ether) and Polyamide 6 (PPE+PA6)",
+        "level": 0
+    },
+    {
+        "id": 494,
+        "name": "Poly(phenylene ether) and Polyamide 66 (PPE+PA66)",
+        "level": 0
+    },
+    {
+        "id": 503,
+        "name": "Thermoplastic copolyester elastomer, polyether soft segment and Poly(butylene terephthalate) (TPC-ET+PBT)",
+        "level": 0
+    },
+    {
+        "id": 504,
+        "name": "Thermoplastic elastomer blend of Polyurethane and Styrenic and Polyamide elastomer (TPU+TPS+TPA)",
+        "level": 0
+    },
+    {
+        "id": 505,
+        "name": "Polylactic acid and Poly(methyl methacrylate) (PLA+PMMA)",
+        "level": 0
+    },
+    {
+        "id": 515,
+        "name": "Thermoplastic copolyester elastomer, ether-ester and Poly(butylene terephthalate) (TPC-EE+PBT)",
+        "level": 0
+    },
+    {
+        "id": 517,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 518,
+        "name": "Polycarbonate and Thermoplastic polyesters (PC+TPES)",
+        "level": 0
+    },
+    {
+        "id": 529,
+        "name": "Polypropylene and Etylene propylene rubber (PP+EPR)",
+        "level": 0
+    },
+    {
+        "id": 544,
+        "name": "Polystyrene and Not specified (Polyolefins) (PS+Z)",
+        "level": 0
+    },
+    {
+        "id": 554,
+        "name": "Poly(phenylene sulfide) and Poly(phenylene ether) (PPS+PPE)",
+        "level": 0
+    },
+    {
+        "id": 555,
+        "name": "Poly(phenylene ether) and Polypropylene (PPE+PP)",
+        "level": 0
+    },
+    {
+        "id": 579,
+        "name": "Polyoxymethylene and Polyethylene (POM+PE)",
+        "level": 0
+    },
+    {
+        "id": 588,
+        "name": "Poly(butylene terephthalate) and Polyethylene (PBT+PE)",
+        "level": 0
+    },
+    {
+        "id": 590,
+        "name": "Polycarbonate and Methyl methacrylate-butadiene-styrene plastic (PC+MBS)",
+        "level": 0
+    },
+    {
+        "id": 593,
+        "name": "Polycarbonate and Poly(butylene terephthalate) and Poly(ethylene terephthalate) (PC+PET+PBT)",
+        "level": 0
+    },
+    {
+        "id": 595,
+        "name": "Poly(butylene terephthalate) and Poly(ethylene terephthalate) and Acrylonitrile-styrene-acrylate plastic (PBT+PET+ASA)",
+        "level": 0
+    },
+    {
+        "id": 598,
+        "name": "Polycarbonate and Polystyrene, high impact (PC+HIPS)",
+        "level": 0
+    },
+    {
+        "id": 641,
+        "name": "Poly(phenylene ether) and Polystyrene and Polyamide (PPE+PS+PA)",
+        "level": 0
+    },
+    {
+        "id": 642,
+        "name": "Acrylonitrile-styrene-acrylate and Styrene-acrylonitrile plastic (ASA+SAN)",
+        "level": 0
+    },
+    {
+        "id": 652,
+        "name": "Polyetherimide and Polycarbonate ester (PEI+PCE)",
+        "level": 0
+    },
+    {
+        "id": 653,
+        "name": "Acrylonitrile-styrene-acrylate and α-Methylstyrene-acrylonitrile plastic (ASA+MSAN)",
+        "level": 0
+    },
+    {
+        "id": 655,
+        "name": "Polycarbonate and Poly(phthalate carbonate) (PC+PPC)",
+        "level": 0
+    },
+    {
+        "id": 674,
+        "name": "Liquid crystal polymer: Copolyester (polyarylterephthalate) and Poly(phenylene sulfide) (LCP+PPS)",
+        "level": 0
+    },
+    {
+        "id": 678,
+        "name": "Acrylonitrile-butadiene-styrene and Polyamide 6 (ABS+PA6)",
+        "level": 0
+    },
+    {
+        "id": 680,
+        "name": "Copolyester thermoplastic elastomer, polyether soft segment and Ethylene-methacrylic acid plastic (TPC-ET+EMAA)",
+        "level": 0
+    },
+    {
+        "id": 682,
+        "name": "Polyamide 66 and Polyethylene (PA66+PE)",
+        "level": 0
+    },
+    {
+        "id": 683,
+        "name": "Polyamide 6 and Not specified (Polyolefins) (PA6+Z)",
+        "level": 0
+    },
+    {
+        "id": 684,
+        "name": "Acrylonitrile-styrene-acrylate and Acrylonitrile-butadiene-styrene (ASA+ABS)",
+        "level": 0
+    },
+    {
+        "id": 685,
+        "name": "Polypropylene and Poly(phenylene ether) and Polystyrene (PP+PPE+PS)",
+        "level": 0
+    },
+    {
+        "id": 687,
+        "name": "Poly(phenylene ether) and Thermoplastic elastomer (PPE+TPE)",
+        "level": 0
+    },
+    {
+        "id": 689,
+        "name": "Poly(phenylene ether) and Not specified (Polyolefins) (PPE+Z)",
+        "level": 0
+    },
+    {
+        "id": 690,
+        "name": "Poly(phenylene ether) and Styrene ethylene/butylene styrene block copolymer and Not specified (Polyolefins) (PPE+TPS-SEBS+Z)",
+        "level": 0
+    },
+    {
+        "id": 696,
+        "name": "Polyamide and Not specified (Z) (PA+Z)",
+        "level": 0
+    },
+    {
+        "id": 697,
+        "name": "Polyamide and Thermoplastic elastomer (PA+TPE)",
+        "level": 0
+    },
+    {
+        "id": 707,
+        "name": "Poly(phenylene ether) and Styrene ethylene/butylene styrene block copolymer (PPE+TPS-SEBS)",
+        "level": 0
+    },
+    {
+        "id": 727,
+        "name": "Acrylonitrile-butadiene-styrene and Poly(methyl methacrylate) (ABS+PMMA)",
+        "level": 0
+    },
+    {
+        "id": 745,
+        "name": "Polycarbonate and Polystyrene (PC+PS)",
+        "level": 0
+    },
+    {
+        "id": 746,
+        "name": "Polyamide and Polystyrene, syndiotactic (PA+SPS)",
+        "level": 0
+    },
+    {
+        "id": 747,
+        "name": "Polystyrene and Polystyrene, syndiotactic (PS+SPS)",
+        "level": 0
+    },
+    {
+        "id": 750,
+        "name": "Polyamide 66 and Polyamide 6I/6T (PA66+PA6I/6T)",
+        "level": 0
+    },
+    {
+        "id": 757,
+        "name": "Polystyrene and Polyethylene (PS+PE)",
+        "level": 0
+    },
+    {
+        "id": 799,
+        "name": "Poly(phenylene sulfone) and Polysulfone (PPSU+PSU)",
+        "level": 0
+    },
+    {
+        "id": 826,
+        "name": "Polyamide 6 and Polyethylene (PA6+PE)",
+        "level": 0
+    },
+    {
+        "id": 828,
+        "name": "Acrylonitrile-styrene-acrylate and Thermoplastic elastomer (ASA+TPE)",
+        "level": 0
+    },
+    {
+        "id": 829,
+        "name": "Acrylonitrile-butadiene-styrene and Thermoplastic elastomer (ABS+TPE)",
+        "level": 0
+    },
+    {
+        "id": 830,
+        "name": "Poly(ethylene terephthalate) and Polyamide 6 (PET+PA6)",
+        "level": 0
+    },
+    {
+        "id": 831,
+        "name": "Vinyl Chloride blend",
+        "level": 0
+    },
+    {
+        "id": 866,
+        "name": "Polybutyrate and Polylactic acid (PBAT+PLA)",
+        "level": 0
+    },
+    {
+        "id": 967,
+        "name": "Polyamide 6T/66 and Not specified (PA6T/66+Z)",
+        "level": 0
+    },
+    {
+        "id": 974,
+        "name": "Polyamide MACM12 and Not specified (PA MACM12+Z)",
+        "level": 0
+    },
+    {
+        "id": 976,
+        "name": "Polyamide 6 and Polyamide 12/X (PA6+PA12/X)",
+        "level": 0
+    },
+    {
+        "id": 978,
+        "name": "Polyamide 1010 and Not specified (PA1010+Z)",
+        "level": 0
+    },
+    {
+        "id": 983,
+        "name": "Polyamide 610 and Not specified (PA610+Z)",
+        "level": 0
+    },
+    {
+        "id": 1010,
+        "name": "Acrylonitrile-butadiene-styrene and Poly(ethylene terephthalate) (ABS+PET)",
+        "level": 0
+    },
+    {
+        "id": 1024,
+        "name": "Polypropylene and Not specified (PP+Z)",
+        "level": 0
+    },
+    {
+        "id": 1028,
+        "name": "Polyoxymethylene; polyformaldehyde and Not specified (POM+Z)",
+        "level": 0
+    },
+    {
+        "id": 1029,
+        "name": "Polyamide and Polyethylene, high density (PA+HDPE)",
+        "level": 0
+    },
+    {
+        "id": 1091,
+        "name": "Acrylonitrile-butadiene-styrene and Thermoplastic polyesters (ABS+TPES)",
+        "level": 0
+    },
+    {
+        "id": 1103,
+        "name": "Polyamide and Polyamide 6/66 (PA+PA66/6)",
+        "level": 0
+    },
+    {
+        "id": 1123,
+        "name": "Poly(vinyl chloride), chlorinated and Poly(vinyl chloride) (PVC-C+PVC)",
+        "level": 0
+    },
+    {
+        "id": 1124,
+        "name": "Acrylonitrile-butadiene-styrene and Poly(vinyl chloride), chlorinated (ABS+PVC-C)",
+        "level": 0
+    },
+    {
+        "id": 1128,
+        "name": "Polyamide 66 and Polyphthalamide (PA66+PPA)",
+        "level": 0
+    },
+    {
+        "id": 1142,
+        "name": "Acrylonitrile-butadiene-styrene and Polyamide 66 (ABS+PA66)",
+        "level": 0
+    },
+    {
+        "id": 1179,
+        "name": "Acrylonitrile-butadiene-styrene and Styrene-acrylonitrile (ABS+SAN)",
+        "level": 0
+    },
+    {
+        "id": 1181,
+        "name": "Poly(butylene terephthalate) and Polystyrene (PBT+PS)",
+        "level": 0
+    },
+    {
+        "id": 1185,
+        "name": "Polyamide 46 and Polyamide 6 (PA46+PA6)",
+        "level": 0
+    },
+    {
+        "id": 1200,
+        "name": "Poly(ethylene terephthalate) and Polyamide 66 (PET+PA66)",
+        "level": 0
+    },
+    {
+        "id": 3233,
+        "name": "Polystyrene and Poly(methyl methacrylate) (PS+PMMA)",
+        "level": 0
+    },
+    {
+        "id": 3238,
+        "name": "Polylactic acid and Polyhydroxybutyrate (PLA+PHB)",
+        "level": 0
+    },
+    {
+        "id": 3242,
+        "name": "Polyethylene and Polystyrene, high impact (PE+HIPS)",
+        "level": 0
+    },
+    {
+        "id": 3253,
+        "name": "Polyamide 66 and Polyamide 612 (PA66+PA612)",
+        "level": 0
+    },
+    {
+        "id": 3269,
+        "name": "Polyamide and Polyphthalamide (PA+PPA)",
+        "level": 0
+    },
+    {
+        "id": 3273,
+        "name": "Poly(phenylene ether) and Polyphthalamide (PPE+PPA)",
+        "level": 0
+    },
+    {
+        "id": 3301,
+        "name": "Polyamide 6 and Styrene ethylene/butylene styrene block copolymer (PA6+TPS-SEBS)",
+        "level": 0
+    },
+    {
+        "id": 3303,
+        "name": "Acrylonitrile-butadiene-styrene and Polyamide 610 (ABS+PA610)",
+        "level": 0
+    },
+    {
+        "id": 3304,
+        "name": "Polyetherimide and Poly(phenylene sulfide) (PEI+PPS)",
+        "level": 0
+    },
+    {
+        "id": 3316,
+        "name": "Polyamide 46 and Polyamide 66 (PA46+PA66)",
+        "level": 0
+    },
+    {
+        "id": 3317,
+        "name": "Polyamide 66 and Polyamide 6T/X (PA66+PA6T/X)",
+        "level": 0
+    },
+    {
+        "id": 3319,
+        "name": "Polypropylene and Polyethylene, low density (PP+LDPE)",
+        "level": 0
+    },
+    {
+        "id": 3320,
+        "name": "Polyethylene, low density and Polyethylene, linear low density (LDPE+LLDPE)",
+        "level": 0
+    },
+    {
+        "id": 3321,
+        "name": "Polypropylene and Polyethylene, high density (PP+HDPE)",
+        "level": 0
+    },
+    {
+        "id": 3372,
+        "name": "Polyamide and Poly(propylene oxide) (PA+PPOX)",
+        "level": 0
+    },
+    {
+        "id": 3373,
+        "name": "Polyethylene, high density and Polyethylene, low density (HDPE+LDPE)",
+        "level": 0
+    },
+    {
+        "id": 3374,
+        "name": "Acrylonitrile-butadiene-styrene, Polycarbonate, and Poly(methyl methacrylate) (ABS+PC+PMMA)",
+        "level": 0
+    },
+    {
+        "id": 3375,
+        "name": "Polyamide and Polyethylene, low density (PA+LDPE)",
+        "level": 0
+    },
+    {
+        "id": 215,
+        "name": "Cellulose acetate (CA)",
+        "level": 0
+    },
+    {
+        "id": 216,
+        "name": "Cellulose acetate butyrate (CAB)",
+        "level": 0
+    },
+    {
+        "id": 217,
+        "name": "Cellulose acetate propionate (CAP)",
+        "level": 0
+    },
+    {
+        "id": 218,
+        "name": "Cellulose propionate (CP)",
+        "level": 0
+    },
+    {
+        "id": 469,
+        "name": "Polylactic acid (PLA)",
+        "level": 0
+    },
+    {
+        "id": 587,
+        "name": "Polyglycolic acid (PGA)",
+        "level": 0
+    },
+    {
+        "id": 688,
+        "name": "Ethyl cellulose (EC)",
+        "level": 0
+    },
+    {
+        "id": 865,
+        "name": "Polybutyrate (PBAT)",
+        "level": 0
+    },
+    {
+        "id": 1120,
+        "name": "Polycaprolactone (PCL)",
+        "level": 0
+    },
+    {
+        "id": 1146,
+        "name": "Polybutylene succinate (PBS)",
+        "level": 0
+    },
+    {
+        "id": 1149,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 2217,
+        "name": "Polyhydroxyalkanoates (PHA)",
+        "level": 0
+    },
+    {
+        "id": 2218,
+        "name": "Polyhydroxybutyrate (PHB)",
+        "level": 0
+    },
+    {
+        "id": 2219,
+        "name": "Poly(hydroxybutyrate-co-hydroxyvalerate) (PHBV)",
+        "level": 0
+    },
+    {
+        "id": 3239,
+        "name": "Polylactic-co-glycolic acid (PLGA)",
+        "level": 0
+    },
+    {
+        "id": 253,
+        "name": "Poly(ether sulfone) (PESU)",
+        "level": 0
+    },
+    {
+        "id": 272,
+        "name": "Polysulfone (PSU)",
+        "level": 0
+    },
+    {
+        "id": 275,
+        "name": "Poly(phenylene sulfone) (PPSU)",
+        "level": 0
+    },
+    {
+        "id": 274,
+        "name": "Poly(phenylene sulfide) (PPS)",
+        "level": 0
+    },
+    {
+        "id": 459,
+        "name": "Polyphenylene, self reinforced (SRP)",
+        "level": 0
+    },
+    {
+        "id": 715,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 1017,
+        "name": "Ionomer resin",
+        "level": 0
+    },
+    {
+        "id": 227,
+        "name": "Phenol-formaldehyde resin (PF)",
+        "level": 0
+    },
+    {
+        "id": 848,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 1011,
+        "name": "Melamine-Phenolic resin (MP)",
+        "level": 0
+    },
+    {
+        "id": 296,
+        "name": "Urea-formaldehyde (UF)",
+        "level": 0
+    },
+    {
+        "id": 677,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 800,
+        "name": "Melamine resin (MF)",
+        "level": 0
+    },
+    {
+        "id": 1011,
+        "name": "Melamine-Phenolic resin (MP)",
+        "level": 0
+    },
+    {
+        "id": 361,
+        "name": "Vinyl ester resin (VE)",
+        "level": 0
+    },
+    {
+        "id": 704,
+        "name": "Poly(diallyl phthalate) (PDAP)",
+        "level": 0
+    },
+    {
+        "id": 705,
+        "name": "Poly(diallyl isophthalate) (PDAIP)",
+        "level": 0
+    },
+    {
+        "id": 708,
+        "name": "Unsaturated polyester resin (UP)",
+        "level": 0
+    },
+    {
+        "id": 691,
+        "name": "Epoxy resin (EP)",
+        "level": 0
+    },
+    {
+        "id": 1108,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 1113,
+        "name": "Polyamide (PA)",
+        "level": 0
+    },
+    {
+        "id": 1115,
+        "name": "Methacrylate (MA)",
+        "level": 0
+    },
+    {
+        "id": 1116,
+        "name": "Cyanoacrylate (CA)",
+        "level": 0
+    },
+    {
+        "id": 1121,
+        "name": "Acrylic (Z)",
+        "level": 0
+    },
+    {
+        "id": 867,
+        "name": "Polyurethane (PUR)",
+        "level": 0
+    },
+    {
+        "id": 3291,
+        "name": "Dicyclopentadiene (DCPD)",
+        "level": 0
+    },
+    {
+        "id": 291,
+        "name": "Thermoplastic elastomer, chlorinated ethylene alloy (TPZ-(NBR+PVC))",
+        "level": 0
+    },
+    {
+        "id": 292,
+        "name": "Polyether block amide (PEBA)",
+        "level": 0
+    },
+    {
+        "id": 370,
+        "name": "Thermoplastic elastomer (TPE)",
+        "level": 0
+    },
+    {
+        "id": 837,
+        "name": "Unclassified thermoplastic elastomer (TPZ)",
+        "level": 0
+    },
+    {
+        "id": 1209,
+        "name": "Melt processable rubber (MPR)",
+        "level": 0
+    },
+    {
+        "id": 561,
+        "name": "Thermoplastic elastomer, polyamide (TPA)",
+        "level": 0
+    },
+    {
+        "id": 294,
+        "name": "Thermoplastic elastomer, ether-ester (TPC-EE)",
+        "level": 0
+    },
+    {
+        "id": 501,
+        "name": "Copolyester thermoplastic elastomer, polyester soft segment (TPC-ES)",
+        "level": 0
+    },
+    {
+        "id": 502,
+        "name": "Copolyester thermoplastic elastomer, polyether soft segment (TPC-ET)",
+        "level": 0
+    },
+    {
+        "id": 506,
+        "name": "Thermoplastic polyesters elastomers (TPC)",
+        "level": 0
+    },
+    {
+        "id": 293,
+        "name": "Thermoplastic elastomer, olefinic (TPO)",
+        "level": 0
+    },
+    {
+        "id": 552,
+        "name": "Thermoplastic polyolefin, blend of Ethylene/propylene/diene terpolymer with Polypropylene (TPO-(EPDM+PP))",
+        "level": 0
+    },
+    {
+        "id": 1012,
+        "name": "Thermoplastic polyolefin, copolymer of Ethylene/butene (TPO-EB)",
+        "level": 0
+    },
+    {
+        "id": 1013,
+        "name": "Thermoplastic polyolefin, copolymer of Ethylene/octene (TPO-EO)",
+        "level": 0
+    },
+    {
+        "id": 348,
+        "name": "Thermoplastic elastomer, styrenic (TPS)",
+        "level": 0
+    },
+    {
+        "id": 549,
+        "name": "Styrene isoprene styrene block copolymer (TPS-SIS)",
+        "level": 0
+    },
+    {
+        "id": 550,
+        "name": "Styrene butadiene styrene block copolymer (TPS-SBS)",
+        "level": 0
+    },
+    {
+        "id": 551,
+        "name": "Styrene ethylene/butylene styrene block copolymer (TPS-SEBS)",
+        "level": 0
+    },
+    {
+        "id": 295,
+        "name": "Thermoplastic polyurethane elastomer (TPU)",
+        "level": 0
+    },
+    {
+        "id": 510,
+        "name": "Thermoplastic polyurethane elastomer, aliphatic hard segment, polyester soft segment (TPU-ALES)",
+        "level": 0
+    },
+    {
+        "id": 511,
+        "name": "Thermoplastic polyurethane elastomer, aliphatic hard segment, polyether soft segment (TPU-ALET)",
+        "level": 0
+    },
+    {
+        "id": 512,
+        "name": "Thermoplastic polyurethane elastomer, aromatic hard segment, polyester soft segment (TPU-ARES)",
+        "level": 0
+    },
+    {
+        "id": 513,
+        "name": "Thermoplastic polyurethane elastomer, aromatic hard segment, polyether soft segment (TPU-ARET)",
+        "level": 0
+    },
+    {
+        "id": 959,
+        "name": "Thermoplastic polycarbonate polyurethane (PCU)",
+        "level": 0
+    },
+    {
+        "id": 960,
+        "name": "Segmented polyurethane (SPU)",
+        "level": 0
+    },
+    {
+        "id": 961,
+        "name": "Thermoplastic silicone polycarbonate urethane (TSPCU)",
+        "level": 0
+    },
+    {
+        "id": 962,
+        "name": "Thermoplastic silicone polyether urethane (TSPU)",
+        "level": 0
+    },
+    {
+        "id": 1026,
+        "name": "Thermoplastic polyurethane elastomer, polyether segment (TPU-ET)",
+        "level": 0
+    },
+    {
+        "id": 1027,
+        "name": "Thermoplastic polyurethane elastomer, polyester segment (TPU-ES)",
+        "level": 0
+    },
+    {
+        "id": 367,
+        "name": "Crosslinked thermoplastic vulcanizate with Ethylene/propylene/diene monomer (TPV-EPDM)",
+        "level": 0
+    },
+    {
+        "id": 368,
+        "name": "Highly crosslinked thermoplastic vulcanizate with nitrile butadiene rubber (TPV-NBR)",
+        "level": 0
+    },
+    {
+        "id": 369,
+        "name": "Highly crosslinked thermoplastic vulcanizate with combination of butyl/halobutyl rubber (TPV-IIR/HIIR)",
+        "level": 0
+    },
+    {
+        "id": 375,
+        "name": "Crosslinked thermoplastic vulcanizate with combination of Ethylene/propylene/diene monomer and Polypropylene (TPV-(EPDM+PP))",
+        "level": 0
+    },
+    {
+        "id": 390,
+        "name": "Fully crosslinked elastomeric alloy (TPV)",
+        "level": 0
+    },
+    {
+        "id": 497,
+        "name": "Highly crosslinked thermoplastic vulcanizate (TPV)",
+        "level": 0
+    },
+    {
+        "id": 498,
+        "name": "Highly crosslinked thermoplastic vulcanizate with Ethylene/propylene/diene monomer (TPV-EPDM)",
+        "level": 0
+    },
+    {
+        "id": 499,
+        "name": "Fully crosslinked elastomeric alloy with Ethylene/propylene/diene monomer (TPV-EPDM)",
+        "level": 0
+    },
+    {
+        "id": 3234,
+        "name": "Fully crosslinked elastomeric alloy with Ethylene/propylene/diene monomer and Polypropylene (TPV-(EPDM+PP))",
+        "level": 0
+    },
+    {
+        "id": 384,
+        "name": "Reactive elastomeric terpolymer (RET)",
+        "level": 0
+    },
+    {
+        "id": 811,
+        "name": "Natural rubber, Styrene-butadiene rubber, Butyl rubber, Epoxy resin or Butadiene rubber (NR, SBR, IIR, EPM or BR)",
+        "level": 0
+    },
+    {
+        "id": 812,
+        "name": "Ethylene/propylene rubber, styrene-butadiene rubber, butyl rubber (EPM, SBR, IIR)",
+        "level": 0
+    },
+    {
+        "id": 1109,
+        "name": "Not specified, rubbers (Z)",
+        "level": 0
+    },
+    {
+        "id": 3323,
+        "name": "Vinyl Methyl Silicone, Phenyl Methyl Silicone, Phenyl vinyl methyl silicone (VMQ, PMQ or PVMQ)",
+        "level": 0
+    },
+    {
+        "id": 3324,
+        "name": "Polyester urethane, Polyether urethane (AU or EU)",
+        "level": 0
+    },
+    {
+        "id": 223,
+        "name": "Ethylene/propylene/diene monomer (EPDM)",
+        "level": 0
+    },
+    {
+        "id": 467,
+        "name": "Fluoroelastomer (FKM)",
+        "level": 0
+    },
+    {
+        "id": 468,
+        "name": "Perfluoroelastomer (FFKM)",
+        "level": 0
+    },
+    {
+        "id": 639,
+        "name": "Chlorosulphonated polyethylene (CSM)",
+        "level": 0
+    },
+    {
+        "id": 640,
+        "name": "Ethylene-propylene terpolymer rubber (EPT)",
+        "level": 0
+    },
+    {
+        "id": 813,
+        "name": "Ethylene/propylene rubber (EPM)",
+        "level": 0
+    },
+    {
+        "id": 853,
+        "name": "Alkylated chlorosulphonated polyethylene (ACSM)",
+        "level": 0
+    },
+    {
+        "id": 1043,
+        "name": "Ethylene/propylene/diene monomer and Styrene-butadiene rubber (EPDM/SBR)",
+        "level": 0
+    },
+    {
+        "id": 1078,
+        "name": "Acrylic rubber (ACM)",
+        "level": 0
+    },
+    {
+        "id": 1079,
+        "name": "Chloropolyethylene rubber (CM)",
+        "level": 0
+    },
+    {
+        "id": 1083,
+        "name": "Ethylene Acrylic Elastomer (AEM)",
+        "level": 0
+    },
+    {
+        "id": 1183,
+        "name": "Ethylene/propylene rubber and Ethylene/propylene/diene monomer (EPM/EPDM)",
+        "level": 0
+    },
+    {
+        "id": 286,
+        "name": "Silicone rubber (SI)",
+        "level": 0
+    },
+    {
+        "id": 543,
+        "name": "Fluorosilicone (FMQ)",
+        "level": 0
+    },
+    {
+        "id": 872,
+        "name": "Fluorosilicone; Silicone rubber having methyl, vinyl and fluorine (FVMQ)",
+        "level": 0
+    },
+    {
+        "id": 1037,
+        "name": "Polyimide silicone resin",
+        "level": 0
+    },
+    {
+        "id": 1086,
+        "name": "Vinyl Methyl Silicone (VMQ)",
+        "level": 0
+    },
+    {
+        "id": 1087,
+        "name": "Phenyl vinyl methyl silicone (PVMQ)",
+        "level": 0
+    },
+    {
+        "id": 1133,
+        "name": "Polydimethylsiloxane (PDMS)",
+        "level": 0
+    },
+    {
+        "id": 1182,
+        "name": "Vinyl Methyl Silicone and Phenyl vinyl methyl silicone (VMQ/PVMQ)",
+        "level": 0
+    },
+    {
+        "id": 548,
+        "name": "Styrene-butadiene rubber (SBR)",
+        "level": 0
+    },
+    {
+        "id": 635,
+        "name": "Nitrile rubber (NBR)",
+        "level": 0
+    },
+    {
+        "id": 636,
+        "name": "Natural rubber (NR)",
+        "level": 0
+    },
+    {
+        "id": 637,
+        "name": "Chloroprene rubber (CR)",
+        "level": 0
+    },
+    {
+        "id": 638,
+        "name": "Butyl rubber (IIR)",
+        "level": 0
+    },
+    {
+        "id": 681,
+        "name": "Butadiene rubber (BR)",
+        "level": 0
+    },
+    {
+        "id": 873,
+        "name": "Isoprene rubber (IR)",
+        "level": 0
+    },
+    {
+        "id": 891,
+        "name": "Chlorobutyl rubber (CIIR)",
+        "level": 0
+    },
+    {
+        "id": 1040,
+        "name": "Styrene-butadiene rubber and Natural rubber (SBR/NR)",
+        "level": 0
+    },
+    {
+        "id": 1041,
+        "name": "Nitrile rubber and Styrene-butadiene rubber (NBR/SBR)",
+        "level": 0
+    },
+    {
+        "id": 1042,
+        "name": "Chloroprene rubber and Styrene-butadiene rubber (CR/SBR)",
+        "level": 0
+    },
+    {
+        "id": 1043,
+        "name": "Ethylene/propylene/diene monomer and Styrene-butadiene rubber (EPDM/SBR)",
+        "level": 0
+    },
+    {
+        "id": 1080,
+        "name": "Epichlorohydrin rubber (ECO)",
+        "level": 0
+    },
+    {
+        "id": 1081,
+        "name": "Hydrogenated nitrile butadiene rubber (HNBR)",
+        "level": 0
+    },
+    {
+        "id": 1082,
+        "name": "Carboxylated nitrile butadiene rubber (XNBR)",
+        "level": 0
+    },
+    {
+        "id": 1088,
+        "name": "Acrylonitrile butadiene rubber and polyvinyl chloride (NBR/PVC)",
+        "level": 0
+    },
+    {
+        "id": 1089,
+        "name": "Carboxylated nitrile butadiene rubber and polyvinyl chloride (XNBR/PVC)",
+        "level": 0
+    },
+    {
+        "id": 1100,
+        "name": "Bromobutyl rubber (BIIR)",
+        "level": 0
+    },
+    {
+        "id": 1145,
+        "name": "Isoprene rubber and Butadiene rubber (IR/BR)",
+        "level": 0
+    },
+    {
+        "id": 1147,
+        "name": "Styrene-butadiene rubber and Butadiene rubber (SBR/BR)",
+        "level": 0
+    },
+    {
+        "id": 1150,
+        "name": "Styrene-butadiene rubber and Isoprene rubber (SBR/IR)",
+        "level": 0
+    },
+    {
+        "id": 1152,
+        "name": "Chloroprene rubber and Nitrile rubber (CR/NBR)",
+        "level": 0
+    },
+    {
+        "id": 1155,
+        "name": "Styrene-butadiene rubber and Acrylic rubber (SBR/ACM)",
+        "level": 0
+    },
+    {
+        "id": 1084,
+        "name": "Polyester urethane (AU)",
+        "level": 0
+    },
+    {
+        "id": 1085,
+        "name": "Polyether urethane (EU)",
+        "level": 0
+    },
+    {
+        "id": 1099,
+        "name": "Polyurethane methacrylate (PUMA)",
+        "level": 0
+    },
+    {
+        "id": 1140,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 984,
+        "name": "Castables",
+        "level": 0
+    },
+    {
+        "id": 985,
+        "name": "Plastic refractories",
+        "level": 0
+    },
+    {
+        "id": 986,
+        "name": "Gunning mixes",
+        "level": 0
+    },
+    {
+        "id": 987,
+        "name": "Ramming mixes",
+        "level": 0
+    },
+    {
+        "id": 657,
+        "name": "Alumina",
+        "level": 0
+    },
+    {
+        "id": 658,
+        "name": "Fireclay (Fireclay (FC))",
+        "level": 0
+    },
+    {
+        "id": 659,
+        "name": "Low alumina fireclay (Low alumina fireclay (LF))",
+        "level": 0
+    },
+    {
+        "id": 692,
+        "name": "Mullite",
+        "level": 0
+    },
+    {
+        "id": 695,
+        "name": "Magnesia aluminate (MA)",
+        "level": 0
+    },
+    {
+        "id": 718,
+        "name": "Alumina-zirconia-silica (AZS)",
+        "level": 0
+    },
+    {
+        "id": 720,
+        "name": "﻿Alumina-chromia (ACr)",
+        "level": 0
+    },
+    {
+        "id": 721,
+        "name": "Cordierite",
+        "level": 0
+    },
+    {
+        "id": 773,
+        "name": "Alumina-silicon carbide-carbon (ASC)",
+        "level": 0
+    },
+    {
+        "id": 791,
+        "name": "﻿Alumina-chromia-zirconia (ACrZ)",
+        "level": 0
+    },
+    {
+        "id": 792,
+        "name": "﻿Alumina-chromia-zirconia-silica (ACrZS)",
+        "level": 0
+    },
+    {
+        "id": 794,
+        "name": "Alumina-carbon (AC)",
+        "level": 0
+    },
+    {
+        "id": 795,
+        "name": "Alumina-magnesia-carbon (AMC)",
+        "level": 0
+    },
+    {
+        "id": 796,
+        "name": "Alumina-fused silica-carbon (AFC)",
+        "level": 0
+    },
+    {
+        "id": 951,
+        "name": "Not specified (Not specified (Z))",
+        "level": 0
+    },
+    {
+        "id": 953,
+        "name": "Cordierite-mullite",
+        "level": 0
+    },
+    {
+        "id": 1015,
+        "name": "Alumina-silica (AS)",
+        "level": 0
+    },
+    {
+        "id": 1022,
+        "name": "Aluminosilicate",
+        "level": 0
+    },
+    {
+        "id": 1072,
+        "name": "Zirconia-mullite",
+        "level": 0
+    },
+    {
+        "id": 1077,
+        "name": "Alumina-silicon carbide (ASiC)",
+        "level": 0
+    },
+    {
+        "id": 1092,
+        "name": "Aluminia-mullite",
+        "level": 0
+    },
+    {
+        "id": 1202,
+        "name": "Alumina-silica-chromia (ASCr)",
+        "level": 0
+    },
+    {
+        "id": 1203,
+        "name": "Alumina-zirconia (AZ)",
+        "level": 0
+    },
+    {
+        "id": 1205,
+        "name": "Aluminum hydroxide (Al(OH)<sub>3</sub>)",
+        "level": 0
+    },
+    {
+        "id": 1208,
+        "name": "Boehmite (Al(OH)O)",
+        "level": 0
+    },
+    {
+        "id": 658,
+        "name": "Fireclay (Fireclay (FC))",
+        "level": 0
+    },
+    {
+        "id": 659,
+        "name": "Low alumina fireclay (Low alumina fireclay (LF))",
+        "level": 0
+    },
+    {
+        "id": 660,
+        "name": "Siliceous (Siliceous (SS))",
+        "level": 0
+    },
+    {
+        "id": 661,
+        "name": "Silica (SL)",
+        "level": 0
+    },
+    {
+        "id": 667,
+        "name": "Forsterite (F)",
+        "level": 0
+    },
+    {
+        "id": 671,
+        "name": "Magnesia-zirconia-silica (MZS)",
+        "level": 0
+    },
+    {
+        "id": 692,
+        "name": "Mullite",
+        "level": 0
+    },
+    {
+        "id": 718,
+        "name": "Alumina-zirconia-silica (AZS)",
+        "level": 0
+    },
+    {
+        "id": 721,
+        "name": "Cordierite",
+        "level": 0
+    },
+    {
+        "id": 793,
+        "name": "Zirconia-silica (ZS)",
+        "level": 0
+    },
+    {
+        "id": 953,
+        "name": "Cordierite-mullite",
+        "level": 0
+    },
+    {
+        "id": 1015,
+        "name": "Alumina-silica (AS)",
+        "level": 0
+    },
+    {
+        "id": 1022,
+        "name": "Aluminosilicate",
+        "level": 0
+    },
+    {
+        "id": 1072,
+        "name": "Zirconia-mullite",
+        "level": 0
+    },
+    {
+        "id": 1074,
+        "name": "Magnesia-silica (MS)",
+        "level": 0
+    },
+    {
+        "id": 1092,
+        "name": "Aluminia-mullite",
+        "level": 0
+    },
+    {
+        "id": 1110,
+        "name": "Molybdenum disilicide (MoSi<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 1202,
+        "name": "Alumina-silica-chromia (ASCr)",
+        "level": 0
+    },
+    {
+        "id": 663,
+        "name": "Magnesia (M)",
+        "level": 0
+    },
+    {
+        "id": 664,
+        "name": "Magnesia doloma (Magnesia doloma (MD))",
+        "level": 0
+    },
+    {
+        "id": 665,
+        "name": "Doloma (Doloma (D))",
+        "level": 0
+    },
+    {
+        "id": 666,
+        "name": "Magnesia spinel (Magnesia spinel (MSp))",
+        "level": 0
+    },
+    {
+        "id": 667,
+        "name": "Forsterite (F)",
+        "level": 0
+    },
+    {
+        "id": 668,
+        "name": "Magnesia chromite (Magnesia chromite (MCr))",
+        "level": 0
+    },
+    {
+        "id": 671,
+        "name": "Magnesia-zirconia-silica (MZS)",
+        "level": 0
+    },
+    {
+        "id": 672,
+        "name": "Magnesia-zirconia (Magnesia-zirconia (MZ))",
+        "level": 0
+    },
+    {
+        "id": 693,
+        "name": "Magnesia carbon (Magnesia carbon (MC))",
+        "level": 0
+    },
+    {
+        "id": 694,
+        "name": "Magnesia limestone (Magnesia limestone (ML))",
+        "level": 0
+    },
+    {
+        "id": 695,
+        "name": "Magnesia aluminate (MA)",
+        "level": 0
+    },
+    {
+        "id": 710,
+        "name": "Magnesia lime carbon (Magnesia lime carbon (MLC))",
+        "level": 0
+    },
+    {
+        "id": 711,
+        "name": "Magnesia doloma carbon (Magnesia doloma carbon (MDC))",
+        "level": 0
+    },
+    {
+        "id": 712,
+        "name": "Doloma carbon (Doloma carbon (DC))",
+        "level": 0
+    },
+    {
+        "id": 717,
+        "name": "Magnesia lime (ML)",
+        "level": 0
+    },
+    {
+        "id": 721,
+        "name": "Cordierite",
+        "level": 0
+    },
+    {
+        "id": 795,
+        "name": "Alumina-magnesia-carbon (AMC)",
+        "level": 0
+    },
+    {
+        "id": 1074,
+        "name": "Magnesia-silica (MS)",
+        "level": 0
+    },
+    {
+        "id": 664,
+        "name": "Magnesia doloma (Magnesia doloma (MD))",
+        "level": 0
+    },
+    {
+        "id": 665,
+        "name": "Doloma (Doloma (D))",
+        "level": 0
+    },
+    {
+        "id": 670,
+        "name": "Lime (Lime (L))",
+        "level": 0
+    },
+    {
+        "id": 694,
+        "name": "Magnesia limestone (Magnesia limestone (ML))",
+        "level": 0
+    },
+    {
+        "id": 710,
+        "name": "Magnesia lime carbon (Magnesia lime carbon (MLC))",
+        "level": 0
+    },
+    {
+        "id": 711,
+        "name": "Magnesia doloma carbon (Magnesia doloma carbon (MDC))",
+        "level": 0
+    },
+    {
+        "id": 712,
+        "name": "Doloma carbon (Doloma carbon (DC))",
+        "level": 0
+    },
+    {
+        "id": 717,
+        "name": "Magnesia lime (ML)",
+        "level": 0
+    },
+    {
+        "id": 1176,
+        "name": "Calcium silicate (CS)",
+        "level": 0
+    },
+    {
+        "id": 668,
+        "name": "Magnesia chromite (Magnesia chromite (MCr))",
+        "level": 0
+    },
+    {
+        "id": 669,
+        "name": "Chromite (Chromite (Cr))",
+        "level": 0
+    },
+    {
+        "id": 719,
+        "name": "Chromia (Cr)",
+        "level": 0
+    },
+    {
+        "id": 720,
+        "name": "﻿Alumina-chromia (ACr)",
+        "level": 0
+    },
+    {
+        "id": 791,
+        "name": "﻿Alumina-chromia-zirconia (ACrZ)",
+        "level": 0
+    },
+    {
+        "id": 1202,
+        "name": "Alumina-silica-chromia (ASCr)",
+        "level": 0
+    },
+    {
+        "id": 671,
+        "name": "Magnesia-zirconia-silica (MZS)",
+        "level": 0
+    },
+    {
+        "id": 672,
+        "name": "Magnesia-zirconia (Magnesia-zirconia (MZ))",
+        "level": 0
+    },
+    {
+        "id": 713,
+        "name": "Zirconia (Z)",
+        "level": 0
+    },
+    {
+        "id": 718,
+        "name": "Alumina-zirconia-silica (AZS)",
+        "level": 0
+    },
+    {
+        "id": 791,
+        "name": "Alumina-chromia-zirconia (ACrZ)",
+        "level": 0
+    },
+    {
+        "id": 793,
+        "name": "Zirconia-silica (ZS)",
+        "level": 0
+    },
+    {
+        "id": 1019,
+        "name": "Zirconia-carbon (ZC)",
+        "level": 0
+    },
+    {
+        "id": 1072,
+        "name": "Zirconia-mullite",
+        "level": 0
+    },
+    {
+        "id": 1203,
+        "name": "Alumina-zirconia (AZ)",
+        "level": 0
+    },
+    {
+        "id": 693,
+        "name": "Magnesia carbon (Magnesia carbon (MC))",
+        "level": 0
+    },
+    {
+        "id": 710,
+        "name": "Magnesia lime carbon (Magnesia lime carbon (MLC))",
+        "level": 0
+    },
+    {
+        "id": 711,
+        "name": "Magnesia doloma carbon (Magnesia doloma carbon (MDC))",
+        "level": 0
+    },
+    {
+        "id": 794,
+        "name": "Alumina-carbon (AC)",
+        "level": 0
+    },
+    {
+        "id": 798,
+        "name": "Carbon (C)",
+        "level": 0
+    },
+    {
+        "id": 1019,
+        "name": "Zirconia-carbon (ZC)",
+        "level": 0
+    },
+    {
+        "id": 773,
+        "name": "Alumina-silicon carbide-carbon (ASC)",
+        "level": 0
+    },
+    {
+        "id": 796,
+        "name": "Alumina-fused silica-carbon (AFC)",
+        "level": 0
+    },
+    {
+        "id": 797,
+        "name": "Silicon carbide (S)",
+        "level": 0
+    },
+    {
+        "id": 1077,
+        "name": "Alumina-silicon carbide (ASiC)",
+        "level": 0
+    },
+    {
+        "id": 662,
+        "name": "Not specified (Not specified (Z))",
+        "level": 0
+    },
+    {
+        "id": 418,
+        "name": "Alumina (Al<sub>2</sub>O<sub>3</sub>)",
+        "level": 0
+    },
+    {
+        "id": 419,
+        "name": "Chromium(III)-oxide (Cr<sub>2</sub>O<sub>3</sub>)",
+        "level": 0
+    },
+    {
+        "id": 420,
+        "name": "Zirconia (ZrO<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 421,
+        "name": "Titania (TiO<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 422,
+        "name": "Magnesia (MgO)",
+        "level": 0
+    },
+    {
+        "id": 423,
+        "name": "Silica (SiO<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 445,
+        "name": "Calcia (CaO)",
+        "level": 0
+    },
+    {
+        "id": 451,
+        "name": "Beryllia (BeO)",
+        "level": 0
+    },
+    {
+        "id": 453,
+        "name": "Yttria (Y<sub>2</sub>O<sub>3</sub>)",
+        "level": 0
+    },
+    {
+        "id": 530,
+        "name": "Hafnia (HfO<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 531,
+        "name": "Ceria (CeO<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 1204,
+        "name": "Iron (Fe<sub>2</sub>O<sub>3</sub>)",
+        "level": 0
+    },
+    {
+        "id": 447,
+        "name": "Steatite (Mg<sub>3</sub>((Si<sub>4</sub>O<sub>10</sub>)(OH)<sub>2</sub>) (Steatite (Mg<sub>3</sub>(Si<sub>4</sub>O<sub>10</sub>)(OH)<sub>2</sub>))",
+        "level": 0
+    },
+    {
+        "id": 448,
+        "name": "Forsterite (Mg<sub>2</sub>(SiO<sub>4</sub>))",
+        "level": 0
+    },
+    {
+        "id": 578,
+        "name": "Magnesium aluminate (MgAl<sub>2</sub>O<sub>4</sub>)",
+        "level": 0
+    },
+    {
+        "id": 679,
+        "name": "Zirconia Toughened Alumina (Zirconia Toughened Alumina (Al<sub>2</sub>O<sub>3</sub>•ZrO<sub>2</sub>, ZTA))",
+        "level": 0
+    },
+    {
+        "id": 724,
+        "name": "Alumina-Zirconia Oxide (Al<sub>2</sub>O<sub>3</sub>•ZrO<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 871,
+        "name": "Alumina Toughened Zirconia (Alumina Toughened Zirconia (ZrO<sub>2</sub>•Al<sub>2</sub>O<sub>3</sub>, ATZ))",
+        "level": 0
+    },
+    {
+        "id": 949,
+        "name": "Titanium diboride and Boron nitride (Titanium diboride and Boron nitride (TiB<sub>2</sub>/BN))",
+        "level": 0
+    },
+    {
+        "id": 950,
+        "name": "Aluminum nitride and Boron nitride (Aluminum nitride and Boron nitride (AlN/BN))",
+        "level": 0
+    },
+    {
+        "id": 1014,
+        "name": "Boron nitride and Zirconia (Boron nitride and Zirconia (BN/ZrO<sub>2</sub>))",
+        "level": 0
+    },
+    {
+        "id": 1126,
+        "name": "Hydroxylapatite (Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>(OH) (Hydroxylapatite (Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>(OH)))",
+        "level": 0
+    },
+    {
+        "id": 1127,
+        "name": "Tricalcium phosphate (Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 3248,
+        "name": "Aluminium-Silicon Carbide (Al-SiC)",
+        "level": 0
+    },
+    {
+        "id": 3249,
+        "name": "Magnesium-Silicon Carbide (Mg-SiC)",
+        "level": 0
+    },
+    {
+        "id": 427,
+        "name": "Tungsten carbide (WC)",
+        "level": 0
+    },
+    {
+        "id": 429,
+        "name": "Silicon carbide (SiC)",
+        "level": 0
+    },
+    {
+        "id": 431,
+        "name": "Boron carbide (B<sub>4</sub>C)",
+        "level": 0
+    },
+    {
+        "id": 722,
+        "name": "Nitride-bonded silicon carbide (NSiC)",
+        "level": 0
+    },
+    {
+        "id": 723,
+        "name": "Re-crystallised silicon carbide (RSiC)",
+        "level": 0
+    },
+    {
+        "id": 3267,
+        "name": "Silicon carbide-Boron carbide (SiC-B<sub>4</sub>C)",
+        "level": 0
+    },
+    {
+        "id": 432,
+        "name": "Boron nitride (BN)",
+        "level": 0
+    },
+    {
+        "id": 433,
+        "name": "Silicon nitride (Si<sub>3</sub>N<sub>4</sub>)",
+        "level": 0
+    },
+    {
+        "id": 434,
+        "name": "Aluminum nitride (AlN)",
+        "level": 0
+    },
+    {
+        "id": 528,
+        "name": "SiAlON",
+        "level": 0
+    },
+    {
+        "id": 455,
+        "name": "Titanium diboride (TiB<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 559,
+        "name": "Zirconium diboride (ZrB<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 536,
+        "name": "Glass-ceramic",
+        "level": 0
+    },
+    {
+        "id": 537,
+        "name": "Glass-bonded mica",
+        "level": 0
+    },
+    {
+        "id": 538,
+        "name": "Alkali-lime-silica glass",
+        "level": 0
+    },
+    {
+        "id": 539,
+        "name": "Borosilicate glass",
+        "level": 0
+    },
+    {
+        "id": 540,
+        "name": "Lead-alkali-silica glass",
+        "level": 0
+    },
+    {
+        "id": 541,
+        "name": "Baria-alkali-silica glass",
+        "level": 0
+    },
+    {
+        "id": 542,
+        "name": "High-silica glass",
+        "level": 0
+    },
+    {
+        "id": 966,
+        "name": "Soda lime",
+        "level": 0
+    },
+    {
+        "id": 439,
+        "name": "Zirconium silicate (ZrSiO<sub>4</sub>)",
+        "level": 0
+    },
+    {
+        "id": 443,
+        "name": "Cordierite (MgO•Al<sub>2</sub>O<sub>3</sub>•SiO<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 444,
+        "name": "Celsian (BaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub>)",
+        "level": 0
+    },
+    {
+        "id": 446,
+        "name": "Aluminosilicate (Al<sub>2</sub>SiO<sub>5</sub>)",
+        "level": 0
+    },
+    {
+        "id": 449,
+        "name": "Magnesium aluminum silicate (MgAl<sub>2</sub>SiO<sub>6</sub>)",
+        "level": 0
+    },
+    {
+        "id": 450,
+        "name": "Mullite (Al<sub>2</sub>O<sub>3</sub>•SiO<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 874,
+        "name": "Porcelain",
+        "level": 0
+    },
+    {
+        "id": 1098,
+        "name": "Spodumene (LiAl(SiO<sub>3</sub>)<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 3302,
+        "name": "Mica",
+        "level": 0
+    },
+    {
+        "id": 440,
+        "name": "Magnesium titanate (Mg<sub>2</sub>TiO<sub>4</sub>)",
+        "level": 0
+    },
+    {
+        "id": 441,
+        "name": "Bismuth titanate (Bi<sub>4</sub>Ti<sub>3</sub>O<sub>12</sub>)",
+        "level": 0
+    },
+    {
+        "id": 576,
+        "name": "Aluminum titanate (Al<sub>2</sub>TiO<sub>5</sub>)",
+        "level": 0
+    },
+    {
+        "id": 1162,
+        "name": "Calcium titanate (CaTiO<sub>3</sub>)",
+        "level": 0
+    },
+    {
+        "id": 931,
+        "name": "Not specified (Not specified (Z))",
+        "level": 0
+    },
+    {
+        "id": 882,
+        "name": "Laminates",
+        "level": 0
+    },
+    {
+        "id": 892,
+        "name": "Sandwich",
+        "level": 0
+    },
+    {
+        "id": 880,
+        "name": "Carbon",
+        "level": 0
+    },
+    {
+        "id": 884,
+        "name": "Alumina (Al<sub>2</sub>O<sub>3</sub>)",
+        "level": 0
+    },
+    {
+        "id": 885,
+        "name": "Aluminium (Al)",
+        "level": 0
+    },
+    {
+        "id": 886,
+        "name": "Silicon carbide",
+        "level": 0
+    },
+    {
+        "id": 890,
+        "name": "Chromium carbide (Cr<sub>3</sub>C<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 924,
+        "name": "Silica",
+        "level": 0
+    },
+    {
+        "id": 1005,
+        "name": "Glass",
+        "level": 0
+    },
+    {
+        "id": 3254,
+        "name": "Boron carbide (B<sub>4</sub>C)",
+        "level": 0
+    },
+    {
+        "id": 3255,
+        "name": "Silicon alloy",
+        "level": 0
+    },
+    {
+        "id": 3256,
+        "name": "Titanium diboride (TiB<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 3290,
+        "name": "Titanium dioxide (TiO<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 881,
+        "name": "Carbon fiber",
+        "level": 0
+    },
+    {
+        "id": 883,
+        "name": "Glass fiber",
+        "level": 0
+    },
+    {
+        "id": 887,
+        "name": "Alumina fiber (Al<sub>2</sub>O<sub>3</sub>)",
+        "level": 0
+    },
+    {
+        "id": 923,
+        "name": "Aramid fiber",
+        "level": 0
+    },
+    {
+        "id": 925,
+        "name": "Boron fiber",
+        "level": 0
+    },
+    {
+        "id": 926,
+        "name": "Silica fiber",
+        "level": 0
+    },
+    {
+        "id": 928,
+        "name": "Polyethylene fiber",
+        "level": 0
+    },
+    {
+        "id": 930,
+        "name": "Quartz fiber",
+        "level": 0
+    },
+    {
+        "id": 952,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 977,
+        "name": "Ceramic fiber",
+        "level": 0
+    },
+    {
+        "id": 990,
+        "name": "Polypropylene fiber",
+        "level": 0
+    },
+    {
+        "id": 1000,
+        "name": "Organic fiber",
+        "level": 0
+    },
+    {
+        "id": 1006,
+        "name": "Cotton fiber",
+        "level": 0
+    },
+    {
+        "id": 1101,
+        "name": "Glass fiber and Mineral",
+        "level": 0
+    },
+    {
+        "id": 1194,
+        "name": "Carbon fiber and Aramid fiber",
+        "level": 0
+    },
+    {
+        "id": 3259,
+        "name": "Mineral fiber",
+        "level": 0
+    },
+    {
+        "id": 3294,
+        "name": "Aramid fiber and Glass fiber",
+        "level": 0
+    },
+    {
+        "id": 999,
+        "name": "Hybrid composites",
+        "level": 0
+    },
+    {
+        "id": 893,
+        "name": "Epoxy resin (EP)",
+        "level": 0
+    },
+    {
+        "id": 898,
+        "name": "Phenolic resin (P)",
+        "level": 0
+    },
+    {
+        "id": 899,
+        "name": "Unsaturated polyester resin (UP)",
+        "level": 0
+    },
+    {
+        "id": 900,
+        "name": "Vinyl ester resin (VE)",
+        "level": 0
+    },
+    {
+        "id": 901,
+        "name": "Polybismaleimide (BMI)",
+        "level": 0
+    },
+    {
+        "id": 902,
+        "name": "Cyanate ester resin",
+        "level": 0
+    },
+    {
+        "id": 903,
+        "name": "Silicone resin (SI)",
+        "level": 0
+    },
+    {
+        "id": 904,
+        "name": "Polyimide (PI)",
+        "level": 0
+    },
+    {
+        "id": 905,
+        "name": "Polysulfone (PSU)",
+        "level": 0
+    },
+    {
+        "id": 906,
+        "name": "Polyetheretherketone resin (PEEK)",
+        "level": 0
+    },
+    {
+        "id": 907,
+        "name": "Polyetherimide (PEI)",
+        "level": 0
+    },
+    {
+        "id": 908,
+        "name": "Poly(phenylene sulfide) (PPS)",
+        "level": 0
+    },
+    {
+        "id": 909,
+        "name": "Polycarbonate (PC)",
+        "level": 0
+    },
+    {
+        "id": 910,
+        "name": "Polyamide and Epoxy resin (PA+EP)",
+        "level": 0
+    },
+    {
+        "id": 911,
+        "name": "Polyamide 6 (PA6)",
+        "level": 0
+    },
+    {
+        "id": 912,
+        "name": "Polypropylene (PP)",
+        "level": 0
+    },
+    {
+        "id": 913,
+        "name": "Thermoplastic polyurethane elastomer (TPU)",
+        "level": 0
+    },
+    {
+        "id": 914,
+        "name": "Polyester and Vinyl ester resin (UP+VE)",
+        "level": 0
+    },
+    {
+        "id": 915,
+        "name": "Polyester and Polyurethane (UP+PUR)",
+        "level": 0
+    },
+    {
+        "id": 916,
+        "name": "Vinyl ester resin and polyurethane (VE + PUR)",
+        "level": 0
+    },
+    {
+        "id": 917,
+        "name": "Thermosets resin",
+        "level": 0
+    },
+    {
+        "id": 920,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 921,
+        "name": "Polyamide 66 (PA66)",
+        "level": 0
+    },
+    {
+        "id": 938,
+        "name": "Polyethylene (PE)",
+        "level": 0
+    },
+    {
+        "id": 939,
+        "name": "Polyurethane (PUR)",
+        "level": 0
+    },
+    {
+        "id": 940,
+        "name": "Methacrylate (MA)",
+        "level": 0
+    },
+    {
+        "id": 954,
+        "name": "Melamine resin (MF)",
+        "level": 0
+    },
+    {
+        "id": 988,
+        "name": "Polyethylene, high density (HDPE)",
+        "level": 0
+    },
+    {
+        "id": 989,
+        "name": "Poly(ethylene terephthalate) (PET)",
+        "level": 0
+    },
+    {
+        "id": 993,
+        "name": "Polycarbonate and acrylonitrile-butadiene-styrene (PC + ABS)",
+        "level": 0
+    },
+    {
+        "id": 997,
+        "name": "Cyanate siloxane resin",
+        "level": 0
+    },
+    {
+        "id": 1007,
+        "name": "Furan resin",
+        "level": 0
+    },
+    {
+        "id": 1008,
+        "name": "Phenol-formaldehyde resin (Phenol-formaldehyde resin (PF))",
+        "level": 0
+    },
+    {
+        "id": 1139,
+        "name": "Polytetrafluoroethylene (PTFE)",
+        "level": 0
+    },
+    {
+        "id": 1141,
+        "name": "Polyamide 12 (PA12)",
+        "level": 0
+    },
+    {
+        "id": 1163,
+        "name": "Polyamideimide (PAI)",
+        "level": 0
+    },
+    {
+        "id": 1175,
+        "name": "Polyethylene terephthalate, glycol modified (PETG)",
+        "level": 0
+    },
+    {
+        "id": 1178,
+        "name": "Phenolic resin, Melamine resin (P, MF)",
+        "level": 0
+    },
+    {
+        "id": 1190,
+        "name": "Polyamide 410 (PA410)",
+        "level": 0
+    },
+    {
+        "id": 1191,
+        "name": "Polyamide 4T (PA4T)",
+        "level": 0
+    },
+    {
+        "id": 1193,
+        "name": "Acrylonitrile butadiene styrene (ABS)",
+        "level": 0
+    },
+    {
+        "id": 1195,
+        "name": "Polylactic acid (PLA)",
+        "level": 0
+    },
+    {
+        "id": 1201,
+        "name": "Silicone resin, Ethylene/propylene/diene monomer (SI, EPDM)",
+        "level": 0
+    },
+    {
+        "id": 1210,
+        "name": "Styrene-acrylonitrile plastic (SAN)",
+        "level": 0
+    },
+    {
+        "id": 1211,
+        "name": "Diphenyl ether",
+        "level": 0
+    },
+    {
+        "id": 2220,
+        "name": "Polyphthalamide (PPA)",
+        "level": 0
+    },
+    {
+        "id": 3236,
+        "name": "Polyamide (PA)",
+        "level": 0
+    },
+    {
+        "id": 3237,
+        "name": "Poly(vinyl butyral) (PVB)",
+        "level": 0
+    },
+    {
+        "id": 3251,
+        "name": "Polyester",
+        "level": 0
+    },
+    {
+        "id": 3252,
+        "name": "Polyaryletherketone (PAEK)",
+        "level": 0
+    },
+    {
+        "id": 3258,
+        "name": "Liquid crystal polymer: Copolyester (polyarylterephthalate) (LCP)",
+        "level": 0
+    },
+    {
+        "id": 3260,
+        "name": "Butadiene rubber (BR)",
+        "level": 0
+    },
+    {
+        "id": 3261,
+        "name": "Polyetherketoneketone (PEKK)",
+        "level": 0
+    },
+    {
+        "id": 3262,
+        "name": "Poly(phenylene ether) (PPE)",
+        "level": 0
+    },
+    {
+        "id": 3263,
+        "name": "PMMA",
+        "level": 0
+    },
+    {
+        "id": 3270,
+        "name": "Thermoplastic resin",
+        "level": 0
+    },
+    {
+        "id": 3289,
+        "name": "Polyoleofine",
+        "level": 0
+    },
+    {
+        "id": 897,
+        "name": "Aluminium (Al)",
+        "level": 0
+    },
+    {
+        "id": 918,
+        "name": "Copper (Cu)",
+        "level": 0
+    },
+    {
+        "id": 919,
+        "name": "Stainless steel (SS)",
+        "level": 0
+    },
+    {
+        "id": 1004,
+        "name": "Steel",
+        "level": 0
+    },
+    {
+        "id": 1158,
+        "name": "Antimony (Sb)",
+        "level": 0
+    },
+    {
+        "id": 1159,
+        "name": "Silver (Ag)",
+        "level": 0
+    },
+    {
+        "id": 3247,
+        "name": "Copper, copper-molybdenum, copper (Cu-CuMo-Cu)",
+        "level": 0
+    },
+    {
+        "id": 937,
+        "name": "Carbon",
+        "level": 0
+    },
+    {
+        "id": 3173,
+        "name": "Calcium silicate (CaSiO<sub>4</sub>)",
+        "level": 0
+    },
+    {
+        "id": 3184,
+        "name": "Silica (SiO<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 3185,
+        "name": "Alumina (Al<sub>2</sub>O<sub>3</sub>)",
+        "level": 0
+    },
+    {
+        "id": 912,
+        "name": "Polypropylene (PP)",
+        "level": 0
+    },
+    {
+        "id": 980,
+        "name": "Aramid Honeycomb Core",
+        "level": 0
+    },
+    {
+        "id": 982,
+        "name": "Aluminium Honeycomb Core",
+        "level": 0
+    },
+    {
+        "id": 991,
+        "name": "Polyurethane Foam Core (PUR Foam Core)",
+        "level": 0
+    },
+    {
+        "id": 1157,
+        "name": "Polypropylene Foam (PP Foam)",
+        "level": 0
+    },
+    {
+        "id": 1170,
+        "name": "Mineral Wool Core",
+        "level": 0
+    },
+    {
+        "id": 1186,
+        "name": "Aluminium Core",
+        "level": 0
+    },
+    {
+        "id": 1187,
+        "name": "Copper Core",
+        "level": 0
+    },
+    {
+        "id": 1188,
+        "name": "Steel Core",
+        "level": 0
+    },
+    {
+        "id": 1189,
+        "name": "Epoxy woven fiberglass reinforced laminate",
+        "level": 0
+    },
+    {
+        "id": 2715,
+        "name": "Aramid (Aramid (A))",
+        "level": 0
+    },
+    {
+        "id": 2823,
+        "name": "Polyamide (Polyamide (PA))",
+        "level": 0
+    },
+    {
+        "id": 2827,
+        "name": "Polypropylene (Polypropylene (PP))",
+        "level": 0
+    },
+    {
+        "id": 2834,
+        "name": "Polybenzoxazole (Polybenzoxazole (PBO))",
+        "level": 0
+    },
+    {
+        "id": 2845,
+        "name": "Not specified (Not specified (Z))",
+        "level": 0
+    },
+    {
+        "id": 3022,
+        "name": "Polyamide and Polyester (Polyamide and Polyester (PA+UP))",
+        "level": 0
+    },
+    {
+        "id": 3135,
+        "name": "Polyesters (Polyesters (UP))",
+        "level": 0
+    },
+    {
+        "id": 3147,
+        "name": "Polyamide and Polyethylene naphthalate (Polyamide and Polyethylene naphthalate (PA+PEN))",
+        "level": 0
+    },
+    {
+        "id": 3148,
+        "name": "Polyamide and Polyethylene terephthalate (Polyamide and Polyethylene terephthalate (PA+PET))",
+        "level": 0
+    },
+    {
+        "id": 3149,
+        "name": "Polyethylene terephthalate (Polyethylene terephthalate (PET))",
+        "level": 0
+    },
+    {
+        "id": 3150,
+        "name": "Cellulose and Polyethylene terephthalate (Cellulose and Polyethylene terephthalate (F+PET))",
+        "level": 0
+    },
+    {
+        "id": 3287,
+        "name": "Polyamide (Polyamide 66 (PA66))",
+        "level": 0
+    },
+    {
+        "id": 3288,
+        "name": "Polytetrafluoroethylene (Polytetrafluoroethylene (PTFE))",
+        "level": 0
+    },
+    {
+        "id": 2729,
+        "name": "Carbon (Carbon (C))",
+        "level": 0
+    },
+    {
+        "id": 2762,
+        "name": "E-glass",
+        "level": 0
+    },
+    {
+        "id": 2835,
+        "name": "Glass (Glass (G))",
+        "level": 0
+    },
+    {
+        "id": 2846,
+        "name": "Quartz",
+        "level": 0
+    },
+    {
+        "id": 2870,
+        "name": "L-glass",
+        "level": 0
+    },
+    {
+        "id": 2871,
+        "name": "S2-glass",
+        "level": 0
+    },
+    {
+        "id": 2872,
+        "name": "S3-glass",
+        "level": 0
+    },
+    {
+        "id": 2873,
+        "name": "A-glass",
+        "level": 0
+    },
+    {
+        "id": 2874,
+        "name": "C-glass",
+        "level": 0
+    },
+    {
+        "id": 2875,
+        "name": "D-glass",
+        "level": 0
+    },
+    {
+        "id": 2876,
+        "name": "R-glass",
+        "level": 0
+    },
+    {
+        "id": 2877,
+        "name": "Other",
+        "level": 0
+    },
+    {
+        "id": 3124,
+        "name": "Silicon Carbide (Silicon Carbide (SiC))",
+        "level": 0
+    },
+    {
+        "id": 3230,
+        "name": "Aluminoborosilicate",
+        "level": 0
+    },
+    {
+        "id": 3231,
+        "name": "Aluminosilicate (Aluminosilicate (Al<sub>2</sub>SiO<sub>5</sub>))",
+        "level": 0
+    },
+    {
+        "id": 3232,
+        "name": "Alumina (Alumina (Al<sub>2</sub>O<sub>3</sub>))",
+        "level": 0
+    },
+    {
+        "id": 2773,
+        "name": "Carbon and E-glass (Carbon and E-glass (C+E-glass))",
+        "level": 0
+    },
+    {
+        "id": 2774,
+        "name": "Aramid and E-glass (Aramid and E-glass (A+E-glass))",
+        "level": 0
+    },
+    {
+        "id": 2822,
+        "name": "Aramid and Novoloid (Aramid/Novoloid)",
+        "level": 0
+    },
+    {
+        "id": 2828,
+        "name": "Quartz and Polyamide",
+        "level": 0
+    },
+    {
+        "id": 2829,
+        "name": "Aramid and Carbon (Aramid and Carbon (A+C))",
+        "level": 0
+    },
+    {
+        "id": 2830,
+        "name": "Carbon, Glass and Polyamide (Carbon, Glass and Polyamide (C+G+PA))",
+        "level": 0
+    },
+    {
+        "id": 2833,
+        "name": "Carbon and Glass (Carbon and Glass (C+G))",
+        "level": 0
+    },
+    {
+        "id": 3145,
+        "name": "Aramid and Polyamide (Aramid and Polyamide 66 (A+PA66))",
+        "level": 0
+    },
+    {
+        "id": 3151,
+        "name": "Cellulose (Cellulose (F))",
+        "level": 0
+    },
+    {
+        "id": 3274,
+        "name": "Flax",
+        "level": 0
+    },
+    {
+        "id": 3275,
+        "name": "Flax and Polylactic Acid (Flax and PLA(Flax+PLA))",
+        "level": 0
+    },
+    {
+        "id": 3276,
+        "name": "Flax and Polypropylene (Flax and Polypropylene(Flax+PP))",
+        "level": 0
+    },
+    {
+        "id": 3305,
+        "name": "Graphene and Polyamide 6 (Graphene and Polyamide 6 (GN+PA6))",
+        "level": 0
+    },
+    {
+        "id": 3306,
+        "name": "Graphene and Viscose (Graphene and Viscose (GN+CV))",
+        "level": 0
+    },
+    {
+        "id": 3307,
+        "name": "Graphene, Cotton and Polyamide 6 (Graphene, Cotton and Polyamide 6 (GN+CO+PA6))",
+        "level": 0
+    },
+    {
+        "id": 3308,
+        "name": "Graphene and Polyethylene, ultra high molecular weight (Graphene and Polyethylene, ultra high molecular weight (GN+PE-UHMW))",
+        "level": 0
+    },
+    {
+        "id": 3309,
+        "name": "Graphene and Polyester (Graphene and Polyester (GN+UP))",
+        "level": 0
+    },
+    {
+        "id": 3300,
+        "name": "Graphene",
+        "level": 0
+    },
+    {
+        "id": 2747,
+        "name": "Portland cement",
+        "level": 0
+    },
+    {
+        "id": 2748,
+        "name": "Portland-slag cement",
+        "level": 0
+    },
+    {
+        "id": 2749,
+        "name": "Portland-silica fume cement",
+        "level": 0
+    },
+    {
+        "id": 2750,
+        "name": "Portland-pozzolana cement",
+        "level": 0
+    },
+    {
+        "id": 2751,
+        "name": "Portland-fly ash cement",
+        "level": 0
+    },
+    {
+        "id": 2752,
+        "name": "Portland-burnt shale cement",
+        "level": 0
+    },
+    {
+        "id": 2753,
+        "name": "Portland-limestone cement",
+        "level": 0
+    },
+    {
+        "id": 2754,
+        "name": "Portland-composite cement",
+        "level": 0
+    },
+    {
+        "id": 2832,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 2755,
+        "name": "Blast furnace cement",
+        "level": 0
+    },
+    {
+        "id": 2756,
+        "name": "Pozzolanic cement",
+        "level": 0
+    },
+    {
+        "id": 2757,
+        "name": "Composite cement",
+        "level": 0
+    },
+    {
+        "id": 2785,
+        "name": "Masonry Cement",
+        "level": 0
+    },
+    {
+        "id": 2797,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 2798,
+        "name": "Plastic Cement",
+        "level": 0
+    },
+    {
+        "id": 2799,
+        "name": "Mortar Cement",
+        "level": 0
+    },
+    {
+        "id": 2831,
+        "name": "High Alumina Cements",
+        "level": 0
+    },
+    {
+        "id": 2780,
+        "name": "Aluminium (Aluminium (Al))",
+        "level": 0
+    },
+    {
+        "id": 2857,
+        "name": "Stainless steel",
+        "level": 0
+    },
+    {
+        "id": 2801,
+        "name": "Not specified",
+        "level": 0
+    },
+    {
+        "id": 2802,
+        "name": "Aramid (Aramid (A))",
+        "level": 0
+    },
+    {
+        "id": 2803,
+        "name": "Glass/Polyimide",
+        "level": 0
+    },
+    {
+        "id": 2820,
+        "name": "Polyamide (Polyamide (PA))",
+        "level": 0
+    },
+    {
+        "id": 2821,
+        "name": "Glass/Phenolic",
+        "level": 0
+    },
+    {
+        "id": 2858,
+        "name": "Polypropylene (Polypropylene (PP))",
+        "level": 0
+    },
+    {
+        "id": 2968,
+        "name": "Kraft paper",
+        "level": 0
+    },
+    {
+        "id": 2969,
+        "name": "Ceramics",
+        "level": 0
+    },
+    {
+        "id": 2976,
+        "name": "Carbon fiber",
+        "level": 0
+    },
+    {
+        "id": 2977,
+        "name": "Glass fiber",
+        "level": 0
+    },
+    {
+        "id": 2978,
+        "name": "Quartz fiber",
+        "level": 0
+    },
+    {
+        "id": 2891,
+        "name": "Silica (SiO<sub>2</sub>)",
+        "level": 0
+    },
+    {
+        "id": 2892,
+        "name": "Aluminosilicate (Al<sub>2</sub>SiO<sub>5</sub>)",
+        "level": 0
+    },
+    {
+        "id": 2767,
+        "name": "Polyethylene, low density (Polyethylene, low density (LDPE))",
+        "level": 0
+    },
+    {
+        "id": 2771,
+        "name": "Polystyrene, expandable (Polystyrene, expandable (PS-E))",
+        "level": 0
+    },
+    {
+        "id": 2781,
+        "name": "Poly(vinyl chloride), unplasticized (Poly(vinyl chloride), unplasticized (PVC-U))",
+        "level": 0
+    },
+    {
+        "id": 2782,
+        "name": "Thermoplastic elastomer, olefinic (Thermoplastic elastomer, olefinic (TPO))",
+        "level": 0
+    },
+    {
+        "id": 2783,
+        "name": "Polyimide (Polyimide (PI))",
+        "level": 0
+    },
+    {
+        "id": 2787,
+        "name": "Ethylene vinyl acetate (Ethylene vinyl acetate (EVA))",
+        "level": 0
+    },
+    {
+        "id": 2789,
+        "name": "Poly(phenylene ether) and Polystyrene (Poly(phenylene ether) and Polystyrene (PPE+PS))",
+        "level": 0
+    },
+    {
+        "id": 2790,
+        "name": "Polycarbonate (Polycarbonate (PC))",
+        "level": 0
+    },
+    {
+        "id": 2792,
+        "name": "Polyetherimide (Polyetherimide (PEI))",
+        "level": 0
+    },
+    {
+        "id": 2793,
+        "name": "Thermoplastic polyurethane elastomer (Thermoplastic polyurethane elastomer (TPU))",
+        "level": 0
+    },
+    {
+        "id": 2794,
+        "name": "Polyisocyanurate (Polyisocyanurate (PIR))",
+        "level": 0
+    },
+    {
+        "id": 2795,
+        "name": "Silicone (Silicone (SI))",
+        "level": 0
+    },
+    {
+        "id": 2796,
+        "name": "Fluorosilicone (Fluorosilicone (FMQ))",
+        "level": 0
+    },
+    {
+        "id": 2814,
+        "name": "Fluoropolymers",
+        "level": 0
+    },
+    {
+        "id": 2815,
+        "name": "Styrene-acrylonitrile (Styrene-acrylonitrile (SAN))",
+        "level": 0
+    },
+    {
+        "id": 2816,
+        "name": "Polyvinyl chloride and polyurethane (Polyvinyl chloride and polyurethane (PVC+PUR))",
+        "level": 0
+    },
+    {
+        "id": 2817,
+        "name": "Poly(ethylene terephthalate) (Poly(ethylene terephthalate) (PET))",
+        "level": 0
+    },
+    {
+        "id": 2818,
+        "name": "Poly(vinyl chloride) (Poly(vinyl chloride) (PVC))",
+        "level": 0
+    },
+    {
+        "id": 2819,
+        "name": "Poly(ether sulfone) (Poly(ether sulfone) (PESU))",
+        "level": 0
+    },
+    {
+        "id": 2836,
+        "name": "Polyethylene (Polyethylene (PE))",
+        "level": 0
+    },
+    {
+        "id": 2837,
+        "name": "Polypropylene (Polypropylene (PP))",
+        "level": 0
+    },
+    {
+        "id": 2838,
+        "name": "Polystyrene (Polystyrene (PS))",
+        "level": 0
+    },
+    {
+        "id": 2840,
+        "name": "Acrylonitrile-butadiene-styrene plastic (Acrylonitrile-butadiene-styrene plastic (ABS))",
+        "level": 0
+    },
+    {
+        "id": 3089,
+        "name": "Polyurethane (Polyurethane (PUR))",
+        "level": 0
+    },
+    {
+        "id": 3108,
+        "name": "Polymethacrylimide (Polymethacrylimide (PMI))",
+        "level": 0
+    },
+    {
+        "id": 3117,
+        "name": "Not specified (Z)",
+        "level": 0
+    },
+    {
+        "id": 3119,
+        "name": "Polypropylene, expandable (Polypropylene, expandable (PP-E))",
+        "level": 0
+    },
+    {
+        "id": 3131,
+        "name": "Polyethylene, linear low density (LLDPE)",
+        "level": 0
+    },
+    {
+        "id": 3132,
+        "name": "Polylactic acid (PLA)",
+        "level": 0
+    },
+    {
+        "id": 3138,
+        "name": "Epoxy (Epoxy (EP))",
+        "level": 0
+    },
+    {
+        "id": 3169,
+        "name": "Polyethylene, high density (Polyethylene, high density (HDPE))",
+        "level": 0
+    },
+    {
+        "id": 3205,
+        "name": "Poly(phenylene ether) and Polystyrene, high impact (Poly(phenylene ether) and Polystyrene, high impact (PPE+HIPS))",
+        "level": 0
+    },
+    {
+        "id": 3257,
+        "name": "Thermoplastic vulcanizate (Thermoplastic vulcanizate (TPV))",
+        "level": 0
+    },
+    {
+        "id": 3265,
+        "name": "Thermoplastic copolymer",
+        "level": 0
+    },
+    {
+        "id": 3266,
+        "name": "Thermoplastic",
+        "level": 0
+    },
+    {
+        "id": 3271,
+        "name": "Polyamide (Polyamide (PA))",
+        "level": 0
+    },
+    {
+        "id": 3272,
+        "name": "Polyamide 6 (Polyamide 6 (PA6))",
+        "level": 0
+    },
+    {
+        "id": 3286,
+        "name": "Poly(vinylidene fluoride) (Poly(vinylidene fluoride)(PVDF))",
+        "level": 0
+    },
+    {
+        "id": 3310,
+        "name": "Ethylene/propylene/diene monomer (Ethylene/propylene/diene monomer (EPDM))",
+        "level": 0
+    },
+    {
+        "id": 3311,
+        "name": "Chloroprene rubber (Chloroprene rubber (CR))",
+        "level": 0
+    },
+    {
+        "id": 3312,
+        "name": "Nitrile rubber (Nitrile rubber (NBR))",
+        "level": 0
+    },
+    {
+        "id": 3313,
+        "name": "Natural rubber (Natural rubber (NR))",
+        "level": 0
+    },
+    {
+        "id": 1050,
+        "name": "Plywood",
+        "level": 0
+    },
+    {
+        "id": 1067,
+        "name": "Hardboards",
+        "level": 0
+    },
+    {
+        "id": 1068,
+        "name": "Medium boards",
+        "level": 0
+    },
+    {
+        "id": 1070,
+        "name": "Softboards",
+        "level": 0
+    },
+    {
+        "id": 2073,
+        "name": "Medium-density fibreboards (MDF)",
+        "level": 0
+    },
+    {
+        "id": 1071,
+        "name": "Resin-bonded Particleboards",
+        "level": 0
+    },
+    {
+        "id": 1058,
+        "name": "Oriented strand boards (OSB/1)",
+        "level": 0
+    },
+    {
+        "id": 1059,
+        "name": "Oriented strand boards (OSB/2)",
+        "level": 0
+    },
+    {
+        "id": 1060,
+        "name": "Oriented strand boards (OSB/3)",
+        "level": 0
+    },
+    {
+        "id": 1061,
+        "name": "Oriented strand boards (OSB/4)",
+        "level": 0
+    },
+    {
+        "id": 1129,
+        "name": "Solid wood panels (SWP/1)",
+        "level": 0
+    },
+    {
+        "id": 1130,
+        "name": "Solid wood panels (SWP/2)",
+        "level": 0
+    },
+    {
+        "id": 1131,
+        "name": "Solid wood panels (SWP/3)",
+        "level": 0
+    },
+    {
+        "id": 105,
+        "name": "Oils",
+        "level": 0
+    },
+    {
+        "id": 168,
+        "name": "Paraffin Oil",
+        "level": 0
+    },
+    {
+        "id": 182,
+        "name": "Naphthenic Oils",
+        "level": 0
+    },
+    {
+        "id": 173,
+        "name": "Castor Oil",
+        "level": 0
+    },
+    {
+        "id": 129,
+        "name": "Polyalphaolefin (PAO)",
+        "level": 0
+    },
+    {
+        "id": 130,
+        "name": "Polyalkylene glycol (PAG)",
+        "level": 0
+    },
+    {
+        "id": 131,
+        "name": "Polyolester (POE)",
+        "level": 0
+    },
+    {
+        "id": 132,
+        "name": "Ester",
+        "level": 0
+    },
+    {
+        "id": 170,
+        "name": "Polyalkylene glycol and Polyolester (PAG+POE)",
+        "level": 0
+    },
+    {
+        "id": 171,
+        "name": "Propylene oxide and Ethylene oxide (PO/EO)",
+        "level": 0
+    },
+    {
+        "id": 172,
+        "name": "Propylene oxide (PO)",
+        "level": 0
+    },
+    {
+        "id": 178,
+        "name": "Low Density Polyethylene and Ethylene Vinily Acetate (LDPE+EVA)",
+        "level": 0
+    },
+    {
+        "id": 179,
+        "name": "Polyglycol",
+        "level": 0
+    },
+    {
+        "id": 180,
+        "name": "Alkylbenzene (AKB)",
+        "level": 0
+    },
+    {
+        "id": 183,
+        "name": "Aromatic Oils",
+        "level": 0
+    },
+    {
+        "id": 187,
+        "name": "Perfluoropolyether (PFPE)",
+        "level": 0
+    },
+    {
+        "id": 190,
+        "name": "Polymethylphenylsiloxane (PMPS)",
+        "level": 0
+    },
+    {
+        "id": 192,
+        "name": "Synthetic hydrocarbons",
+        "level": 0
+    },
+    {
+        "id": 194,
+        "name": "SHC/Ester",
+        "level": 0
+    },
+    {
+        "id": 199,
+        "name": "Silicon Oil",
+        "level": 0
+    },
+    {
+        "id": 200,
+        "name": "Ester/Polyalphaolefin (PAO)",
+        "level": 0
+    },
+    {
+        "id": 207,
+        "name": "Polyalkylene glycol and Ester (PAG+Ester)",
+        "level": 0
+    },
+    {
+        "id": 114,
+        "name": "Emulsions",
+        "level": 0
+    },
+    {
+        "id": 106,
+        "name": "Greases",
+        "level": 0
+    },
+    {
+        "id": 133,
+        "name": "Greases, Mineral based oils",
+        "level": 0
+    },
+    {
+        "id": 146,
+        "name": "Polyalphaolefin (PAO)",
+        "level": 0
+    },
+    {
+        "id": 149,
+        "name": "Polyalkylene glycol (PAG)",
+        "level": 0
+    },
+    {
+        "id": 150,
+        "name": "Polyolester (POE)",
+        "level": 0
+    },
+    {
+        "id": 151,
+        "name": "Ester",
+        "level": 0
+    },
+    {
+        "id": 174,
+        "name": "Perfluoropolyether (PFPE)",
+        "level": 0
+    },
+    {
+        "id": 177,
+        "name": "Polyglycol",
+        "level": 0
+    },
+    {
+        "id": 189,
+        "name": "Ester and Perfluoropolyether (Ester+PFPE)",
+        "level": 0
+    },
+    {
+        "id": 191,
+        "name": "SHC/Ester",
+        "level": 0
+    },
+    {
+        "id": 193,
+        "name": "Synthetic hydrocarbons",
+        "level": 0
+    },
+    {
+        "id": 195,
+        "name": "Polyphenylether/Ester",
+        "level": 0
+    },
+    {
+        "id": 196,
+        "name": "Polyphenylether",
+        "level": 0
+    },
+    {
+        "id": 197,
+        "name": "PAO/Ester",
+        "level": 0
+    },
+    {
+        "id": 198,
+        "name": "Silicon Oil",
+        "level": 0
+    },
+    {
+        "id": 186,
+        "name": "Pastes",
+        "level": 0
+    },
+    {
+        "id": 107,
+        "name": "Molybdenum disulphide",
+        "level": 0
+    },
+    {
+        "id": 109,
+        "name": "Graphite",
+        "level": 0
+    },
+    {
+        "id": 184,
+        "name": "Waxes",
+        "level": 0
+    },
+    {
+        "id": 119,
+        "name": "Oils",
+        "level": 0
+    },
+    {
+        "id": 169,
+        "name": "Paraffin Oil",
+        "level": 0
+    },
+    {
+        "id": 155,
+        "name": "Natural oils",
+        "level": 0
+    },
+    {
+        "id": 160,
+        "name": "Polyalphaolefin (PAO)",
+        "level": 0
+    },
+    {
+        "id": 163,
+        "name": "Ester",
+        "level": 0
+    },
+    {
+        "id": 181,
+        "name": "Ethylene glycol",
+        "level": 0
+    },
+    {
+        "id": 185,
+        "name": "Propylene glycol",
+        "level": 0
+    },
+    {
+        "id": 202,
+        "name": "SHC/Ester",
+        "level": 0
+    },
+    {
+        "id": 203,
+        "name": "Synthetic hydrocarbons",
+        "level": 0
+    },
+    {
+        "id": 201,
+        "name": "Emulsion",
+        "level": 0
+    },
+    {
+        "id": 2011,
+        "name": "Nitride-based",
+        "level": 0
+    },
+    {
+        "id": 2012,
+        "name": "Carbide-based",
+        "level": 0
+    },
+    {
+        "id": 2013,
+        "name": "Al-based",
+        "level": 0
+    },
+    {
+        "id": 2014,
+        "name": "Au-based",
+        "level": 0
+    },
+    {
+        "id": 2015,
+        "name": "Ag-based",
+        "level": 0
+    },
+    {
+        "id": 2016,
+        "name": "C-based",
+        "level": 0
+    },
+    {
+        "id": 2017,
+        "name": "Ceramic coatings",
+        "level": 0
+    },
+    {
+        "id": 2018,
+        "name": "Cu-based",
+        "level": 0
+    },
+    {
+        "id": 2019,
+        "name": "Co-based",
+        "level": 0
+    },
+    {
+        "id": 2020,
+        "name": "Cd-based",
+        "level": 0
+    },
+    {
+        "id": 2021,
+        "name": "Cr-based",
+        "level": 0
+    },
+    {
+        "id": 2022,
+        "name": "Sn-based",
+        "level": 0
+    },
+    {
+        "id": 2023,
+        "name": "Ni-based",
+        "level": 0
+    },
+    {
+        "id": 2024,
+        "name": "Phosphate-based",
+        "level": 0
+    },
+    {
+        "id": 2025,
+        "name": "Pb-based",
+        "level": 0
+    },
+    {
+        "id": 2026,
+        "name": "Pd-based",
+        "level": 0
+    },
+    {
+        "id": 2027,
+        "name": "Rh-based",
+        "level": 0
+    },
+    {
+        "id": 2028,
+        "name": "Silicones",
+        "level": 0
+    },
+    {
+        "id": 2029,
+        "name": "Ti-based",
+        "level": 0
+    },
+    {
+        "id": 2030,
+        "name": "W-based",
+        "level": 0
+    },
+    {
+        "id": 2031,
+        "name": "Zn-based",
+        "level": 0
+    },
+    {
+        "id": 2032,
+        "name": "Acrylics and acrylic copolymers",
+        "level": 0
+    },
+    {
+        "id": 2033,
+        "name": "Alkyd",
+        "level": 0
+    },
+    {
+        "id": 2034,
+        "name": "Epoxies",
+        "level": 0
+    },
+    {
+        "id": 2035,
+        "name": "Fluoropolymers",
+        "level": 0
+    },
+    {
+        "id": 2036,
+        "name": "Phenolic",
+        "level": 0
+    },
+    {
+        "id": 2037,
+        "name": "Polyaspartic",
+        "level": 0
+    },
+    {
+        "id": 2038,
+        "name": "Polyesters",
+        "level": 0
+    },
+    {
+        "id": 2039,
+        "name": "Polyurethanes",
+        "level": 0
+    },
+    {
+        "id": 2040,
+        "name": "Vinyls",
+        "level": 0
+    },
+    {
+        "id": 2003,
+        "name": "Composite coatings",
+        "level": 0
+    },
+    {
+        "id": 2004,
+        "name": "Mixed coatings",
+        "level": 0
+    },
+    {
+        "id": 2005,
+        "name": "Not specified",
+        "level": 0
+    },
+    {
+        "id": 20,
+        "name": "Structural and constructional steels",
+        "level": 0
+    },
+    {
+        "id": 21,
+        "name": "Stainless steels",
+        "level": 0
+    },
+    {
+        "id": 23,
+        "name": "Tool steels",
+        "level": 0
+    },
+    {
+        "id": 24,
+        "name": "Magnetic and electrical materials",
+        "level": 0
+    },
+    {
+        "id": 25,
+        "name": "Welding filler materials",
+        "level": 0
+    },
+    {
+        "id": 26,
+        "name": "Cast steels",
+        "level": 0
+    },
+    {
+        "id": 27,
+        "name": "Ferroalloys",
+        "level": 0
+    },
+    {
+        "id": 28,
+        "name": "Sintered powdered metals",
+        "level": 0
+    },
+    {
+        "id": 29,
+        "name": "Cast irons",
+        "level": 0
+    },
+    {
+        "id": 36,
+        "name": "Mercury",
+        "level": 0
+    },
+    {
+        "id": 37,
+        "name": "Gallium",
+        "level": 0
+    },
+    {
+        "id": 39,
+        "name": "Selenium",
+        "level": 0
+    },
+    {
+        "id": 40,
+        "name": "Thallium",
+        "level": 0
+    },
+    {
+        "id": 45,
+        "name": "Magnetic materials",
+        "level": 0
+    },
+    {
+        "id": 89,
+        "name": "Platinum Alloy",
+        "level": 0
+    },
+    {
+        "id": 47,
+        "name": "Chromium",
+        "level": 0
+    },
+    {
+        "id": 49,
+        "name": "Niobium",
+        "level": 0
+    },
+    {
+        "id": 61,
+        "name": "Aluminium",
+        "level": 0
+    },
+    {
+        "id": 43,
+        "name": "Magnetic materials",
+        "level": 0
+    },
+    {
+        "id": 85,
+        "name": "Cobalt Alloy",
+        "level": 0
+    },
+    {
+        "id": 63,
+        "name": "Copper",
+        "level": 0
+    },
+    {
+        "id": 64,
+        "name": "Lead",
+        "level": 0
+    },
+    {
+        "id": 65,
+        "name": "Magnesium",
+        "level": 0
+    },
+    {
+        "id": 44,
+        "name": "Magnetic materials",
+        "level": 0
+    },
+    {
+        "id": 86,
+        "name": "Nickel Alloy",
+        "level": 0
+    },
+    {
+        "id": 67,
+        "name": "Tin",
+        "level": 0
+    },
+    {
+        "id": 68,
+        "name": "Titanium",
+        "level": 0
+    },
+    {
+        "id": 69,
+        "name": "Tungsten",
+        "level": 0
+    },
+    {
+        "id": 70,
+        "name": "Zinc",
+        "level": 0
+    },
+    {
+        "id": 71,
+        "name": "Zirconium",
+        "level": 0
+    },
+    {
+        "id": 72,
+        "name": "Reactive and Refractory Metals (B, Nb, Hf,….)",
+        "level": 0
+    },
+    {
+        "id": 76,
+        "name": "Precious metals and alloys (Ag, Au, Pt, Pd)",
+        "level": 0
+    },
+    {
+        "id": 77,
+        "name": "Antimony",
+        "level": 0
+    },
+    {
+        "id": 78,
+        "name": "Molybdenum",
+        "level": 0
+    },
+    {
+        "id": 79,
+        "name": "Beryllium",
+        "level": 0
+    },
+    {
+        "id": 80,
+        "name": "Rare earth and similar metals (La, Ce,….)",
+        "level": 0
+    },
+    {
+        "id": 81,
+        "name": "Manganese",
+        "level": 0
+    },
+    {
+        "id": 82,
+        "name": "Cadmium",
+        "level": 0
+    },
+    {
+        "id": 84,
+        "name": "Silicon",
+        "level": 0
+    },
+    {
+        "id": 90,
+        "name": "Vanadium",
+        "level": 0
+    },
+    {
+        "id": 91,
+        "name": "Bismuth",
+        "level": 0
+    }
+]
