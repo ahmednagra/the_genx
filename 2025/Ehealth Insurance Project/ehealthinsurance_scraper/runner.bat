@@ -1,2 +1,2 @@
-scrapy crawl ehi_spider
+scrapy crawl ehealth_scraper
 pause
